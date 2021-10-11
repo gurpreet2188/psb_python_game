@@ -1,0 +1,2532 @@
+2021-03-12 16:13:34
+           d damaged ai237 and now hp is 93/100
+2021-03-12 16:13:34
+           ai237 damaged d and now hp is 94/100
+2021-03-12 16:13:35
+           d damaged ai237 and now hp is 92/100
+2021-03-12 16:13:35
+           ai626 damaged t and now hp is 91/100
+2021-03-12 16:13:35
+           w damaged ai918 and now hp is 91/100
+2021-03-12 16:13:35
+           ai237 damaged d and now hp is 90/100
+2021-03-12 16:13:36
+           t damaged ai626 and now hp is 97/100
+2021-03-12 16:13:36
+           ai626 damaged t and now hp is 87/100
+2021-03-12 16:13:36
+           t damaged ai626 and now hp is 89/100
+2021-03-12 16:13:36
+           ai918 damaged w and now hp is 91/100
+2021-03-12 16:13:37
+           w damaged ai918 and now hp is 82/100
+2021-03-12 16:13:37
+           ai918 damaged w and now hp is 83/100
+2021-03-12 16:13:37
+           d damaged ai237 and now hp is 87/100
+2021-03-12 16:13:37
+           ai918 damaged w and now hp is 72/100
+2021-03-12 16:13:38
+           d damaged ai237 and now hp is 82/100
+2021-03-12 16:13:38
+           ai626 damaged t and now hp is 83/100
+2021-03-12 17:29:02
+           w damaged ai976 and now hp is 96/100
+2021-03-12 17:29:02
+           ai649 damaged ff and now hp is 94/100
+2021-03-12 17:29:03
+           dddd damaged ai198 and now hp is 95/100
+2021-03-12 17:29:03
+           ai198 damaged dddd and now hp is 95/100
+2021-03-12 17:29:04
+           ff damaged ai649 and now hp is 94/100
+2021-03-12 17:29:04
+           ai198 damaged dddd and now hp is 92/100
+2021-03-12 17:29:05
+           ff damaged ai649 and now hp is 88/100
+2021-03-12 17:29:05
+           ai198 damaged dddd and now hp is 87/100
+2021-03-12 17:29:06
+           dddd damaged ai198 and now hp is 90/100
+2021-03-12 17:29:06
+           ai976 damaged w and now hp is 92/100
+2021-03-12 17:29:06
+           w damaged ai976 and now hp is 89/100
+2021-03-12 17:29:06
+           ai976 damaged w and now hp is 83/100
+2021-03-12 17:29:07
+           w damaged ai976 and now hp is 78/100
+2021-03-12 17:29:07
+           ai976 damaged w and now hp is 74/100
+2021-03-12 17:29:08
+           dddd damaged ai198 and now hp is 84/100
+2021-03-12 17:29:08
+           ai198 damaged dddd and now hp is 83/100
+2021-03-12 17:29:09
+           ff damaged ai649 and now hp is 83/100
+2021-03-12 17:29:09
+           ai976 damaged w and now hp is 64/100
+2021-03-12 17:29:10
+           w damaged ai976 and now hp is 74/100
+2021-03-12 17:29:10
+           ai649 damaged ff and now hp is 88/100
+2021-03-12 17:29:12
+           dddd damaged ai198 and now hp is 79/100
+2021-03-12 17:29:12
+           ai649 damaged ff and now hp is 82/100
+2021-03-12 17:29:12
+           ff damaged ai649 and now hp is 76/100
+2021-03-12 17:29:12
+           ai976 damaged w and now hp is 57/100
+2021-03-12 17:29:14
+           w damaged ai976 and now hp is 70/100
+2021-03-12 17:29:14
+           ai976 damaged w and now hp is 49/100
+2021-03-12 17:29:15
+           w damaged ai976 and now hp is 63/100
+2021-03-12 17:29:15
+           ai649 damaged ff and now hp is 78/100
+2021-03-12 17:29:17
+           w damaged ai976 and now hp is 56/100
+2021-03-12 17:29:17
+           ai649 damaged ff and now hp is 74/100
+2021-03-12 17:29:17
+           w damaged ai976 and now hp is 50/100
+2021-03-12 17:29:17
+           ai649 damaged ff and now hp is 70/100
+2021-03-12 17:29:17
+           w damaged ai976 and now hp is 46/100
+2021-03-12 17:29:17
+           ai649 damaged ff and now hp is 67/100
+2021-03-12 17:29:18
+           w damaged ai976 and now hp is 41/100
+2021-03-12 17:29:18
+           ai198 damaged dddd and now hp is 78/100
+2021-03-12 17:29:18
+           w damaged ai976 and now hp is 36/100
+2021-03-12 17:29:18
+           ai649 damaged ff and now hp is 63/100
+2021-03-12 17:29:18
+           w damaged ai976 and now hp is 32/100
+2021-03-12 17:29:18
+           ai649 damaged ff and now hp is 60/100
+2021-03-12 17:29:19
+           w damaged ai976 and now hp is 25/100
+2021-03-12 17:29:19
+           ai198 damaged dddd and now hp is 72/100
+2021-03-12 17:29:19
+           w damaged ai976 and now hp is 22/100
+2021-03-12 17:29:19
+           ai649 damaged ff and now hp is 56/100
+2021-03-12 17:29:20
+           w damaged ai976 and now hp is 16/100
+2021-03-12 17:29:20
+           ai649 damaged ff and now hp is 52/100
+2021-03-12 17:29:20
+           w damaged ai976 and now hp is 9/100
+2021-03-12 17:29:20
+           ai649 damaged ff and now hp is 47/100
+2021-03-12 17:29:20
+           w damaged ai976 and now hp is 2/100
+2021-03-12 17:29:20
+           ai649 damaged ff and now hp is 44/100
+2021-03-12 17:29:21
+           w damaged ai976 and now hp is -1/100
+2021-03-12 17:29:21
+           ai649 damaged ff and now hp is 40/100
+2021-03-12 17:29:25
+           dddd damaged ai198 and now hp is 71/100
+2021-03-12 17:29:25
+           ai649 damaged ff and now hp is 37/100
+2021-03-12 17:29:25
+           dddd damaged ai198 and now hp is 62/100
+2021-03-12 17:29:25
+           ai649 damaged ff and now hp is 30/100
+2021-03-12 17:29:26
+           dddd damaged ai198 and now hp is 56/100
+2021-03-12 17:29:26
+           ai198 damaged dddd and now hp is 65/100
+2021-03-12 17:29:27
+           dddd damaged ai198 and now hp is 53/100
+2021-03-12 17:29:27
+           ai649 damaged ff and now hp is 26/100
+2021-03-12 17:29:28
+           dddd damaged ai198 and now hp is 47/100
+2021-03-12 17:29:28
+           ai198 damaged dddd and now hp is 62/100
+2021-03-12 17:29:29
+           dddd damaged ai198 and now hp is 41/100
+2021-03-12 17:29:29
+           ai649 damaged ff and now hp is 19/100
+2021-03-12 17:29:30
+           dddd damaged ai198 and now hp is 37/100
+2021-03-12 17:29:30
+           ai198 damaged dddd and now hp is 59/100
+2021-03-12 17:29:31
+           dddd damaged ai198 and now hp is 28/100
+2021-03-12 17:29:31
+           ai198 damaged dddd and now hp is 52/100
+2021-03-12 17:29:32
+           dddd damaged ai198 and now hp is 24/100
+2021-03-12 17:29:32
+           ai649 damaged ff and now hp is 14/100
+2021-03-12 17:29:32
+           dddd damaged ai198 and now hp is 17/100
+2021-03-12 17:29:32
+           ai649 damaged ff and now hp is 11/100
+2021-03-12 17:29:33
+           dddd damaged ai198 and now hp is 13/100
+2021-03-12 17:29:33
+           ai649 damaged ff and now hp is 8/100
+2021-03-12 17:29:34
+           dddd damaged ai198 and now hp is 12/100
+2021-03-12 17:29:34
+           ai198 damaged dddd and now hp is 46/100
+2021-03-12 17:29:35
+           dddd damaged ai198 and now hp is 3/100
+2021-03-12 17:29:35
+           ai649 damaged ff and now hp is 5/100
+2021-03-12 17:29:36
+           dddd damaged ai198 and now hp is 1/100
+2021-03-12 17:29:36
+           ai649 damaged ff and now hp is 2/100
+2021-03-12 17:29:38
+           ff damaged ai649 and now hp is 72/100
+2021-03-12 17:29:38
+           ai649 damaged ff and now hp is -5/100
+2021-03-12 17:29:40
+           ff damaged ai649 and now hp is 65/100
+2021-03-12 17:29:40
+           ai198 damaged dddd and now hp is 39/100
+2021-03-12 17:29:41
+           ff damaged ai649 and now hp is 59/100
+2021-03-12 17:29:41
+           ai198 damaged dddd and now hp is 34/100
+2021-03-12 17:29:42
+           ff damaged ai649 and now hp is 58/100
+2021-03-12 17:29:42
+           ai198 damaged dddd and now hp is 29/100
+2021-03-12 17:29:43
+           ff damaged ai649 and now hp is 55/100
+2021-03-12 17:29:43
+           ai198 damaged dddd and now hp is 25/100
+2021-03-12 17:29:44
+           ff damaged ai649 and now hp is 54/100
+2021-03-12 17:29:44
+           ai198 damaged dddd and now hp is 22/100
+2021-03-12 17:29:45
+           ff damaged ai649 and now hp is 52/100
+2021-03-12 17:29:45
+           ai198 damaged dddd and now hp is 17/100
+2021-03-12 17:29:47
+           ff damaged ai649 and now hp is 47/100
+2021-03-12 17:29:47
+           ai198 damaged dddd and now hp is 10/100
+2021-03-12 17:29:48
+           ff damaged ai649 and now hp is 45/100
+2021-03-12 17:29:48
+           ai198 damaged dddd and now hp is 3/100
+2021-03-12 17:29:49
+           ff damaged ai649 and now hp is 39/100
+2021-03-12 17:29:49
+           ai198 damaged dddd and now hp is -4/100
+2021-03-12 17:29:50
+           ff damaged ai649 and now hp is 31/100
+2021-03-12 17:29:50
+           ai976 damaged w and now hp is 36/100
+2021-03-12 17:29:51
+           ff damaged ai649 and now hp is 23/100
+2021-03-12 17:29:51
+           ai976 damaged w and now hp is 29/100
+2021-03-12 17:29:52
+           ff damaged ai649 and now hp is 15/100
+2021-03-12 17:29:52
+           ai976 damaged w and now hp is 22/100
+2021-03-12 17:29:52
+           ff damaged ai649 and now hp is 6/100
+2021-03-12 17:29:52
+           ai976 damaged w and now hp is 12/100
+2021-03-12 17:29:53
+           ff damaged ai649 and now hp is 5/100
+2021-03-12 17:29:53
+           ai976 damaged w and now hp is 5/100
+2021-03-12 17:29:54
+           ff damaged ai649 and now hp is -1/100
+2021-03-12 17:29:54
+           ai976 damaged w and now hp is -4/100
+2021-03-12 17:30:12
+           dddd damaged ai198 and now hp is -7/100
+2021-03-12 17:39:02
+           t damaged ai234 and now hp is 97/100
+2021-03-12 17:39:02
+           ai234 damaged t and now hp is 95/100
+2021-03-12 17:39:03
+           w damaged ai940 and now hp is 94/100
+2021-03-12 17:39:03
+           ai671 damaged d and now hp is 97/100
+2021-03-12 17:39:04
+           d damaged ai671 and now hp is 96/100
+2021-03-12 17:39:04
+           ai940 damaged w and now hp is 93/100
+2021-03-12 17:39:05
+           d damaged ai671 and now hp is 94/100
+2021-03-12 17:39:05
+           ai671 damaged d and now hp is 90/100
+2021-03-12 17:39:06
+           w damaged ai940 and now hp is 87/100
+2021-03-12 17:39:06
+           ai940 damaged w and now hp is 82/100
+2021-03-12 17:39:07
+           w damaged ai940 and now hp is 77/100
+2021-03-12 17:39:07
+           ai234 damaged t and now hp is 93/100
+2021-03-12 17:39:08
+           t damaged ai234 and now hp is 90/100
+2021-03-12 17:39:08
+           ai234 damaged t and now hp is 86/100
+2021-03-12 17:39:09
+           t damaged ai234 and now hp is 85/100
+2021-03-12 17:39:09
+           ai234 damaged t and now hp is 81/100
+2021-03-12 17:39:10
+           w damaged ai940 and now hp is 68/100
+2021-03-12 17:39:10
+           ai234 damaged t and now hp is 78/100
+2021-03-12 17:39:11
+           d damaged ai671 and now hp is 87/100
+2021-03-12 17:39:11
+           ai671 damaged d and now hp is 85/100
+2021-03-12 17:39:12
+           d damaged ai671 and now hp is 80/100
+2021-03-12 17:39:12
+           ai234 damaged t and now hp is 71/100
+2021-03-12 17:39:13
+           w damaged ai940 and now hp is 55/100
+2021-03-12 17:39:13
+           ai234 damaged t and now hp is 66/100
+2021-03-12 17:39:14
+           t damaged ai234 and now hp is 80/100
+2021-03-12 17:39:14
+           ai234 damaged t and now hp is 57/100
+2021-03-12 17:39:15
+           w damaged ai940 and now hp is 48/100
+2021-03-12 17:39:15
+           ai234 damaged t and now hp is 49/100
+2021-03-12 17:39:16
+           t damaged ai234 and now hp is 69/100
+2021-03-12 17:39:16
+           ai671 damaged d and now hp is 79/100
+2021-03-12 17:39:17
+           t damaged ai234 and now hp is 62/100
+2021-03-12 17:39:17
+           ai940 damaged w and now hp is 73/100
+2021-03-12 17:39:18
+           w damaged ai940 and now hp is 39/100
+2021-03-12 17:39:18
+           ai671 damaged d and now hp is 76/100
+2021-03-12 17:39:20
+           w damaged ai940 and now hp is 34/100
+2021-03-12 17:39:20
+           ai671 damaged d and now hp is 69/100
+2021-03-12 17:39:21
+           d damaged ai671 and now hp is 73/100
+2021-03-12 17:39:21
+           ai671 damaged d and now hp is 65/100
+2021-03-12 17:39:23
+           d damaged ai671 and now hp is 71/100
+2021-03-12 17:39:23
+           ai940 damaged w and now hp is 65/100
+2021-03-12 17:39:26
+           w damaged ai940 and now hp is 22/100
+2021-03-12 17:39:26
+           ai671 damaged d and now hp is 61/100
+2021-03-12 17:39:26
+           w damaged ai940 and now hp is 11/100
+2021-03-12 17:39:26
+           ai671 damaged d and now hp is 55/100
+2021-03-12 17:39:28
+           w damaged ai940 and now hp is 1/100
+2021-03-12 17:39:28
+           ai671 damaged d and now hp is 50/100
+2021-03-12 17:39:30
+           w damaged ai940 and now hp is -12/100
+2021-03-12 17:39:30
+           ai671 damaged d and now hp is 46/100
+2021-03-12 17:39:32
+           t damaged ai234 and now hp is 57/100
+2021-03-12 17:39:32
+           ai671 damaged d and now hp is 40/100
+2021-03-12 17:39:33
+           t damaged ai234 and now hp is 48/100
+2021-03-12 17:39:33
+           ai671 damaged d and now hp is 33/100
+2021-03-12 17:39:35
+           t damaged ai234 and now hp is 41/100
+2021-03-12 17:39:35
+           ai671 damaged d and now hp is 30/100
+2021-03-12 17:39:35
+           t damaged ai234 and now hp is 39/100
+2021-03-12 17:39:35
+           ai940 damaged w and now hp is 53/100
+2021-03-12 17:39:36
+           t damaged ai234 and now hp is 30/100
+2021-03-12 17:39:36
+           ai671 damaged d and now hp is 27/100
+2021-03-12 17:39:37
+           t damaged ai234 and now hp is 28/100
+2021-03-12 17:39:37
+           ai671 damaged d and now hp is 24/100
+2021-03-12 17:39:38
+           t damaged ai234 and now hp is 26/100
+2021-03-12 17:39:38
+           ai671 damaged d and now hp is 19/100
+2021-03-12 17:39:39
+           t damaged ai234 and now hp is 17/100
+2021-03-12 17:39:39
+           ai940 damaged w and now hp is 40/100
+2021-03-12 17:39:40
+           t damaged ai234 and now hp is 12/100
+2021-03-12 17:39:40
+           ai671 damaged d and now hp is 15/100
+2021-03-12 17:39:41
+           t damaged ai234 and now hp is 9/100
+2021-03-12 17:39:41
+           ai671 damaged d and now hp is 12/100
+2021-03-12 17:39:43
+           t damaged ai234 and now hp is 3/100
+2021-03-12 17:39:43
+           ai671 damaged d and now hp is 8/100
+2021-03-12 17:39:44
+           t damaged ai234 and now hp is -1/100
+2021-03-12 17:39:44
+           ai671 damaged d and now hp is 3/100
+2021-03-12 17:39:58
+           d damaged ai671 and now hp is 68/100
+2021-03-12 17:39:58
+           ai671 damaged d and now hp is 0/100
+2021-03-12 17:39:59
+           d damaged ai671 and now hp is 64/100
+2021-03-12 17:39:59
+           ai671 damaged d and now hp is -6/100
+2021-03-12 17:40:01
+           d damaged ai671 and now hp is 58/100
+2021-03-12 17:40:01
+           ai940 damaged w and now hp is 26/100
+2021-03-12 17:40:02
+           d damaged ai671 and now hp is 51/100
+2021-03-12 17:40:02
+           ai940 damaged w and now hp is 16/100
+2021-03-12 17:40:03
+           d damaged ai671 and now hp is 44/100
+2021-03-12 17:40:03
+           ai940 damaged w and now hp is 2/100
+2021-03-12 17:40:06
+           d damaged ai671 and now hp is 40/100
+2021-03-12 17:40:06
+           ai940 damaged w and now hp is -6/100
+2021-03-12 17:40:07
+           d damaged ai671 and now hp is 37/100
+2021-03-12 17:40:07
+           ai234 damaged t and now hp is 41/100
+2021-03-12 17:40:10
+           d damaged ai671 and now hp is 31/100
+2021-03-12 17:40:10
+           ai234 damaged t and now hp is 32/100
+2021-03-12 17:40:10
+           d damaged ai671 and now hp is 23/100
+2021-03-12 17:40:10
+           ai234 damaged t and now hp is 24/100
+2021-03-12 17:40:12
+           d damaged ai671 and now hp is 18/100
+2021-03-12 17:40:12
+           ai234 damaged t and now hp is 20/100
+2021-03-12 17:40:13
+           d damaged ai671 and now hp is 9/100
+2021-03-12 17:40:13
+           ai234 damaged t and now hp is 10/100
+2021-03-12 17:40:15
+           d damaged ai671 and now hp is 6/100
+2021-03-12 17:40:15
+           ai234 damaged t and now hp is 8/100
+2021-03-12 17:40:16
+           d damaged ai671 and now hp is 4/100
+2021-03-12 17:40:16
+           ai234 damaged t and now hp is 3/100
+2021-03-12 17:40:17
+           d damaged ai671 and now hp is 0/100
+2021-03-12 17:40:17
+           ai234 damaged t and now hp is -3/100
+2021-03-12 17:42:17
+           d damaged ai291 and now hp is 94/100
+2021-03-12 17:42:17
+           ai910 damaged w and now hp is 91/100
+2021-03-12 17:42:18
+           w damaged ai910 and now hp is 97/100
+2021-03-12 17:42:18
+           ai910 damaged w and now hp is 84/100
+2021-03-12 17:42:19
+           t damaged ai757 and now hp is 98/100
+2021-03-12 17:42:19
+           ai757 damaged t and now hp is 98/100
+2021-03-12 17:42:21
+           d damaged ai291 and now hp is 86/100
+2021-03-12 17:42:21
+           ai291 damaged d and now hp is 93/100
+2021-03-12 17:42:22
+           w damaged ai910 and now hp is 83/100
+2021-03-12 17:42:22
+           ai757 damaged t and now hp is 93/100
+2021-03-12 17:42:23
+           t damaged ai757 and now hp is 91/100
+2021-03-12 17:42:23
+           ai910 damaged w and now hp is 72/100
+2021-03-12 17:42:24
+           t damaged ai757 and now hp is 86/100
+2021-03-12 17:42:24
+           ai291 damaged d and now hp is 87/100
+2021-03-12 17:42:26
+           w damaged ai910 and now hp is 69/100
+2021-03-12 17:42:26
+           ai910 damaged w and now hp is 62/100
+2021-03-12 17:42:26
+           d damaged ai291 and now hp is 83/100
+2021-03-12 17:42:26
+           ai757 damaged t and now hp is 88/100
+2021-03-12 17:42:27
+           w damaged ai910 and now hp is 58/100
+2021-03-12 17:42:27
+           ai910 damaged w and now hp is 53/100
+2021-03-12 17:42:28
+           t damaged ai757 and now hp is 83/100
+2021-03-12 17:42:28
+           ai757 damaged t and now hp is 86/100
+2021-03-12 17:42:29
+           w damaged ai910 and now hp is 44/100
+2021-03-12 17:42:29
+           ai757 damaged t and now hp is 79/100
+2021-03-12 17:42:30
+           d damaged ai291 and now hp is 75/100
+2021-03-12 17:42:30
+           ai757 damaged t and now hp is 75/100
+2021-03-12 17:42:31
+           w damaged ai910 and now hp is 34/100
+2021-03-12 17:42:31
+           ai757 damaged t and now hp is 65/100
+2021-03-12 17:42:32
+           t damaged ai757 and now hp is 73/100
+2021-03-12 17:42:32
+           ai910 damaged w and now hp is 44/100
+2021-03-12 17:42:34
+           w damaged ai910 and now hp is 23/100
+2021-03-12 17:42:34
+           ai757 damaged t and now hp is 60/100
+2021-03-12 17:42:35
+           w damaged ai910 and now hp is 16/100
+2021-03-12 17:42:35
+           ai757 damaged t and now hp is 52/100
+2021-03-12 17:42:36
+           w damaged ai910 and now hp is 9/100
+2021-03-12 17:42:36
+           ai757 damaged t and now hp is 48/100
+2021-03-12 17:42:36
+           w damaged ai910 and now hp is 0/100
+2021-03-12 17:42:36
+           ai291 damaged d and now hp is 83/100
+2021-03-12 17:42:40
+           t damaged ai757 and now hp is 71/100
+2021-03-12 17:42:40
+           ai291 damaged d and now hp is 77/100
+2021-03-12 17:42:40
+           t damaged ai757 and now hp is 63/100
+2021-03-12 17:42:40
+           ai291 damaged d and now hp is 73/100
+2021-03-12 17:42:41
+           t damaged ai757 and now hp is 60/100
+2021-03-12 17:42:41
+           ai291 damaged d and now hp is 70/100
+2021-03-12 17:42:42
+           t damaged ai757 and now hp is 53/100
+2021-03-12 17:42:42
+           ai291 damaged d and now hp is 65/100
+2021-03-12 17:42:42
+           t damaged ai757 and now hp is 47/100
+2021-03-12 17:42:42
+           ai291 damaged d and now hp is 59/100
+2021-03-12 17:42:43
+           t damaged ai757 and now hp is 37/100
+2021-03-12 17:42:43
+           ai291 damaged d and now hp is 54/100
+2021-03-12 17:42:43
+           t damaged ai757 and now hp is 32/100
+2021-03-12 17:42:43
+           ai291 damaged d and now hp is 49/100
+2021-03-12 17:42:44
+           t damaged ai757 and now hp is 22/100
+2021-03-12 17:42:44
+           ai291 damaged d and now hp is 43/100
+2021-03-12 17:42:45
+           t damaged ai757 and now hp is 19/100
+2021-03-12 17:42:45
+           ai291 damaged d and now hp is 36/100
+2021-03-12 17:42:45
+           t damaged ai757 and now hp is 16/100
+2021-03-12 17:42:45
+           ai291 damaged d and now hp is 33/100
+2021-03-12 17:42:46
+           t damaged ai757 and now hp is 8/100
+2021-03-12 17:42:46
+           ai291 damaged d and now hp is 28/100
+2021-03-12 17:42:47
+           t damaged ai757 and now hp is -2/100
+2021-03-12 17:42:47
+           ai291 damaged d and now hp is 21/100
+2021-03-12 17:42:49
+           d damaged ai291 and now hp is 71/100
+2021-03-12 17:42:49
+           ai291 damaged d and now hp is 14/100
+2021-03-12 17:42:49
+           d damaged ai291 and now hp is 63/100
+2021-03-12 17:42:49
+           ai291 damaged d and now hp is 7/100
+2021-03-12 17:42:50
+           d damaged ai291 and now hp is 59/100
+2021-03-12 17:42:50
+           ai291 damaged d and now hp is 3/100
+2021-03-12 17:42:51
+           d damaged ai291 and now hp is 54/100
+2021-03-12 17:42:51
+           ai291 damaged d and now hp is -3/100
+2021-03-12 17:42:51
+           d damaged ai291 and now hp is 45/100
+2021-03-12 17:42:51
+           ai291 damaged d and now hp is -6/100
+2021-03-12 17:42:52
+           d damaged ai291 and now hp is 36/100
+2021-03-12 17:42:52
+           ai291 damaged d and now hp is -11/100
+2021-03-12 17:42:53
+           d damaged ai291 and now hp is 32/100
+2021-03-12 17:42:53
+           ai291 damaged d and now hp is -15/100
+2021-03-12 17:42:54
+           d damaged ai291 and now hp is 23/100
+2021-03-12 17:42:54
+           ai291 damaged d and now hp is -22/100
+2021-03-12 17:42:56
+           d damaged ai291 and now hp is 14/100
+2021-03-12 17:42:56
+           ai291 damaged d and now hp is -25/100
+2021-03-12 17:42:58
+           d damaged ai291 and now hp is 7/100
+2021-03-12 17:42:58
+           ai291 damaged d and now hp is -32/100
+2021-03-12 17:42:59
+           d damaged ai291 and now hp is -1/100
+2021-03-12 17:42:59
+           ai291 damaged d and now hp is -39/100
+2021-03-12 17:45:45
+           d damaged ai328 and now hp is 97/100
+2021-03-12 17:45:45
+           ai584 damaged t and now hp is 96/100
+2021-03-12 17:45:46
+           w damaged ai967 and now hp is 97/100
+2021-03-12 17:45:46
+           ai967 damaged w and now hp is 91/100
+2021-03-12 17:45:48
+           t damaged ai584 and now hp is 91/100
+2021-03-12 17:45:48
+           ai967 damaged w and now hp is 78/100
+2021-03-12 17:45:49
+           w damaged ai967 and now hp is 87/100
+2021-03-12 17:45:49
+           ai584 damaged t and now hp is 86/100
+2021-03-12 17:45:50
+           d damaged ai328 and now hp is 92/100
+2021-03-12 17:45:50
+           ai328 damaged d and now hp is 96/100
+2021-03-12 17:45:50
+           t damaged ai584 and now hp is 81/100
+2021-03-12 17:45:50
+           ai584 damaged t and now hp is 80/100
+2021-03-12 17:45:51
+           t damaged ai584 and now hp is 72/100
+2021-03-12 17:45:51
+           ai584 damaged t and now hp is 78/100
+2021-03-12 17:45:52
+           w damaged ai967 and now hp is 75/100
+2021-03-12 17:45:52
+           ai584 damaged t and now hp is 70/100
+2021-03-12 17:45:52
+           d damaged ai328 and now hp is 90/100
+2021-03-12 17:45:52
+           ai967 damaged w and now hp is 69/100
+2021-03-12 17:45:53
+           d damaged ai328 and now hp is 83/100
+2021-03-12 17:45:53
+           ai584 damaged t and now hp is 60/100
+2021-03-12 17:45:54
+           w damaged ai967 and now hp is 61/100
+2021-03-12 17:45:54
+           ai584 damaged t and now hp is 55/100
+2021-03-12 17:45:55
+           t damaged ai584 and now hp is 61/100
+2021-03-12 17:45:55
+           ai328 damaged d and now hp is 92/100
+2021-03-12 17:45:56
+           t damaged ai584 and now hp is 58/100
+2021-03-12 17:45:56
+           ai967 damaged w and now hp is 55/100
+2021-03-12 17:45:56
+           w damaged ai967 and now hp is 58/100
+2021-03-12 17:45:56
+           ai967 damaged w and now hp is 48/100
+2021-03-12 17:45:57
+           d damaged ai328 and now hp is 78/100
+2021-03-12 17:45:57
+           ai328 damaged d and now hp is 85/100
+2021-03-12 17:45:59
+           w damaged ai967 and now hp is 50/100
+2021-03-12 17:45:59
+           ai584 damaged t and now hp is 52/100
+2021-03-12 17:45:59
+           w damaged ai967 and now hp is 41/100
+2021-03-12 17:45:59
+           ai584 damaged t and now hp is 50/100
+2021-03-12 17:45:59
+           w damaged ai967 and now hp is 32/100
+2021-03-12 17:45:59
+           ai584 damaged t and now hp is 43/100
+2021-03-12 17:46:00
+           w damaged ai967 and now hp is 18/100
+2021-03-12 17:46:00
+           ai328 damaged d and now hp is 78/100
+2021-03-12 17:46:00
+           w damaged ai967 and now hp is 10/100
+2021-03-12 17:46:00
+           ai328 damaged d and now hp is 73/100
+2021-03-12 17:46:00
+           w damaged ai967 and now hp is -3/100
+2021-03-12 17:46:00
+           ai328 damaged d and now hp is 67/100
+2021-03-12 17:46:03
+           t damaged ai584 and now hp is 48/100
+2021-03-12 17:46:03
+           ai328 damaged d and now hp is 61/100
+2021-03-12 17:46:03
+           t damaged ai584 and now hp is 41/100
+2021-03-12 17:46:03
+           ai328 damaged d and now hp is 57/100
+2021-03-12 17:46:03
+           t damaged ai584 and now hp is 38/100
+2021-03-12 17:46:03
+           ai328 damaged d and now hp is 51/100
+2021-03-12 17:46:03
+           t damaged ai584 and now hp is 29/100
+2021-03-12 17:46:03
+           ai328 damaged d and now hp is 48/100
+2021-03-12 17:46:04
+           t damaged ai584 and now hp is 19/100
+2021-03-12 17:46:04
+           ai328 damaged d and now hp is 44/100
+2021-03-12 17:46:04
+           t damaged ai584 and now hp is 17/100
+2021-03-12 17:46:04
+           ai328 damaged d and now hp is 40/100
+2021-03-12 17:46:05
+           t damaged ai584 and now hp is 10/100
+2021-03-12 17:46:05
+           ai328 damaged d and now hp is 33/100
+2021-03-12 17:46:05
+           t damaged ai584 and now hp is 0/100
+2021-03-12 17:46:05
+           ai328 damaged d and now hp is 26/100
+2021-03-12 17:46:08
+           d damaged ai328 and now hp is 69/100
+2021-03-12 17:46:08
+           ai328 damaged d and now hp is 20/100
+2021-03-12 17:46:08
+           d damaged ai328 and now hp is 62/100
+2021-03-12 17:46:08
+           ai328 damaged d and now hp is 15/100
+2021-03-12 17:46:09
+           d damaged ai328 and now hp is 56/100
+2021-03-12 17:46:09
+           ai328 damaged d and now hp is 9/100
+2021-03-12 17:46:09
+           d damaged ai328 and now hp is 55/100
+2021-03-12 17:46:09
+           ai328 damaged d and now hp is 3/100
+2021-03-12 17:46:10
+           d damaged ai328 and now hp is 50/100
+2021-03-12 17:46:10
+           ai328 damaged d and now hp is 0/100
+2021-03-12 17:46:10
+           d damaged ai328 and now hp is 48/100
+2021-03-12 17:46:10
+           ai328 damaged d and now hp is -5/100
+2021-03-12 17:46:12
+           d damaged ai328 and now hp is 41/100
+2021-03-12 17:46:12
+           ai967 damaged w and now hp is 34/100
+2021-03-12 17:46:12
+           d damaged ai328 and now hp is 36/100
+2021-03-12 17:46:12
+           ai967 damaged w and now hp is 27/100
+2021-03-12 17:46:13
+           d damaged ai328 and now hp is 33/100
+2021-03-12 17:46:13
+           ai967 damaged w and now hp is 13/100
+2021-03-12 17:46:14
+           d damaged ai328 and now hp is 30/100
+2021-03-12 17:46:14
+           ai967 damaged w and now hp is -1/100
+2021-03-12 17:46:14
+           d damaged ai328 and now hp is 23/100
+2021-03-12 17:46:14
+           ai584 damaged t and now hp is 37/100
+2021-03-12 17:46:14
+           d damaged ai328 and now hp is 17/100
+2021-03-12 17:46:14
+           ai584 damaged t and now hp is 27/100
+2021-03-12 17:46:16
+           d damaged ai328 and now hp is 13/100
+2021-03-12 17:46:16
+           ai584 damaged t and now hp is 18/100
+2021-03-12 17:46:16
+           d damaged ai328 and now hp is 9/100
+2021-03-12 17:46:16
+           ai584 damaged t and now hp is 12/100
+2021-03-12 17:46:17
+           d damaged ai328 and now hp is 0/100
+2021-03-12 17:46:17
+           ai584 damaged t and now hp is 4/100
+2021-03-12 17:51:10
+           d damaged ai222 and now hp is 96/100
+2021-03-12 17:51:10
+           ai222 damaged d and now hp is 95/100
+2021-03-12 17:51:11
+           w damaged ai965 and now hp is 95/100
+2021-03-12 17:51:11
+           ai574 damaged t and now hp is 98/100
+2021-03-12 17:51:12
+           t damaged ai574 and now hp is 94/100
+2021-03-12 17:51:12
+           ai574 damaged t and now hp is 94/100
+2021-03-12 17:51:13
+           d damaged ai222 and now hp is 93/100
+2021-03-12 17:51:13
+           ai574 damaged t and now hp is 90/100
+2021-03-12 17:51:13
+           w damaged ai965 and now hp is 81/100
+2021-03-12 17:51:13
+           ai574 damaged t and now hp is 88/100
+2021-03-12 17:51:14
+           t damaged ai574 and now hp is 82/100
+2021-03-12 17:51:14
+           ai222 damaged d and now hp is 90/100
+2021-03-12 17:51:16
+           d damaged ai222 and now hp is 84/100
+2021-03-12 17:51:16
+           ai574 damaged t and now hp is 85/100
+2021-03-12 17:51:16
+           w damaged ai965 and now hp is 72/100
+2021-03-12 17:51:16
+           ai965 damaged w and now hp is 90/100
+2021-03-12 17:52:46
+           w damaged ai934 and now hp is 95/100
+2021-03-12 17:52:46
+           ai934 damaged w and now hp is 87/100
+2021-03-12 17:52:47
+           w damaged ai934 and now hp is 82/100
+2021-03-12 17:52:47
+           ai588 damaged t and now hp is 90/100
+2021-03-12 17:52:49
+           d damaged ai318 and now hp is 91/100
+2021-03-12 17:52:49
+           ai588 damaged t and now hp is 81/100
+2021-03-12 17:52:57
+           t damaged ai588 and now hp is 96/100
+2021-03-12 17:52:57
+           ai588 damaged t and now hp is 76/100
+2021-03-12 17:52:59
+           d damaged ai318 and now hp is 85/100
+2021-03-12 17:52:59
+           ai318 damaged d and now hp is 95/100
+2021-03-12 17:53:00
+           d damaged ai318 and now hp is 79/100
+2021-03-12 17:53:00
+           ai934 damaged w and now hp is 76/100
+2021-03-12 17:53:03
+           d damaged ai318 and now hp is 75/100
+2021-03-12 17:53:03
+           ai318 damaged d and now hp is 89/100
+2021-03-12 17:53:07
+           d damaged ai318 and now hp is 72/100
+2021-03-12 17:53:07
+           ai318 damaged d and now hp is 85/100
+2021-03-12 17:53:09
+           w damaged ai934 and now hp is 68/100
+2021-03-12 17:53:09
+           ai318 damaged d and now hp is 78/100
+2021-03-12 17:53:10
+           t damaged ai588 and now hp is 89/100
+2021-03-12 17:53:10
+           ai588 damaged t and now hp is 70/100
+2021-03-12 17:53:12
+           w damaged ai934 and now hp is 54/100
+2021-03-12 17:53:12
+           ai588 damaged t and now hp is 65/100
+2021-03-12 17:53:13
+           d damaged ai318 and now hp is 69/100
+2021-03-12 17:53:13
+           ai588 damaged t and now hp is 62/100
+2021-03-12 17:53:16
+           d damaged ai318 and now hp is 65/100
+2021-03-12 17:53:16
+           ai934 damaged w and now hp is 69/100
+2021-03-12 17:53:16
+           d damaged ai318 and now hp is 59/100
+2021-03-12 17:53:16
+           ai934 damaged w and now hp is 61/100
+2021-03-12 17:53:17
+           d damaged ai318 and now hp is 56/100
+2021-03-12 17:53:17
+           ai588 damaged t and now hp is 52/100
+2021-03-12 17:53:17
+           d damaged ai318 and now hp is 51/100
+2021-03-12 17:53:17
+           ai934 damaged w and now hp is 51/100
+2021-03-12 17:53:17
+           d damaged ai318 and now hp is 48/100
+2021-03-12 17:53:17
+           ai934 damaged w and now hp is 38/100
+2021-03-12 17:53:18
+           d damaged ai318 and now hp is 41/100
+2021-03-12 17:53:18
+           ai318 damaged d and now hp is 75/100
+2021-03-12 17:53:18
+           d damaged ai318 and now hp is 40/100
+2021-03-12 17:53:18
+           ai318 damaged d and now hp is 69/100
+2021-03-12 17:53:18
+           d damaged ai318 and now hp is 39/100
+2021-03-12 17:53:18
+           ai588 damaged t and now hp is 50/100
+2021-03-12 17:53:19
+           d damaged ai318 and now hp is 34/100
+2021-03-12 17:53:19
+           ai588 damaged t and now hp is 46/100
+2021-03-12 17:53:19
+           d damaged ai318 and now hp is 29/100
+2021-03-12 17:53:19
+           ai318 damaged d and now hp is 66/100
+2021-03-12 17:53:20
+           d damaged ai318 and now hp is 26/100
+2021-03-12 17:53:20
+           ai318 damaged d and now hp is 60/100
+2021-03-12 17:53:20
+           d damaged ai318 and now hp is 25/100
+2021-03-12 17:53:20
+           ai318 damaged d and now hp is 55/100
+2021-03-12 17:53:21
+           d damaged ai318 and now hp is 22/100
+2021-03-12 17:53:21
+           ai318 damaged d and now hp is 52/100
+2021-03-12 17:53:21
+           d damaged ai318 and now hp is 14/100
+2021-03-12 17:53:21
+           ai318 damaged d and now hp is 49/100
+2021-03-12 17:53:22
+           d damaged ai318 and now hp is 10/100
+2021-03-12 17:53:22
+           ai318 damaged d and now hp is 44/100
+2021-03-12 17:53:22
+           d damaged ai318 and now hp is 7/100
+2021-03-12 17:53:22
+           ai318 damaged d and now hp is 37/100
+2021-03-12 17:53:23
+           d damaged ai318 and now hp is 1/100
+2021-03-12 17:53:23
+           ai318 damaged d and now hp is 30/100
+2021-03-12 17:53:24
+           d damaged ai318 and now hp is -4/100
+2021-03-12 17:53:24
+           ai318 damaged d and now hp is 27/100
+2021-03-12 17:53:25
+           w damaged ai934 and now hp is 47/100
+2021-03-12 17:53:25
+           ai318 damaged d and now hp is 21/100
+2021-03-12 17:53:26
+           w damaged ai934 and now hp is 38/100
+2021-03-12 17:53:26
+           ai318 damaged d and now hp is 16/100
+2021-03-12 17:53:26
+           w damaged ai934 and now hp is 24/100
+2021-03-12 17:53:26
+           ai318 damaged d and now hp is 13/100
+2021-03-12 17:53:26
+           w damaged ai934 and now hp is 17/100
+2021-03-12 17:53:26
+           ai318 damaged d and now hp is 7/100
+2021-03-12 17:53:27
+           w damaged ai934 and now hp is 4/100
+2021-03-12 17:53:27
+           ai318 damaged d and now hp is 4/100
+2021-03-12 17:53:27
+           w damaged ai934 and now hp is -9/100
+2021-03-12 17:53:27
+           ai318 damaged d and now hp is -2/100
+2021-03-12 17:53:30
+           t damaged ai588 and now hp is 87/100
+2021-03-12 17:53:30
+           ai934 damaged w and now hp is 30/100
+2021-03-12 17:53:31
+           t damaged ai588 and now hp is 81/100
+2021-03-12 17:53:31
+           ai934 damaged w and now hp is 19/100
+2021-03-12 17:53:31
+           t damaged ai588 and now hp is 74/100
+2021-03-12 17:53:31
+           ai934 damaged w and now hp is 12/100
+2021-03-12 17:53:32
+           t damaged ai588 and now hp is 68/100
+2021-03-12 17:53:32
+           ai934 damaged w and now hp is -2/100
+2021-03-12 17:53:32
+           t damaged ai588 and now hp is 58/100
+2021-03-12 17:53:32
+           ai588 damaged t and now hp is 37/100
+2021-03-12 17:53:32
+           t damaged ai588 and now hp is 49/100
+2021-03-12 17:53:32
+           ai588 damaged t and now hp is 33/100
+2021-03-12 17:53:33
+           t damaged ai588 and now hp is 39/100
+2021-03-12 17:53:33
+           ai588 damaged t and now hp is 27/100
+2021-03-12 17:53:33
+           t damaged ai588 and now hp is 32/100
+2021-03-12 17:53:33
+           ai588 damaged t and now hp is 23/100
+2021-03-12 17:53:34
+           t damaged ai588 and now hp is 25/100
+2021-03-12 17:53:34
+           ai588 damaged t and now hp is 18/100
+2021-03-12 17:53:34
+           t damaged ai588 and now hp is 15/100
+2021-03-12 17:53:34
+           ai588 damaged t and now hp is 12/100
+2021-03-12 17:53:34
+           t damaged ai588 and now hp is 8/100
+2021-03-12 17:53:34
+           ai588 damaged t and now hp is 5/100
+2021-03-12 17:53:35
+           t damaged ai588 and now hp is -2/100
+2021-03-12 17:54:49
+           dd damaged ai143 and now hp is 95/100
+2021-03-12 17:54:49
+           ai765 damaged dd and now hp is 93/100
+2021-03-12 17:54:50
+           ww damaged ai967 and now hp is 96/100
+2021-03-12 17:54:50
+           ai967 damaged ww and now hp is 93/100
+2021-03-12 17:54:51
+           dd damaged ai143 and now hp is 88/100
+2021-03-12 17:54:51
+           ai143 damaged dd and now hp is 97/100
+2021-03-12 17:54:52
+           dd damaged ai765 and now hp is 95/100
+2021-03-12 17:54:52
+           ai143 damaged dd and now hp is 92/100
+2021-03-12 17:54:54
+           dd damaged ai765 and now hp is 93/100
+2021-03-12 17:54:54
+           ai765 damaged dd and now hp is 88/100
+2021-03-12 17:54:55
+           dd damaged ai143 and now hp is 86/100
+2021-03-12 17:54:55
+           ai143 damaged dd and now hp is 85/100
+2021-03-12 17:54:55
+           ww damaged ai967 and now hp is 83/100
+2021-03-12 17:54:55
+           ai765 damaged dd and now hp is 84/100
+2021-03-12 17:54:56
+           dd damaged ai143 and now hp is 78/100
+2021-03-12 17:54:56
+           ai143 damaged dd and now hp is 79/100
+2021-03-12 17:54:57
+           dd damaged ai765 and now hp is 86/100
+2021-03-12 17:54:57
+           ai967 damaged ww and now hp is 82/100
+2021-03-12 17:55:00
+           dd damaged ai765 and now hp is 80/100
+2021-03-12 17:55:00
+           ai143 damaged dd and now hp is 76/100
+2021-03-12 17:55:00
+           dd damaged ai765 and now hp is 72/100
+2021-03-12 17:55:00
+           ai967 damaged ww and now hp is 68/100
+2021-03-12 17:55:00
+           dd damaged ai765 and now hp is 66/100
+2021-03-12 17:55:00
+           ai765 damaged dd and now hp is 77/100
+2021-03-12 17:55:01
+           dd damaged ai765 and now hp is 61/100
+2021-03-12 17:55:01
+           ai967 damaged ww and now hp is 54/100
+2021-03-12 17:55:01
+           dd damaged ai765 and now hp is 59/100
+2021-03-12 17:55:01
+           ai765 damaged dd and now hp is 70/100
+2021-03-12 17:55:01
+           dd damaged ai765 and now hp is 57/100
+2021-03-12 17:55:01
+           ai765 damaged dd and now hp is 67/100
+2021-03-12 17:55:01
+           dd damaged ai765 and now hp is 50/100
+2021-03-12 17:55:01
+           ai765 damaged dd and now hp is 63/100
+2021-03-12 17:55:01
+           dd damaged ai765 and now hp is 42/100
+2021-03-12 17:55:01
+           ai143 damaged dd and now hp is 71/100
+2021-03-12 17:55:02
+           dd damaged ai765 and now hp is 39/100
+2021-03-12 17:55:02
+           ai765 damaged dd and now hp is 59/100
+2021-03-12 17:55:02
+           dd damaged ai765 and now hp is 34/100
+2021-03-12 17:55:02
+           ai765 damaged dd and now hp is 52/100
+2021-03-12 17:55:02
+           dd damaged ai765 and now hp is 32/100
+2021-03-12 17:55:02
+           ai765 damaged dd and now hp is 47/100
+2021-03-12 17:55:02
+           dd damaged ai765 and now hp is 31/100
+2021-03-12 17:55:02
+           ai143 damaged dd and now hp is 65/100
+2021-03-12 17:55:02
+           dd damaged ai765 and now hp is 26/100
+2021-03-12 17:55:02
+           ai143 damaged dd and now hp is 61/100
+2021-03-12 17:55:03
+           dd damaged ai765 and now hp is 20/100
+2021-03-12 17:55:03
+           ai765 damaged dd and now hp is 44/100
+2021-03-12 17:55:03
+           dd damaged ai765 and now hp is 11/100
+2021-03-12 17:55:03
+           ai967 damaged ww and now hp is 44/100
+2021-03-12 17:55:03
+           dd damaged ai765 and now hp is 3/100
+2021-03-12 17:55:03
+           ai143 damaged dd and now hp is 57/100
+2021-03-12 17:55:03
+           dd damaged ai765 and now hp is -2/100
+2021-03-12 17:55:03
+           ai143 damaged dd and now hp is 54/100
+2021-03-12 17:55:05
+           dd damaged ai143 and now hp is 71/100
+2021-03-12 17:55:05
+           ai765 damaged dd and now hp is 38/100
+2021-03-12 17:55:06
+           dd damaged ai143 and now hp is 63/100
+2021-03-12 17:55:06
+           ai765 damaged dd and now hp is 33/100
+2021-03-12 17:55:06
+           dd damaged ai143 and now hp is 54/100
+2021-03-12 17:55:06
+           ai765 damaged dd and now hp is 30/100
+2021-03-12 17:55:06
+           dd damaged ai143 and now hp is 51/100
+2021-03-12 17:55:06
+           ai765 damaged dd and now hp is 23/100
+2021-03-12 17:55:06
+           dd damaged ai143 and now hp is 43/100
+2021-03-12 17:55:06
+           ai143 damaged dd and now hp is 48/100
+2021-03-12 17:55:06
+           dd damaged ai143 and now hp is 38/100
+2021-03-12 17:55:06
+           ai765 damaged dd and now hp is 19/100
+2021-03-12 17:55:07
+           dd damaged ai143 and now hp is 30/100
+2021-03-12 17:55:07
+           ai765 damaged dd and now hp is 12/100
+2021-03-12 17:55:07
+           dd damaged ai143 and now hp is 23/100
+2021-03-12 17:55:07
+           ai765 damaged dd and now hp is 9/100
+2021-03-12 17:55:07
+           dd damaged ai143 and now hp is 20/100
+2021-03-12 17:55:07
+           ai765 damaged dd and now hp is 3/100
+2021-03-12 17:55:07
+           dd damaged ai143 and now hp is 17/100
+2021-03-12 17:55:07
+           ai765 damaged dd and now hp is -1/100
+2021-03-12 17:55:08
+           dd damaged ai143 and now hp is 9/100
+2021-03-12 17:55:08
+           ai143 damaged dd and now hp is 45/100
+2021-03-12 17:55:08
+           dd damaged ai143 and now hp is 6/100
+2021-03-12 17:55:08
+           ai143 damaged dd and now hp is 41/100
+2021-03-12 17:55:08
+           dd damaged ai143 and now hp is 5/100
+2021-03-12 17:55:08
+           ai143 damaged dd and now hp is 36/100
+2021-03-12 17:55:08
+           dd damaged ai143 and now hp is 3/100
+2021-03-12 17:55:08
+           ai143 damaged dd and now hp is 32/100
+2021-03-12 17:55:09
+           dd damaged ai143 and now hp is -4/100
+2021-03-12 17:55:09
+           ai143 damaged dd and now hp is 26/100
+2021-03-12 17:55:10
+           ww damaged ai967 and now hp is 70/100
+2021-03-12 17:55:10
+           ai143 damaged dd and now hp is 23/100
+2021-03-12 17:55:10
+           ww damaged ai967 and now hp is 62/100
+2021-03-12 17:55:10
+           ai143 damaged dd and now hp is 20/100
+2021-03-12 17:55:11
+           ww damaged ai967 and now hp is 52/100
+2021-03-12 17:55:11
+           ai143 damaged dd and now hp is 17/100
+2021-03-12 17:55:11
+           ww damaged ai967 and now hp is 38/100
+2021-03-12 17:55:11
+           ai143 damaged dd and now hp is 12/100
+2021-03-12 17:55:12
+           ww damaged ai967 and now hp is 24/100
+2021-03-12 17:55:12
+           ai143 damaged dd and now hp is 9/100
+2021-03-12 17:55:12
+           ww damaged ai967 and now hp is 10/100
+2021-03-12 17:55:12
+           ai143 damaged dd and now hp is 6/100
+2021-03-12 17:55:12
+           ww damaged ai967 and now hp is 0/100
+2021-03-12 17:55:12
+           ai143 damaged dd and now hp is 0/100
+2021-03-12 17:56:54
+           dd damaged ai256 and now hp is 93/100
+2021-03-12 17:56:54
+           ai919 damaged w and now hp is 88/100
+2021-03-12 17:56:55
+           w damaged ai919 and now hp is 97/100
+2021-03-12 17:56:55
+           ai919 damaged w and now hp is 75/100
+2021-03-12 17:56:56
+           dd damaged ai256 and now hp is 89/100
+2021-03-12 17:56:56
+           ai772 damaged d and now hp is 96/100
+2021-03-12 17:56:56
+           d damaged ai772 and now hp is 97/100
+2021-03-12 17:56:56
+           ai772 damaged d and now hp is 90/100
+2021-03-12 17:56:57
+           dd damaged ai256 and now hp is 83/100
+2021-03-12 17:56:57
+           ai256 damaged dd and now hp is 97/100
+2021-03-12 17:56:58
+           w damaged ai919 and now hp is 90/100
+2021-03-12 17:56:58
+           ai772 damaged d and now hp is 83/100
+2021-03-12 17:56:59
+           dd damaged ai256 and now hp is 79/100
+2021-03-12 17:56:59
+           ai256 damaged dd and now hp is 90/100
+2021-03-12 17:56:59
+           dd damaged ai256 and now hp is 72/100
+2021-03-12 17:56:59
+           ai772 damaged d and now hp is 80/100
+2021-03-12 17:56:59
+           dd damaged ai256 and now hp is 66/100
+2021-03-12 17:56:59
+           ai919 damaged w and now hp is 68/100
+2021-03-12 17:57:00
+           dd damaged ai256 and now hp is 60/100
+2021-03-12 17:57:00
+           ai256 damaged dd and now hp is 84/100
+2021-03-12 17:57:00
+           dd damaged ai256 and now hp is 54/100
+2021-03-12 17:57:00
+           ai772 damaged d and now hp is 74/100
+2021-03-12 17:57:00
+           dd damaged ai256 and now hp is 51/100
+2021-03-12 17:57:00
+           ai772 damaged d and now hp is 71/100
+2021-03-12 17:57:01
+           dd damaged ai256 and now hp is 46/100
+2021-03-12 17:57:01
+           ai772 damaged d and now hp is 65/100
+2021-03-12 17:57:01
+           dd damaged ai256 and now hp is 43/100
+2021-03-12 17:57:01
+           ai772 damaged d and now hp is 59/100
+2021-03-12 17:57:01
+           dd damaged ai256 and now hp is 40/100
+2021-03-12 17:57:01
+           ai919 damaged w and now hp is 54/100
+2021-03-12 17:57:01
+           dd damaged ai256 and now hp is 37/100
+2021-03-12 17:57:01
+           ai919 damaged w and now hp is 43/100
+2021-03-12 17:57:01
+           dd damaged ai256 and now hp is 31/100
+2021-03-12 17:57:01
+           ai772 damaged d and now hp is 54/100
+2021-03-12 17:57:02
+           dd damaged ai256 and now hp is 24/100
+2021-03-12 17:57:02
+           ai772 damaged d and now hp is 49/100
+2021-03-12 17:57:02
+           dd damaged ai256 and now hp is 19/100
+2021-03-12 17:57:02
+           ai256 damaged dd and now hp is 77/100
+2021-03-12 17:57:02
+           dd damaged ai256 and now hp is 13/100
+2021-03-12 17:57:02
+           ai256 damaged dd and now hp is 72/100
+2021-03-12 17:57:02
+           dd damaged ai256 and now hp is 9/100
+2021-03-12 17:57:02
+           ai772 damaged d and now hp is 46/100
+2021-03-12 17:57:02
+           dd damaged ai256 and now hp is 5/100
+2021-03-12 17:57:02
+           ai772 damaged d and now hp is 40/100
+2021-03-12 17:57:04
+           d damaged ai772 and now hp is 90/100
+2021-03-12 17:57:04
+           ai256 damaged dd and now hp is 66/100
+2021-03-12 17:57:04
+           d damaged ai772 and now hp is 86/100
+2021-03-12 17:57:04
+           ai256 damaged dd and now hp is 63/100
+2021-03-12 17:57:04
+           d damaged ai772 and now hp is 82/100
+2021-03-12 17:57:04
+           ai772 damaged d and now hp is 33/100
+2021-03-12 17:57:04
+           d damaged ai772 and now hp is 75/100
+2021-03-12 17:57:04
+           ai772 damaged d and now hp is 29/100
+2021-03-12 17:57:04
+           d damaged ai772 and now hp is 68/100
+2021-03-12 17:57:04
+           ai772 damaged d and now hp is 22/100
+2021-03-12 17:57:04
+           d damaged ai772 and now hp is 63/100
+2021-03-12 17:57:04
+           ai772 damaged d and now hp is 15/100
+2021-03-12 17:57:05
+           d damaged ai772 and now hp is 57/100
+2021-03-12 17:57:05
+           ai772 damaged d and now hp is 11/100
+2021-03-12 17:57:05
+           d damaged ai772 and now hp is 50/100
+2021-03-12 17:57:05
+           ai772 damaged d and now hp is 7/100
+2021-03-12 17:57:05
+           d damaged ai772 and now hp is 46/100
+2021-03-12 17:57:05
+           ai772 damaged d and now hp is 0/100
+2021-03-12 17:57:05
+           d damaged ai772 and now hp is 42/100
+2021-03-12 17:57:05
+           ai772 damaged d and now hp is -7/100
+2021-03-12 17:57:05
+           d damaged ai772 and now hp is 38/100
+2021-03-12 17:57:05
+           ai256 damaged dd and now hp is 59/100
+2021-03-12 17:57:05
+           d damaged ai772 and now hp is 32/100
+2021-03-12 17:57:05
+           ai256 damaged dd and now hp is 54/100
+2021-03-12 17:57:06
+           d damaged ai772 and now hp is 29/100
+2021-03-12 17:57:06
+           ai256 damaged dd and now hp is 47/100
+2021-03-12 17:57:06
+           d damaged ai772 and now hp is 22/100
+2021-03-12 17:57:06
+           ai256 damaged dd and now hp is 43/100
+2021-03-12 17:57:06
+           d damaged ai772 and now hp is 17/100
+2021-03-12 17:57:06
+           ai256 damaged dd and now hp is 40/100
+2021-03-12 17:57:06
+           d damaged ai772 and now hp is 11/100
+2021-03-12 17:57:06
+           ai256 damaged dd and now hp is 35/100
+2021-03-12 17:57:07
+           d damaged ai772 and now hp is 7/100
+2021-03-12 17:57:07
+           ai256 damaged dd and now hp is 31/100
+2021-03-12 17:57:08
+           w damaged ai919 and now hp is 77/100
+2021-03-12 17:57:08
+           ai256 damaged dd and now hp is 25/100
+2021-03-12 17:57:09
+           w damaged ai919 and now hp is 70/100
+2021-03-12 17:57:09
+           ai256 damaged dd and now hp is 18/100
+2021-03-12 17:57:09
+           w damaged ai919 and now hp is 61/100
+2021-03-12 17:57:09
+           ai256 damaged dd and now hp is 11/100
+2021-03-12 17:57:09
+           w damaged ai919 and now hp is 49/100
+2021-03-12 17:57:09
+           ai256 damaged dd and now hp is 5/100
+2021-03-12 17:57:09
+           w damaged ai919 and now hp is 36/100
+2021-03-12 17:57:09
+           ai256 damaged dd and now hp is 1/100
+2021-03-12 17:57:09
+           w damaged ai919 and now hp is 23/100
+2021-03-12 17:57:09
+           ai256 damaged dd and now hp is -6/100
+2021-03-12 17:57:10
+           w damaged ai919 and now hp is 13/100
+2021-03-12 17:57:10
+           ai919 damaged w and now hp is 30/100
+2021-03-12 17:57:10
+           w damaged ai919 and now hp is 6/100
+2021-03-12 17:57:10
+           ai919 damaged w and now hp is 17/100
+2021-03-12 17:57:10
+           w damaged ai919 and now hp is -1/100
+2021-03-12 17:57:10
+           ai919 damaged w and now hp is 7/100
+2021-03-12 17:57:12
+           dd damaged ai256 and now hp is 4/100
+2021-03-12 17:57:12
+           ai919 damaged w and now hp is 0/100
+2021-03-12 17:57:12
+           dd damaged ai256 and now hp is -1/100
+2021-03-12 17:57:13
+           d damaged ai772 and now hp is 3/100
+2021-03-12 17:57:14
+           d damaged ai772 and now hp is -4/100
+2021-03-12 17:57:43
+           dd damaged ai593 and now hp is 97/100
+2021-03-12 17:57:43
+           ai593 damaged dd and now hp is 93/100
+2021-03-12 17:57:44
+           dd damaged ai593 and now hp is 91/100
+2021-03-12 17:57:44
+           ai593 damaged dd and now hp is 89/100
+2021-03-12 17:57:44
+           dd damaged ai593 and now hp is 84/100
+2021-03-12 17:57:44
+           ai951 damaged ww and now hp is 90/100
+2021-03-12 17:57:44
+           dd damaged ai593 and now hp is 81/100
+2021-03-12 17:57:44
+           ai593 damaged dd and now hp is 84/100
+2021-03-12 17:57:44
+           dd damaged ai593 and now hp is 77/100
+2021-03-12 17:57:44
+           ai593 damaged dd and now hp is 81/100
+2021-03-12 17:57:44
+           dd damaged ai593 and now hp is 72/100
+2021-03-12 17:57:44
+           ai236 damaged ddd and now hp is 93/100
+2021-03-12 17:57:44
+           dd damaged ai593 and now hp is 66/100
+2021-03-12 17:57:44
+           ai236 damaged ddd and now hp is 90/100
+2021-03-12 17:57:45
+           dd damaged ai593 and now hp is 61/100
+2021-03-12 17:57:45
+           ai951 damaged ww and now hp is 77/100
+2021-03-12 17:57:45
+           dd damaged ai593 and now hp is 58/100
+2021-03-12 17:57:45
+           ai236 damaged ddd and now hp is 84/100
+2021-03-12 17:57:45
+           dd damaged ai593 and now hp is 55/100
+2021-03-12 17:57:45
+           ai593 damaged dd and now hp is 78/100
+2021-03-12 17:57:45
+           dd damaged ai593 and now hp is 49/100
+2021-03-12 17:57:45
+           ai951 damaged ww and now hp is 65/100
+2021-03-12 17:57:45
+           dd damaged ai593 and now hp is 44/100
+2021-03-12 17:57:45
+           ai951 damaged ww and now hp is 57/100
+2021-03-12 17:57:45
+           dd damaged ai593 and now hp is 37/100
+2021-03-12 17:57:45
+           ai236 damaged ddd and now hp is 77/100
+2021-03-12 17:57:46
+           dd damaged ai593 and now hp is 33/100
+2021-03-12 17:57:46
+           ai593 damaged dd and now hp is 73/100
+2021-03-12 17:57:46
+           dd damaged ai593 and now hp is 26/100
+2021-03-12 17:57:46
+           ai236 damaged ddd and now hp is 70/100
+2021-03-12 17:57:46
+           dd damaged ai593 and now hp is 19/100
+2021-03-12 17:57:46
+           ai593 damaged dd and now hp is 70/100
+2021-03-12 17:57:46
+           dd damaged ai593 and now hp is 15/100
+2021-03-12 17:57:46
+           ai951 damaged ww and now hp is 50/100
+2021-03-12 17:57:46
+           dd damaged ai593 and now hp is 12/100
+2021-03-12 17:57:46
+           ai593 damaged dd and now hp is 67/100
+2021-03-12 17:57:46
+           dd damaged ai593 and now hp is 9/100
+2021-03-12 17:57:46
+           ai236 damaged ddd and now hp is 63/100
+2021-03-12 17:57:46
+           dd damaged ai593 and now hp is 6/100
+2021-03-12 17:57:46
+           ai951 damaged ww and now hp is 42/100
+2021-03-12 17:57:47
+           dd damaged ai593 and now hp is 1/100
+2021-03-12 17:57:47
+           ai236 damaged ddd and now hp is 58/100
+2021-03-12 17:57:47
+           dd damaged ai593 and now hp is -6/100
+2021-03-12 17:57:47
+           ai236 damaged ddd and now hp is 54/100
+2021-03-12 17:57:48
+           ddd damaged ai236 and now hp is 94/100
+2021-03-12 17:57:48
+           ai593 damaged dd and now hp is 61/100
+2021-03-12 17:57:48
+           ddd damaged ai236 and now hp is 87/100
+2021-03-12 17:57:48
+           ai236 damaged ddd and now hp is 49/100
+2021-03-12 17:57:48
+           ddd damaged ai236 and now hp is 84/100
+2021-03-12 17:57:48
+           ai593 damaged dd and now hp is 54/100
+2021-03-12 17:57:48
+           ddd damaged ai236 and now hp is 80/100
+2021-03-12 17:57:48
+           ai593 damaged dd and now hp is 51/100
+2021-03-12 17:57:49
+           ddd damaged ai236 and now hp is 74/100
+2021-03-12 17:57:49
+           ai593 damaged dd and now hp is 46/100
+2021-03-12 17:57:49
+           ddd damaged ai236 and now hp is 68/100
+2021-03-12 17:57:49
+           ai593 damaged dd and now hp is 39/100
+2021-03-12 17:57:49
+           ddd damaged ai236 and now hp is 62/100
+2021-03-12 17:57:49
+           ai593 damaged dd and now hp is 35/100
+2021-03-12 17:57:49
+           ddd damaged ai236 and now hp is 58/100
+2021-03-12 17:57:49
+           ai593 damaged dd and now hp is 29/100
+2021-03-12 17:57:49
+           ddd damaged ai236 and now hp is 51/100
+2021-03-12 17:57:49
+           ai593 damaged dd and now hp is 22/100
+2021-03-12 17:57:49
+           ddd damaged ai236 and now hp is 44/100
+2021-03-12 17:57:49
+           ai593 damaged dd and now hp is 17/100
+2021-03-12 17:57:50
+           ddd damaged ai236 and now hp is 40/100
+2021-03-12 17:57:50
+           ai593 damaged dd and now hp is 12/100
+2021-03-12 17:57:50
+           ddd damaged ai236 and now hp is 37/100
+2021-03-12 17:57:50
+           ai593 damaged dd and now hp is 9/100
+2021-03-12 17:57:50
+           ddd damaged ai236 and now hp is 31/100
+2021-03-12 17:57:50
+           ai593 damaged dd and now hp is 6/100
+2021-03-12 17:57:50
+           ddd damaged ai236 and now hp is 26/100
+2021-03-12 17:57:50
+           ai593 damaged dd and now hp is 2/100
+2021-03-12 17:57:50
+           ddd damaged ai236 and now hp is 20/100
+2021-03-12 17:57:50
+           ai593 damaged dd and now hp is -2/100
+2021-03-12 17:57:51
+           ddd damaged ai236 and now hp is 13/100
+2021-03-12 17:57:51
+           ai236 damaged ddd and now hp is 44/100
+2021-03-12 17:57:51
+           ddd damaged ai236 and now hp is 6/100
+2021-03-12 17:57:51
+           ai236 damaged ddd and now hp is 38/100
+2021-03-12 17:57:51
+           ddd damaged ai236 and now hp is 2/100
+2021-03-12 17:57:51
+           ai236 damaged ddd and now hp is 32/100
+2021-03-12 17:57:51
+           ddd damaged ai236 and now hp is -4/100
+2021-03-12 17:57:51
+           ai236 damaged ddd and now hp is 25/100
+2021-03-12 17:57:53
+           ww damaged ai951 and now hp is 96/100
+2021-03-12 17:57:53
+           ai236 damaged ddd and now hp is 20/100
+2021-03-12 17:57:53
+           ww damaged ai951 and now hp is 92/100
+2021-03-12 17:57:53
+           ai236 damaged ddd and now hp is 14/100
+2021-03-12 17:57:53
+           ww damaged ai951 and now hp is 89/100
+2021-03-12 17:57:53
+           ai236 damaged ddd and now hp is 9/100
+2021-03-12 17:57:53
+           ww damaged ai951 and now hp is 85/100
+2021-03-12 17:57:53
+           ai236 damaged ddd and now hp is 3/100
+2021-03-12 17:57:54
+           ww damaged ai951 and now hp is 81/100
+2021-03-12 17:57:54
+           ai236 damaged ddd and now hp is 0/100
+2021-03-12 17:57:54
+           ww damaged ai951 and now hp is 74/100
+2021-03-12 17:57:54
+           ai236 damaged ddd and now hp is -7/100
+2021-03-12 17:57:54
+           ww damaged ai951 and now hp is 70/100
+2021-03-12 17:57:54
+           ai951 damaged ww and now hp is 30/100
+2021-03-12 17:57:54
+           ww damaged ai951 and now hp is 66/100
+2021-03-12 17:57:54
+           ai951 damaged ww and now hp is 21/100
+2021-03-12 17:57:54
+           ww damaged ai951 and now hp is 59/100
+2021-03-12 17:57:54
+           ai951 damaged ww and now hp is 12/100
+2021-03-12 17:57:54
+           ww damaged ai951 and now hp is 55/100
+2021-03-12 17:57:54
+           ai951 damaged ww and now hp is -1/100
+2021-03-12 17:57:55
+           ww damaged ai951 and now hp is 48/100
+2021-03-12 17:57:55
+           ww damaged ai951 and now hp is 41/100
+2021-03-12 17:57:55
+           ww damaged ai951 and now hp is 35/100
+2021-03-12 17:57:55
+           ww damaged ai951 and now hp is 31/100
+2021-03-12 17:57:55
+           ww damaged ai951 and now hp is 24/100
+2021-03-12 17:57:55
+           ww damaged ai951 and now hp is 20/100
+2021-03-12 17:57:56
+           ww damaged ai951 and now hp is 16/100
+2021-03-12 17:57:56
+           ww damaged ai951 and now hp is 10/100
+2021-03-12 17:57:56
+           ww damaged ai951 and now hp is 5/100
+2021-03-12 17:57:56
+           ww damaged ai951 and now hp is -1/100
+2021-03-12 18:09:50
+           dd damaged ai642 and now hp is 97/100
+2021-03-12 18:09:50
+           ai642 damaged dd and now hp is 93/100
+2021-03-12 18:09:51
+           ss damaged ai973 and now hp is 93/100
+2021-03-12 18:09:51
+           ai271 damaged ddd and now hp is 92/100
+2021-03-12 18:09:52
+           ddd damaged ai271 and now hp is 94/100
+2021-03-12 18:09:52
+           ai973 damaged ss and now hp is 93/100
+2021-03-12 18:09:52
+           ddd damaged ai271 and now hp is 91/100
+2021-03-12 18:09:52
+           ai642 damaged dd and now hp is 87/100
+2021-03-12 18:09:53
+           ss damaged ai973 and now hp is 89/100
+2021-03-12 18:09:53
+           ai271 damaged ddd and now hp is 82/100
+2021-03-12 18:09:54
+           dd damaged ai642 and now hp is 93/100
+2021-03-12 18:09:54
+           ai973 damaged ss and now hp is 86/100
+2021-03-12 18:09:55
+           dd damaged ai642 and now hp is 84/100
+2021-03-12 18:09:55
+           ai642 damaged dd and now hp is 82/100
+2021-03-12 18:09:55
+           ss damaged ai973 and now hp is 88/100
+2021-03-12 18:09:55
+           ai642 damaged dd and now hp is 79/100
+2021-03-12 18:09:56
+           ddd damaged ai271 and now hp is 83/100
+2021-03-12 18:09:56
+           ai271 damaged ddd and now hp is 71/100
+2021-03-12 18:09:57
+           ss damaged ai973 and now hp is 84/100
+2021-03-12 18:09:57
+           ai973 damaged ss and now hp is 81/100
+2021-03-12 18:09:58
+           dd damaged ai642 and now hp is 82/100
+2021-03-12 18:09:58
+           ai973 damaged ss and now hp is 77/100
+2021-03-12 18:09:59
+           ss damaged ai973 and now hp is 75/100
+2021-03-12 18:09:59
+           ai642 damaged dd and now hp is 75/100
+2021-03-12 18:10:00
+           ddd damaged ai271 and now hp is 74/100
+2021-03-12 18:10:00
+           ai271 damaged ddd and now hp is 58/100
+2021-03-12 18:10:01
+           ss damaged ai973 and now hp is 68/100
+2021-03-12 18:10:01
+           ai271 damaged ddd and now hp is 48/100
+2021-03-12 18:10:02
+           dd damaged ai642 and now hp is 75/100
+2021-03-12 18:10:02
+           ai642 damaged dd and now hp is 72/100
+2021-03-12 18:10:02
+           dd damaged ai642 and now hp is 71/100
+2021-03-12 18:10:02
+           ai642 damaged dd and now hp is 69/100
+2021-03-12 18:10:03
+           ss damaged ai973 and now hp is 62/100
+2021-03-12 18:10:03
+           ai973 damaged ss and now hp is 74/100
+2021-03-12 18:10:04
+           ddd damaged ai271 and now hp is 69/100
+2021-03-12 18:10:04
+           ai973 damaged ss and now hp is 69/100
+2021-03-12 18:10:05
+           ss damaged ai973 and now hp is 56/100
+2021-03-12 18:10:05
+           ai973 damaged ss and now hp is 64/100
+2021-03-12 18:10:06
+           ss damaged ai973 and now hp is 50/100
+2021-03-12 18:10:06
+           ai973 damaged ss and now hp is 60/100
+2021-03-12 18:10:06
+           ddd damaged ai271 and now hp is 66/100
+2021-03-12 18:10:06
+           ai642 damaged dd and now hp is 66/100
+2021-03-12 18:10:07
+           ddd damaged ai271 and now hp is 63/100
+2021-03-12 18:10:07
+           ai642 damaged dd and now hp is 62/100
+2021-03-12 18:10:08
+           ss damaged ai973 and now hp is 47/100
+2021-03-12 18:10:08
+           ai642 damaged dd and now hp is 56/100
+2021-03-12 18:10:09
+           dd damaged ai642 and now hp is 68/100
+2021-03-12 18:10:09
+           ai642 damaged dd and now hp is 49/100
+2021-03-12 18:10:11
+           dd damaged ai642 and now hp is 65/100
+2021-03-12 18:10:11
+           ai642 damaged dd and now hp is 42/100
+2021-03-12 18:10:11
+           dd damaged ai642 and now hp is 59/100
+2021-03-12 18:10:11
+           ai642 damaged dd and now hp is 36/100
+2021-03-12 18:10:11
+           dd damaged ai642 and now hp is 55/100
+2021-03-12 18:10:11
+           ai642 damaged dd and now hp is 31/100
+2021-03-12 18:10:11
+           dd damaged ai642 and now hp is 51/100
+2021-03-12 18:10:11
+           ai642 damaged dd and now hp is 25/100
+2021-03-12 18:10:11
+           dd damaged ai642 and now hp is 48/100
+2021-03-12 18:10:11
+           ai642 damaged dd and now hp is 22/100
+2021-03-12 18:10:11
+           dd damaged ai642 and now hp is 45/100
+2021-03-12 18:10:11
+           ai642 damaged dd and now hp is 17/100
+2021-03-12 18:10:11
+           dd damaged ai642 and now hp is 41/100
+2021-03-12 18:10:11
+           ai642 damaged dd and now hp is 10/100
+2021-03-12 18:10:12
+           dd damaged ai642 and now hp is 35/100
+2021-03-12 18:10:12
+           ai973 damaged ss and now hp is 56/100
+2021-03-12 18:10:12
+           dd damaged ai642 and now hp is 31/100
+2021-03-12 18:10:12
+           ai642 damaged dd and now hp is 3/100
+2021-03-12 18:10:12
+           dd damaged ai642 and now hp is 24/100
+2021-03-12 18:10:12
+           ai642 damaged dd and now hp is -2/100
+2021-03-12 18:10:12
+           dd damaged ai642 and now hp is 20/100
+2021-03-12 18:10:12
+           ai973 damaged ss and now hp is 52/100
+2021-03-12 18:10:12
+           dd damaged ai642 and now hp is 15/100
+2021-03-12 18:10:12
+           ai973 damaged ss and now hp is 46/100
+2021-03-12 18:10:12
+           dd damaged ai642 and now hp is 9/100
+2021-03-12 18:10:12
+           ai973 damaged ss and now hp is 43/100
+2021-03-12 18:10:12
+           dd damaged ai642 and now hp is 6/100
+2021-03-12 18:10:12
+           ai973 damaged ss and now hp is 38/100
+2021-03-12 18:10:13
+           dd damaged ai642 and now hp is 0/100
+2021-03-12 18:10:13
+           ai973 damaged ss and now hp is 33/100
+2021-03-12 18:10:14
+           ss damaged ai973 and now hp is 41/100
+2021-03-12 18:10:14
+           ai973 damaged ss and now hp is 26/100
+2021-03-12 18:10:14
+           ss damaged ai973 and now hp is 36/100
+2021-03-12 18:10:14
+           ai973 damaged ss and now hp is 20/100
+2021-03-12 18:10:14
+           ss damaged ai973 and now hp is 31/100
+2021-03-12 18:10:14
+           ai973 damaged ss and now hp is 15/100
+2021-03-12 18:10:14
+           ss damaged ai973 and now hp is 28/100
+2021-03-12 18:10:14
+           ai973 damaged ss and now hp is 10/100
+2021-03-12 18:10:15
+           ss damaged ai973 and now hp is 22/100
+2021-03-12 18:10:15
+           ai973 damaged ss and now hp is 4/100
+2021-03-12 18:10:15
+           ss damaged ai973 and now hp is 15/100
+2021-03-12 18:10:15
+           ai973 damaged ss and now hp is 0/100
+2021-03-12 18:10:15
+           ss damaged ai973 and now hp is 10/100
+2021-03-12 18:10:15
+           ai973 damaged ss and now hp is -5/100
+2021-03-12 18:10:15
+           ss damaged ai973 and now hp is 7/100
+2021-03-12 18:10:15
+           ai271 damaged ddd and now hp is 34/100
+2021-03-12 18:10:15
+           ss damaged ai973 and now hp is 1/100
+2021-03-12 18:10:15
+           ai271 damaged ddd and now hp is 24/100
+2021-03-12 18:10:15
+           ss damaged ai973 and now hp is -3/100
+2021-03-12 18:10:15
+           ai271 damaged ddd and now hp is 16/100
+2021-03-12 18:10:17
+           ddd damaged ai271 and now hp is 57/100
+2021-03-12 18:10:17
+           ai271 damaged ddd and now hp is 8/100
+2021-03-12 18:10:17
+           ddd damaged ai271 and now hp is 52/100
+2021-03-12 18:10:17
+           ai271 damaged ddd and now hp is 1/100
+2021-03-12 18:10:17
+           ddd damaged ai271 and now hp is 48/100
+2021-03-12 18:10:17
+           ai271 damaged ddd and now hp is -6/100
+2021-03-12 18:10:17
+           ddd damaged ai271 and now hp is 42/100
+2021-03-12 18:10:17
+           ddd damaged ai271 and now hp is 37/100
+2021-03-12 18:10:18
+           ddd damaged ai271 and now hp is 32/100
+2021-03-12 18:10:18
+           ddd damaged ai271 and now hp is 29/100
+2021-03-12 18:10:18
+           ddd damaged ai271 and now hp is 23/100
+2021-03-12 18:10:26
+           ddd damaged ai271 and now hp is 16/100
+2021-03-12 18:16:07
+           dddd damaged ai230 and now hp is 95/100
+2021-03-12 18:16:07
+           ai696 damaged dd and now hp is 96/100
+2021-03-12 18:16:08
+           dd damaged ai696 and now hp is 97/100
+2021-03-12 18:16:08
+           ai696 damaged dd and now hp is 91/100
+2021-03-12 18:16:08
+           dddd damaged ai230 and now hp is 92/100
+2021-03-12 18:16:08
+           ai230 damaged dddd and now hp is 94/100
+2021-03-12 18:16:09
+           ww damaged ai893 and now hp is 96/100
+2021-03-12 18:16:09
+           ai893 damaged ww and now hp is 87/100
+2021-03-12 18:16:10
+           dddd damaged ai230 and now hp is 86/100
+2021-03-12 18:16:10
+           ai696 damaged dd and now hp is 86/100
+2021-03-12 18:16:10
+           dddd damaged ai230 and now hp is 80/100
+2021-03-12 18:16:10
+           ai696 damaged dd and now hp is 81/100
+2021-03-12 18:16:11
+           dddd damaged ai230 and now hp is 77/100
+2021-03-12 18:16:11
+           ai696 damaged dd and now hp is 74/100
+2021-03-12 18:16:11
+           dddd damaged ai230 and now hp is 74/100
+2021-03-12 18:16:11
+           ai696 damaged dd and now hp is 70/100
+2021-03-12 18:16:11
+           dddd damaged ai230 and now hp is 70/100
+2021-03-12 18:16:11
+           ai893 damaged ww and now hp is 76/100
+2021-03-12 18:16:11
+           dddd damaged ai230 and now hp is 63/100
+2021-03-12 18:16:11
+           ai696 damaged dd and now hp is 67/100
+2021-03-12 18:16:11
+           dddd damaged ai230 and now hp is 58/100
+2021-03-12 18:16:11
+           ai893 damaged ww and now hp is 66/100
+2021-03-12 18:16:11
+           dddd damaged ai230 and now hp is 53/100
+2021-03-12 18:16:11
+           ai696 damaged dd and now hp is 62/100
+2021-03-12 18:16:11
+           dddd damaged ai230 and now hp is 48/100
+2021-03-12 18:16:11
+           ai893 damaged ww and now hp is 56/100
+2021-03-12 18:16:11
+           dddd damaged ai230 and now hp is 45/100
+2021-03-12 18:16:11
+           ai230 damaged dddd and now hp is 90/100
+2021-03-12 18:16:12
+           dddd damaged ai230 and now hp is 40/100
+2021-03-12 18:16:12
+           ai230 damaged dddd and now hp is 84/100
+2021-03-12 18:16:12
+           dddd damaged ai230 and now hp is 37/100
+2021-03-12 18:16:12
+           ai230 damaged dddd and now hp is 78/100
+2021-03-12 18:16:12
+           dddd damaged ai230 and now hp is 30/100
+2021-03-12 18:16:12
+           ai893 damaged ww and now hp is 46/100
+2021-03-12 18:16:12
+           dddd damaged ai230 and now hp is 24/100
+2021-03-12 18:16:12
+           ai696 damaged dd and now hp is 57/100
+2021-03-12 18:16:12
+           dddd damaged ai230 and now hp is 19/100
+2021-03-12 18:16:12
+           ai696 damaged dd and now hp is 51/100
+2021-03-12 18:16:13
+           dddd damaged ai230 and now hp is 12/100
+2021-03-12 18:16:13
+           ai230 damaged dddd and now hp is 71/100
+2021-03-12 18:16:13
+           dddd damaged ai230 and now hp is 8/100
+2021-03-12 18:16:13
+           ai230 damaged dddd and now hp is 66/100
+2021-03-12 18:16:13
+           dddd damaged ai230 and now hp is 2/100
+2021-03-12 18:16:13
+           ai696 damaged dd and now hp is 44/100
+2021-03-12 18:16:13
+           dddd damaged ai230 and now hp is -1/100
+2021-03-12 18:16:13
+           ai230 damaged dddd and now hp is 60/100
+2021-03-12 18:16:14
+           ww damaged ai893 and now hp is 91/100
+2021-03-12 18:16:14
+           ai696 damaged dd and now hp is 40/100
+2021-03-12 18:16:15
+           ww damaged ai893 and now hp is 85/100
+2021-03-12 18:16:15
+           ai230 damaged dddd and now hp is 56/100
+2021-03-12 18:16:15
+           ww damaged ai893 and now hp is 81/100
+2021-03-12 18:16:15
+           ai230 damaged dddd and now hp is 52/100
+2021-03-12 18:16:15
+           ww damaged ai893 and now hp is 74/100
+2021-03-12 18:16:15
+           ai696 damaged dd and now hp is 35/100
+2021-03-12 18:16:15
+           ww damaged ai893 and now hp is 71/100
+2021-03-12 18:16:15
+           ai696 damaged dd and now hp is 29/100
+2021-03-12 18:16:15
+           ww damaged ai893 and now hp is 65/100
+2021-03-12 18:16:15
+           ai696 damaged dd and now hp is 26/100
+2021-03-12 18:16:15
+           ww damaged ai893 and now hp is 59/100
+2021-03-12 18:16:15
+           ai696 damaged dd and now hp is 23/100
+2021-03-12 18:16:15
+           ww damaged ai893 and now hp is 55/100
+2021-03-12 18:16:15
+           ai696 damaged dd and now hp is 17/100
+2021-03-12 18:16:16
+           ww damaged ai893 and now hp is 52/100
+2021-03-12 18:16:16
+           ai696 damaged dd and now hp is 14/100
+2021-03-12 18:16:16
+           ww damaged ai893 and now hp is 46/100
+2021-03-12 18:16:16
+           ai696 damaged dd and now hp is 10/100
+2021-03-12 18:16:16
+           ww damaged ai893 and now hp is 40/100
+2021-03-12 18:16:16
+           ai696 damaged dd and now hp is 5/100
+2021-03-12 18:16:16
+           ww damaged ai893 and now hp is 34/100
+2021-03-12 18:16:16
+           ai696 damaged dd and now hp is 2/100
+2021-03-12 18:16:16
+           ww damaged ai893 and now hp is 30/100
+2021-03-12 18:16:16
+           ai230 damaged dddd and now hp is 49/100
+2021-03-12 18:16:16
+           ww damaged ai893 and now hp is 24/100
+2021-03-12 18:16:16
+           ai696 damaged dd and now hp is -2/100
+2021-03-12 18:16:17
+           ww damaged ai893 and now hp is 21/100
+2021-03-12 18:16:17
+           ai230 damaged dddd and now hp is 44/100
+2021-03-12 18:16:17
+           ww damaged ai893 and now hp is 16/100
+2021-03-12 18:16:17
+           ai230 damaged dddd and now hp is 40/100
+2021-03-12 18:16:18
+           ww damaged ai893 and now hp is 12/100
+2021-03-12 18:16:18
+           ai230 damaged dddd and now hp is 35/100
+2021-03-12 18:16:18
+           ww damaged ai893 and now hp is 6/100
+2021-03-12 18:16:18
+           ai230 damaged dddd and now hp is 31/100
+2021-03-12 18:16:19
+           ww damaged ai893 and now hp is 3/100
+2021-03-12 18:16:19
+           ai230 damaged dddd and now hp is 26/100
+2021-03-12 18:16:20
+           ww damaged ai893 and now hp is 0/100
+2021-03-12 18:16:20
+           ai230 damaged dddd and now hp is 23/100
+2021-03-12 18:16:22
+           dd damaged ai696 and now hp is 92/100
+2021-03-12 18:16:22
+           ai230 damaged dddd and now hp is 16/100
+2021-03-12 18:16:22
+           dd damaged ai696 and now hp is 87/100
+2021-03-12 18:16:22
+           ai230 damaged dddd and now hp is 13/100
+2021-03-12 18:16:22
+           dd damaged ai696 and now hp is 84/100
+2021-03-12 18:16:22
+           ai230 damaged dddd and now hp is 7/100
+2021-03-12 18:16:22
+           dd damaged ai696 and now hp is 76/100
+2021-03-12 18:16:22
+           ai230 damaged dddd and now hp is 4/100
+2021-03-12 18:16:22
+           dd damaged ai696 and now hp is 69/100
+2021-03-12 18:16:22
+           ai230 damaged dddd and now hp is -1/100
+2021-03-12 18:16:22
+           dd damaged ai696 and now hp is 66/100
+2021-03-12 18:16:22
+           ai893 damaged ww and now hp is 33/100
+2021-03-12 18:16:23
+           dd damaged ai696 and now hp is 64/100
+2021-03-12 18:16:23
+           ai893 damaged ww and now hp is 24/100
+2021-03-12 18:16:23
+           dd damaged ai696 and now hp is 58/100
+2021-03-12 18:16:23
+           ai893 damaged ww and now hp is 16/100
+2021-03-12 18:16:23
+           dd damaged ai696 and now hp is 53/100
+2021-03-12 18:16:23
+           ai893 damaged ww and now hp is 8/100
+2021-03-12 18:16:23
+           dd damaged ai696 and now hp is 49/100
+2021-03-12 18:16:23
+           ai893 damaged ww and now hp is -3/100
+2021-03-12 18:16:23
+           dd damaged ai696 and now hp is 45/100
+2021-03-12 18:16:23
+           dd damaged ai696 and now hp is 42/100
+2021-03-12 18:16:24
+           dd damaged ai696 and now hp is 33/100
+2021-03-12 18:19:40
+           d damaged ai732 and now hp is 97/100
+2021-03-12 18:19:40
+           ai933 damaged w and now hp is 90/100
+2021-03-12 18:19:40
+           dd damaged ai226 and now hp is 96/100
+2021-03-12 18:19:40
+           ai732 damaged d and now hp is 93/100
+2021-03-12 18:19:42
+           w damaged ai933 and now hp is 97/100
+2021-03-12 18:19:42
+           ai732 damaged d and now hp is 89/100
+2021-03-12 18:19:43
+           d damaged ai732 and now hp is 93/100
+2021-03-12 18:19:43
+           ai732 damaged d and now hp is 83/100
+2021-03-12 18:19:44
+           dd damaged ai226 and now hp is 93/100
+2021-03-12 18:19:44
+           ai732 damaged d and now hp is 80/100
+2021-03-12 18:19:45
+           w damaged ai933 and now hp is 93/100
+2021-03-12 18:19:45
+           ai732 damaged d and now hp is 74/100
+2021-03-12 18:19:46
+           w damaged ai933 and now hp is 82/100
+2021-03-12 18:19:46
+           ai933 damaged w and now hp is 76/100
+2021-03-12 18:19:46
+           dd damaged ai226 and now hp is 90/100
+2021-03-12 18:19:46
+           ai732 damaged d and now hp is 67/100
+2021-03-12 18:19:47
+           d damaged ai732 and now hp is 84/100
+2021-03-12 18:19:47
+           ai226 damaged dd and now hp is 96/100
+2021-03-12 18:19:48
+           d damaged ai732 and now hp is 79/100
+2021-03-12 18:19:48
+           ai226 damaged dd and now hp is 91/100
+2021-03-12 18:19:49
+           dd damaged ai226 and now hp is 86/100
+2021-03-12 18:19:49
+           ai226 damaged dd and now hp is 85/100
+2021-03-12 18:19:49
+           w damaged ai933 and now hp is 77/100
+2021-03-12 18:19:49
+           ai933 damaged w and now hp is 63/100
+2021-03-12 18:19:50
+           w damaged ai933 and now hp is 70/100
+2021-03-12 18:19:50
+           ai226 damaged dd and now hp is 78/100
+2021-03-12 18:19:51
+           dd damaged ai226 and now hp is 79/100
+2021-03-12 18:19:51
+           ai732 damaged d and now hp is 61/100
+2021-03-12 18:19:52
+           d damaged ai732 and now hp is 77/100
+2021-03-12 18:19:52
+           ai933 damaged w and now hp is 53/100
+2021-03-12 18:19:53
+           d damaged ai732 and now hp is 70/100
+2021-03-12 18:19:53
+           ai732 damaged d and now hp is 55/100
+2021-03-12 18:19:53
+           dd damaged ai226 and now hp is 76/100
+2021-03-12 18:19:53
+           ai933 damaged w and now hp is 42/100
+2021-03-12 18:19:54
+           w damaged ai933 and now hp is 67/100
+2021-03-12 18:19:54
+           ai226 damaged dd and now hp is 71/100
+2021-03-12 18:19:55
+           w damaged ai933 and now hp is 58/100
+2021-03-12 18:19:55
+           ai226 damaged dd and now hp is 67/100
+2021-03-12 18:19:56
+           dd damaged ai226 and now hp is 67/100
+2021-03-12 18:19:56
+           ai226 damaged dd and now hp is 63/100
+2021-03-12 18:19:57
+           d damaged ai732 and now hp is 68/100
+2021-03-12 18:19:57
+           ai732 damaged d and now hp is 51/100
+2021-03-12 18:19:58
+           d damaged ai732 and now hp is 64/100
+2021-03-12 18:19:58
+           ai732 damaged d and now hp is 48/100
+2021-03-12 18:19:58
+           dd damaged ai226 and now hp is 63/100
+2021-03-12 18:19:58
+           ai732 damaged d and now hp is 42/100
+2021-03-12 18:19:59
+           w damaged ai933 and now hp is 51/100
+2021-03-12 18:19:59
+           ai732 damaged d and now hp is 35/100
+2021-03-12 18:20:00
+           w damaged ai933 and now hp is 39/100
+2021-03-12 18:20:00
+           ai732 damaged d and now hp is 30/100
+2021-03-12 18:20:01
+           dd damaged ai226 and now hp is 60/100
+2021-03-12 18:20:01
+           ai732 damaged d and now hp is 27/100
+2021-03-12 18:20:01
+           d damaged ai732 and now hp is 58/100
+2021-03-12 18:20:01
+           ai226 damaged dd and now hp is 56/100
+2021-03-12 18:20:02
+           d damaged ai732 and now hp is 52/100
+2021-03-12 18:20:02
+           ai732 damaged d and now hp is 21/100
+2021-03-12 18:20:03
+           d damaged ai732 and now hp is 48/100
+2021-03-12 18:20:03
+           ai226 damaged dd and now hp is 52/100
+2021-03-12 18:20:03
+           d damaged ai732 and now hp is 44/100
+2021-03-12 18:20:03
+           ai732 damaged d and now hp is 14/100
+2021-03-12 18:20:04
+           d damaged ai732 and now hp is 41/100
+2021-03-12 18:20:04
+           ai732 damaged d and now hp is 7/100
+2021-03-12 18:20:04
+           d damaged ai732 and now hp is 35/100
+2021-03-12 18:20:04
+           ai226 damaged dd and now hp is 49/100
+2021-03-12 18:20:04
+           d damaged ai732 and now hp is 29/100
+2021-03-12 18:20:04
+           ai732 damaged d and now hp is 2/100
+2021-03-12 18:20:04
+           d damaged ai732 and now hp is 24/100
+2021-03-12 18:20:04
+           ai732 damaged d and now hp is -4/100
+2021-03-12 18:20:04
+           d damaged ai732 and now hp is 17/100
+2021-03-12 18:20:04
+           ai226 damaged dd and now hp is 46/100
+2021-03-12 18:20:04
+           d damaged ai732 and now hp is 10/100
+2021-03-12 18:20:04
+           ai226 damaged dd and now hp is 43/100
+2021-03-12 18:20:05
+           d damaged ai732 and now hp is 6/100
+2021-03-12 18:20:05
+           ai226 damaged dd and now hp is 39/100
+2021-03-12 18:20:05
+           d damaged ai732 and now hp is 3/100
+2021-03-12 18:20:05
+           ai226 damaged dd and now hp is 36/100
+2021-03-12 18:20:05
+           d damaged ai732 and now hp is -1/100
+2021-03-12 18:20:05
+           ai226 damaged dd and now hp is 32/100
+2021-03-12 18:20:06
+           dd damaged ai226 and now hp is 53/100
+2021-03-12 18:20:06
+           ai226 damaged dd and now hp is 29/100
+2021-03-12 18:20:07
+           dd damaged ai226 and now hp is 48/100
+2021-03-12 18:20:07
+           ai226 damaged dd and now hp is 26/100
+2021-03-12 18:20:07
+           dd damaged ai226 and now hp is 42/100
+2021-03-12 18:20:07
+           ai226 damaged dd and now hp is 22/100
+2021-03-12 18:20:07
+           dd damaged ai226 and now hp is 38/100
+2021-03-12 18:20:07
+           ai226 damaged dd and now hp is 15/100
+2021-03-12 18:20:07
+           dd damaged ai226 and now hp is 31/100
+2021-03-12 18:20:07
+           ai226 damaged dd and now hp is 11/100
+2021-03-12 18:20:07
+           dd damaged ai226 and now hp is 24/100
+2021-03-12 18:20:07
+           ai226 damaged dd and now hp is 4/100
+2021-03-12 18:20:08
+           dd damaged ai226 and now hp is 17/100
+2021-03-12 18:20:08
+           ai226 damaged dd and now hp is -1/100
+2021-03-12 18:20:08
+           dd damaged ai226 and now hp is 10/100
+2021-03-12 18:20:08
+           ai933 damaged w and now hp is 34/100
+2021-03-12 18:20:08
+           dd damaged ai226 and now hp is 3/100
+2021-03-12 18:20:08
+           ai933 damaged w and now hp is 20/100
+2021-03-12 18:20:08
+           dd damaged ai226 and now hp is 0/100
+2021-03-12 18:20:08
+           ai933 damaged w and now hp is 10/100
+2021-03-12 18:20:10
+           w damaged ai933 and now hp is 26/100
+2021-03-12 18:20:10
+           ai933 damaged w and now hp is 0/100
+2021-03-12 18:20:10
+           w damaged ai933 and now hp is 18/100
+2021-03-12 18:20:11
+           w damaged ai933 and now hp is 6/100
+2021-03-12 18:20:11
+           w damaged ai933 and now hp is -5/100
+2021-03-12 18:24:16
+           d damaged ai206 and now hp is 94/100
+2021-03-12 18:24:16
+           ai206 damaged d and now hp is 93/100
+2021-03-12 18:24:16
+           w damaged ai937 and now hp is 93/100
+2021-03-12 18:24:16
+           ai937 damaged w and now hp is 92/100
+2021-03-12 18:24:17
+           t damaged ai720 and now hp is 91/100
+2021-03-12 18:24:17
+           ai206 damaged d and now hp is 86/100
+2021-03-12 18:24:18
+           t damaged ai720 and now hp is 84/100
+2021-03-12 18:24:18
+           ai206 damaged d and now hp is 83/100
+2021-03-12 18:24:19
+           t damaged ai720 and now hp is 82/100
+2021-03-12 18:24:19
+           ai720 damaged t and now hp is 97/100
+2021-03-12 18:24:19
+           w damaged ai937 and now hp is 79/100
+2021-03-12 18:24:19
+           ai720 damaged t and now hp is 94/100
+2021-03-12 18:24:20
+           d damaged ai206 and now hp is 91/100
+2021-03-12 18:24:20
+           ai937 damaged w and now hp is 85/100
+2021-03-12 18:24:21
+           d damaged ai206 and now hp is 85/100
+2021-03-12 18:24:21
+           ai937 damaged w and now hp is 73/100
+2021-03-12 18:24:21
+           w damaged ai937 and now hp is 69/100
+2021-03-12 18:24:21
+           ai937 damaged w and now hp is 66/100
+2021-03-12 18:24:22
+           t damaged ai720 and now hp is 75/100
+2021-03-12 18:24:22
+           ai720 damaged t and now hp is 90/100
+2021-03-12 18:24:23
+           t damaged ai720 and now hp is 68/100
+2021-03-12 18:24:23
+           ai206 damaged d and now hp is 79/100
+2021-03-12 18:24:24
+           w damaged ai937 and now hp is 61/100
+2021-03-12 18:24:24
+           ai720 damaged t and now hp is 82/100
+2021-03-12 18:24:24
+           d damaged ai206 and now hp is 84/100
+2021-03-12 18:24:24
+           ai720 damaged t and now hp is 75/100
+2021-03-12 18:24:25
+           d damaged ai206 and now hp is 83/100
+2021-03-12 18:24:25
+           ai720 damaged t and now hp is 73/100
+2021-03-12 18:24:43
+           w damaged ai937 and now hp is 51/100
+2021-03-12 18:24:43
+           ai937 damaged w and now hp is 52/100
+2021-03-12 18:24:44
+           t damaged ai720 and now hp is 57/100
+2021-03-12 18:24:44
+           ai720 damaged t and now hp is 67/100
+2021-03-12 18:24:45
+           t damaged ai720 and now hp is 47/100
+2021-03-12 18:24:45
+           ai720 damaged t and now hp is 57/100
+2021-03-12 18:24:45
+           w damaged ai937 and now hp is 40/100
+2021-03-12 18:24:45
+           ai720 damaged t and now hp is 47/100
+2021-03-12 18:24:46
+           d damaged ai206 and now hp is 75/100
+2021-03-12 18:24:46
+           ai206 damaged d and now hp is 76/100
+2021-03-12 18:24:47
+           d damaged ai206 and now hp is 67/100
+2021-03-12 18:24:47
+           ai206 damaged d and now hp is 71/100
+2021-03-12 18:24:48
+           w damaged ai937 and now hp is 27/100
+2021-03-12 18:24:48
+           ai206 damaged d and now hp is 65/100
+2021-03-12 18:24:49
+           t damaged ai720 and now hp is 34/100
+2021-03-12 18:24:49
+           ai206 damaged d and now hp is 60/100
+2021-03-12 18:24:50
+           t damaged ai720 and now hp is 29/100
+2021-03-12 18:24:50
+           ai206 damaged d and now hp is 54/100
+2021-03-12 18:24:51
+           w damaged ai937 and now hp is 13/100
+2021-03-12 18:24:51
+           ai937 damaged w and now hp is 39/100
+2021-03-12 18:24:52
+           d damaged ai206 and now hp is 65/100
+2021-03-12 18:24:52
+           ai206 damaged d and now hp is 50/100
+2021-03-12 18:24:53
+           d damaged ai206 and now hp is 56/100
+2021-03-12 18:24:53
+           ai206 damaged d and now hp is 47/100
+2021-03-12 18:24:53
+           d damaged ai206 and now hp is 53/100
+2021-03-12 18:24:53
+           ai206 damaged d and now hp is 41/100
+2021-03-12 18:24:53
+           d damaged ai206 and now hp is 47/100
+2021-03-12 18:24:53
+           ai206 damaged d and now hp is 35/100
+2021-03-12 18:24:54
+           d damaged ai206 and now hp is 43/100
+2021-03-12 18:24:54
+           ai206 damaged d and now hp is 28/100
+2021-03-12 18:24:54
+           d damaged ai206 and now hp is 39/100
+2021-03-12 18:24:54
+           ai206 damaged d and now hp is 25/100
+2021-03-12 18:24:55
+           d damaged ai206 and now hp is 33/100
+2021-03-12 18:24:55
+           ai206 damaged d and now hp is 19/100
+2021-03-12 18:24:55
+           d damaged ai206 and now hp is 28/100
+2021-03-12 18:24:55
+           ai206 damaged d and now hp is 13/100
+2021-03-12 18:24:56
+           w damaged ai937 and now hp is 2/100
+2021-03-12 18:24:56
+           ai206 damaged d and now hp is 9/100
+2021-03-12 18:24:57
+           t damaged ai720 and now hp is 21/100
+2021-03-12 18:24:57
+           ai206 damaged d and now hp is 4/100
+2021-03-12 18:24:58
+           w damaged ai937 and now hp is -9/100
+2021-03-12 18:24:58
+           ai206 damaged d and now hp is -3/100
+2021-03-12 18:24:58
+           d damaged ai206 and now hp is 20/100
+2021-03-12 18:24:58
+           ai937 damaged w and now hp is 27/100
+2021-03-12 18:24:59
+           d damaged ai206 and now hp is 13/100
+2021-03-12 18:24:59
+           ai937 damaged w and now hp is 15/100
+2021-03-12 18:25:00
+           d damaged ai206 and now hp is 4/100
+2021-03-12 18:25:00
+           ai937 damaged w and now hp is 4/100
+2021-03-12 18:25:00
+           d damaged ai206 and now hp is 1/100
+2021-03-12 18:25:00
+           ai937 damaged w and now hp is -7/100
+2021-03-12 18:25:00
+           d damaged ai206 and now hp is -1/100
+2021-03-12 18:25:00
+           ai720 damaged t and now hp is 44/100
+2021-03-12 18:25:05
+           t damaged ai720 and now hp is 15/100
+2021-03-12 18:25:05
+           ai720 damaged t and now hp is 38/100
+2021-03-12 18:25:05
+           t damaged ai720 and now hp is 5/100
+2021-03-12 18:25:05
+           ai720 damaged t and now hp is 31/100
+2021-03-12 18:25:06
+           t damaged ai720 and now hp is -4/100
+2021-03-12 18:45:50
+           d damaged ai118 and now hp is 93/100
+2021-03-12 18:45:50
+           ai118 damaged d and now hp is 96/100
+2021-03-12 18:45:50
+           w damaged ai981 and now hp is 94/100
+2021-03-12 18:45:50
+           ai118 damaged d and now hp is 92/100
+2021-03-12 18:45:52
+           t damaged ai663 and now hp is 89/100
+2021-03-12 18:45:52
+           ai981 damaged w and now hp is 92/100
+2021-03-12 18:45:53
+           d damaged ai118 and now hp is 92/100
+2021-03-12 18:45:53
+           ai981 damaged w and now hp is 80/100
+2021-03-12 18:45:54
+           w damaged ai981 and now hp is 83/100
+2021-03-12 18:45:54
+           ai118 damaged d and now hp is 86/100
+2021-03-12 18:45:55
+           t damaged ai663 and now hp is 87/100
+2021-03-12 18:45:55
+           ai663 damaged t and now hp is 94/100
+2021-03-12 18:45:56
+           d damaged ai118 and now hp is 85/100
+2021-03-12 18:45:56
+           ai663 damaged t and now hp is 90/100
+2021-03-12 18:51:12
+           d damaged ai200 and now hp is 94/100
+2021-03-12 18:51:12
+           ai559 damaged t and now hp is 92/100
+2021-03-12 18:51:13
+           w damaged ai914 and now hp is 97/100
+2021-03-12 18:51:13
+           ai559 damaged t and now hp is 82/100
+2021-03-12 18:51:14
+           t damaged ai559 and now hp is 95/100
+2021-03-12 18:51:14
+           ai914 damaged w and now hp is 92/100
+2021-03-12 18:51:16
+           w damaged ai914 and now hp is 88/100
+2021-03-12 18:51:16
+           ai559 damaged t and now hp is 79/100
+2021-03-12 18:51:16
+           d damaged ai200 and now hp is 85/100
+2021-03-12 18:51:16
+           ai914 damaged w and now hp is 79/100
+2021-03-12 18:51:17
+           d damaged ai200 and now hp is 84/100
+2021-03-12 18:51:17
+           ai200 damaged d and now hp is 93/100
+2021-03-12 18:51:18
+           w damaged ai914 and now hp is 81/100
+2021-03-12 18:51:18
+           ai559 damaged t and now hp is 71/100
+2021-03-12 18:51:19
+           t damaged ai559 and now hp is 92/100
+2021-03-12 18:51:19
+           ai200 damaged d and now hp is 87/100
+2021-03-12 18:51:20
+           t damaged ai559 and now hp is 82/100
+2021-03-12 18:51:20
+           ai559 damaged t and now hp is 64/100
+2021-03-12 18:51:21
+           w damaged ai914 and now hp is 69/100
+2021-03-12 18:51:21
+           ai559 damaged t and now hp is 57/100
+2021-03-12 18:51:22
+           d damaged ai200 and now hp is 79/100
+2021-03-12 18:51:22
+           ai914 damaged w and now hp is 68/100
+2021-03-12 18:51:24
+           d damaged ai200 and now hp is 76/100
+2021-03-12 18:51:24
+           ai200 damaged d and now hp is 84/100

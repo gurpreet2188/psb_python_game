@@ -1,0 +1,7 @@
+type, damage, value
+warrior,light,6
+warrior,heavy,14
+drone,light,4
+drone,heavy,6
+tanker,light,1
+tanker,heavy,10
