@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item type="drawable" name="expanded_item_bg_activated">@android:color/background_light</item>
-    <item type="drawable" name="expanded_item_bg">@android:color/background_light</item>
-    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
-    <item type="drawable" name="fp_enrollment_header_landscape">@android:color/background_light</item>
-</resources>

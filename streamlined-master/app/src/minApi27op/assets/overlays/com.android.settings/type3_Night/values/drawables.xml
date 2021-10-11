@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item type="drawable" name="expanded_item_bg_activated">@*android:color/holo_purple</item>
-    <item type="drawable" name="expanded_item_bg">@*android:color/background_dark</item>
-    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
-    <item type="drawable" name="fp_enrollment_header_landscape">@*android:color/holo_purple</item>
-    <item type="drawable" name="oneplus_divider_color">@*android:color/transparent</item>
-</resources>

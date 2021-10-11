@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:background="@android:color/background_dark" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="13.0dip" android:textColor="#d8ffffff" android:id="@*com.grammarly.android.keyboard:id/provide_feedback_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="16.0dip" android:text="@*com.grammarly.android.keyboard:string/youreoneofthefirst" />
-    <EditText android:textColor="#ffffff" android:textColorHint="#c1ffffff" android:gravity="start|center|top" android:id="@*com.grammarly.android.keyboard:id/feedback_edittext" android:background="@*com.grammarly.android.keyboard:drawable/roundedcorner_white_nopadding" android:padding="13.0dip" android:layout_width="fill_parent" android:layout_height="160.0dip" android:layout_margin="16.0dip" android:hint="Tell us what you think!" android:layout_below="@*com.grammarly.android.keyboard:id/provide_feedback_textview" android:inputType="textAutoComplete|textAutoCorrect|textCapSentences|textMultiLine" android:contentDescription="Tell us what you think!" />
-</RelativeLayout>

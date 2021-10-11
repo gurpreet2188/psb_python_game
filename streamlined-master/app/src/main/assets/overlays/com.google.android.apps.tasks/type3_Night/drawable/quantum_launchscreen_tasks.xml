@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<layer-list android:opacity="opaque"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:drawable="@android:color/background_dark" />
-    <item android:id="@*com.google.android.apps.tasks:id/launchscreens_product_logo" android:bottom="@*com.google.android.apps.tasks:dimen/launchscreens_product_logo_bottom">
-        <bitmap android:gravity="center" android:src="@*com.google.android.apps.tasks:drawable/product_logo_tasks_color_144" />
-    </item>
-</layer-list>

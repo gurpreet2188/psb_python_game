@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <androidx.cardview.widget.CardView android:id="@*reddit.news:id/cardview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="0.0dip" android:layout_marginRight="0.0dip" android:layout_marginBottom="0.0dip" app:cardBackgroundColor="#ffffff" app:cardCornerRadius="0.0dip" app:cardElevation="0.0dip" app:cardUseCompatPadding="false" xmlns:app="http://schemas.android.com/apk/reddit.news">
-        <include layout="@*reddit.news:layout/inboxrow" />
-    </androidx.cardview.widget.CardView>
-</FrameLayout>

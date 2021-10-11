@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<animated-vector android:drawable="@*com.android.vending:drawable/ic_books"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt">
-    <target android:name="label" android:animation="@*com.android.vending:drawable/abc_ic_star_half_black_16dp" />
-
-</animated-vector>

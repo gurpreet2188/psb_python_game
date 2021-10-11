@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.design.internal.NavigationMenuView android:id="@*com.google.android.apps.plus:id/design_navigation_view" android:backgroundTint="@android:color/background_dark" android:background="@android:color/background_dark"  android:paddingBottom="@*com.google.android.apps.plus:dimen/design_navigation_padding_bottom" android:scrollbars="vertical" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.spotify.mobile.android.spotlets.behindthelyrics.view.BehindTheLyricsCard android:layout_gravity="center" android:id="@*com.spotify.music:id/behind_the_lyrics_body" android:background="#f1f2f3f4" android:padding="@*com.spotify.music:dimen/btl_card_padding" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <include layout="@*com.spotify.music:layout/btl_layout" />
-</com.spotify.mobile.android.spotlets.behindthelyrics.view.BehindTheLyricsCard>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<set
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <objectAnimator android:interpolator="@android:interpolator/fast_out_slow_in" android:duration="350" android:valueFrom="M49.9,0.5 C77.1829,0.5,99.3,22.6171,99.3,49.9
-C99.3,77.1829,77.1829,99.3,49.9,99.3 C22.6171,99.3,0.5,77.1829,0.5,49.9
-C0.5,22.6171,22.6171,0.5,49.9,0.5 Z" android:valueTo="M49.9,0.5 C77.1829,0.5,99.3,22.6171,99.3,49.9
-C99.3,77.1829,77.1829,99.3,49.9,99.3 C22.6171,99.3,0.5,77.1829,0.5,49.9
-C0.5,22.6171,22.6171,0.5,49.9,0.5 Z" android:valueType="pathType" android:propertyName="pathData" />
-</set>

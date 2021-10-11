@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<com.google.android.music.ui.cardlib.layout.PlayCardViewRow android:id="@*com.google.android.music:id/play_card" android:background="@android:color/background_dark" android:paddingLeft="16.0dip" android:paddingTop="16.0dip" android:paddingRight="8.0dip" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="@null"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <com.google.android.music.ui.art.SimpleArtView android:id="@*com.google.android.music:id/li_thumbnail_frame" android:layout_width="48.0dip" android:layout_height="48.0dip" android:scaleType="fitCenter" />
-    <TextView android:gravity="center" android:id="@*com.google.android.music:id/li_card_number" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="24.0sp" android:minHeight="24.0sp" style="@*com.google.android.music:style/MusicCardNumber.Dark" />
-    <include android:layout_width="wrap_content" android:layout_height="48.0dip" android:layout_marginLeft="12.0dip" android:layout_toLeftOf="@*com.google.android.music:id/li_overflow" android:layout_toRightOf="@*com.google.android.music:id/li_thumbnail_frame" layout="@*com.google.android.music:layout/material_list_item_text" />
-    <com.google.android.music.ui.cardlib.layout.PlayCardOverflowView android:id="@*com.google.android.music:id/li_overflow" android:nextFocusLeft="@*com.google.android.music:id/play_card" android:layout_marginRight="8.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@*com.google.android.music:style/MusicPlayCardOverflow" />
-</com.google.android.music.ui.cardlib.layout.PlayCardViewRow>

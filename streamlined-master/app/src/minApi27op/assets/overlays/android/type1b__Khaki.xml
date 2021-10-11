@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="holo_blue_bright">#ffC3B299</color>
-    <color name="holo_blue_dark">#ffBAA991</color>
-    <color name="holo_red_dark">#ffA89983</color>
-
-    <color name="accent_material_light">#998B77</color>
-    <color name="holo_orange_light">#ffC9B79D</color>
-</resources>

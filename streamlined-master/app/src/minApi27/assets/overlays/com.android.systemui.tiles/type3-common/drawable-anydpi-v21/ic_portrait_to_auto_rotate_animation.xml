@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<animated-vector android:drawable="@*com.android.systemui:drawable/ic_portrait_from_auto_rotate"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <target android:name="device_0" android:animation="@*com.android.systemui:anim/ic_rotate_to_portrait_device_0_animation" />
-    <target android:name="arrows" android:animation="@*com.android.systemui:anim/ic_rotate_to_portrait_arrows_animation" />
-</animated-vector>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<animated-vector android:drawable="@*com.android.systemui:drawable/ic_landscape_from_auto_rotate"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <target android:name="landscape" android:animation="@*com.android.systemui:anim/ic_rotate_to_landscape_landscape_animation" />
-    <target android:name="arrows" android:animation="@*com.android.systemui:anim/ic_rotate_to_landscape_arrows_animation" />
-</animated-vector>

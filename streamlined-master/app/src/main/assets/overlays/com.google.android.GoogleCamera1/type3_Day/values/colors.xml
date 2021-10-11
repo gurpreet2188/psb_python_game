@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-    <resources>
-
-
-    <color name="camera_google_blue_600">@*android:color/accent_material_light</color>
-    <color name="settings_accent_color">@*android:color/accent_material_light</color>
-    <color name="mode_chip_color">@*android:color/accent_material_light</color>
-    </resources>

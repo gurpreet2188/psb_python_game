@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:id="@*com.android.contacts:id/title_and_phonetic_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:layout_marginStart="16.0dip" android:layout_marginEnd="16.0dip"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="32.0dip" android:textColor="#ffffff" android:ellipsize="end" android:layout_gravity="start|center|top" android:id="@*com.android.contacts:id/large_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:importantForAccessibility="no" android:textAlignment="viewStart" />
-    <TextView android:textSize="28.0dip" android:textColor="#ffffff" android:ellipsize="end" android:id="@*com.android.contacts:id/phonetic_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:layout_below="@*com.android.contacts:id/large_title" android:importantForAccessibility="no" android:textAlignment="viewStart" />
-</LinearLayout>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<set
-    xmlns:android="http://schemas.android.com/apk/res/android">
-    <objectAnimator android:interpolator="@android:interpolator/linear" android:duration="350" android:valueTo="M22.5,84.3 L24,82.8" android:valueFrom="M67.3,39.5 L22.5,84.3" android:valueType="pathType" android:propertyName="pathData" />
-    <objectAnimator android:interpolator="@android:interpolator/linear" android:duration="350" android:valueFrom="1" android:valueTo="0" android:propertyName="strokeAlpha" />
-</set>

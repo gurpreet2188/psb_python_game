@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:state_checked="true">
-        <vector android:height="56.0dip" android:width="56.0dip" android:viewportWidth="56.0" android:viewportHeight="56.0">
-            <path android:fillColor="?android:colorAccent" android:pathData="M0,54 L56,54 L56,56 L0,56 L0,54 Z" />
-        </vector>
-    </item>
-</selector>

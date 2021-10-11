@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:background="@android:color/background_dark" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="17.0dip" android:textColor="#ffffffff" android:gravity="center_vertical" android:id="@*com.grammarly.android.keyboard:id/privacy" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="30.22998dip" android:text="Privacy" />
-    <TextView android:textSize="17.0dip" android:textColor="#ffffffff" android:gravity="center_vertical" android:id="@*com.grammarly.android.keyboard:id/terms_of_service" android:background="?android:selectableItemBackground" android:clickable="true" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_marginLeft="16.0dip" android:text="Terms of Service" />
-    <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="16.0dip" android:layout_weight="1.0" />
-    <TextView android:textSize="10.0dip" android:id="@*com.grammarly.android.keyboard:id/version" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginBottom="12.0dip" />
-    <TextView android:textSize="10.0dip" android:id="@*com.grammarly.android.keyboard:id/tag" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginBottom="12.0dip" android:text="1574721" />
-</LinearLayout>

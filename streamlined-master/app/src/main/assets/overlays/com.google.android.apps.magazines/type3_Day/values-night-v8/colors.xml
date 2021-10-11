@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="chip_selected_color">@*android:color/accent_material_light</color>
-    <color name="card_action_button_bg_stroke">@*android:color/accent_material_light</color>
-    <color name="app_color_material">@*android:color/accent_material_light</color>
-
-</resources>

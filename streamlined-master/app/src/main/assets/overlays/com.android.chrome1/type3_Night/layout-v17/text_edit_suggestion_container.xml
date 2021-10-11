@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ListView android:id="@*com.android.chrome:id/suggestionContainer" android:backgroundTint="@android:color/background_dark" android:background="@android:color/background_dark" android:layout_width="fill_parent" android:layout_height="wrap_content" />
-</LinearLayout>

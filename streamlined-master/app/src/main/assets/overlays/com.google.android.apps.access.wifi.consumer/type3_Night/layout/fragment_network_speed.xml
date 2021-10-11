@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:id="@*com.google.android.apps.access.wifi.consumer:id/layout_speed_test_root" android:background="@android:color/background_dark" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <ProgressBar android:id="@*com.google.android.apps.access.wifi.consumer:id/progress_bar_loading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
-    <TextView android:gravity="center" android:id="@*com.google.android.apps.access.wifi.consumer:id/text_view_no_results_message" android:paddingLeft="@*com.google.android.apps.access.wifi.consumer:dimen/xl_space" android:paddingRight="@*com.google.android.apps.access.wifi.consumer:dimen/xl_space" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:drawableTop="@*com.google.android.apps.access.wifi.consumer:drawable/quantum_ic_network_check_grey600_24" android:drawablePadding="@*com.google.android.apps.access.wifi.consumer:dimen/l_space" android:layout_centerInParent="true" />
-    <android.support.v7.widget.RecyclerView android:id="@*com.google.android.apps.access.wifi.consumer:id/recycler_view_history" android:background="@android:color/background_dark" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
-</RelativeLayout>

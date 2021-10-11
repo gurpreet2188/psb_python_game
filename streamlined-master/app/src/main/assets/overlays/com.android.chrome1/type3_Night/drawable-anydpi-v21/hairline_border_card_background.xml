@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape shape="rectangle">
-    <solid color="@android:color/holo_purple" />
-    <stroke width="1.0dip" color="#33ffffff" />
-    <corners radius="12.0dip" />
-</shape>

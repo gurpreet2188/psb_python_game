@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="20.0dip" android:textColor="#1e1e1e" android:gravity="center_vertical" android:layout_gravity="left" android:id="@*com.grammarly.android.keyboard:id/grammarly_header" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="57.0dip" android:text="Grammarly" />
-</LinearLayout>

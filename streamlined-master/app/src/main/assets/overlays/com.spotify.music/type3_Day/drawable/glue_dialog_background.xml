@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <solid android:color="#f1f1f1" />
-    <corners android:topLeftRadius="@*com.spotify.music:dimen/glue_dialog_corner_radius" android:topRightRadius="@*com.spotify.music:dimen/glue_dialog_corner_radius" android:bottomLeftRadius="@*com.spotify.music:dimen/glue_dialog_corner_radius" android:bottomRightRadius="@*com.spotify.music:dimen/glue_dialog_corner_radius" />
-</shape>

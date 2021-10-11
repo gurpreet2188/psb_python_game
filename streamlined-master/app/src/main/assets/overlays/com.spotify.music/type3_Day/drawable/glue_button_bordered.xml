@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<shape
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <stroke android:width="@*com.spotify.music:dimen/glue_button_bordered_border_width" android:color="#1e1e1e" />
-    <solid android:color="@*com.spotify.music:color/pasteTransparent" />
-    <size android:height="@*com.spotify.music:dimen/glue_button_bordered_height" />
-    <corners android:radius="@*com.spotify.music:dimen/glue_button_bordered_corner_radius" />
-    <padding android:left="@*com.spotify.music:dimen/glue_button_bordered_padding" android:top="0.0px" android:right="@*com.spotify.music:dimen/glue_button_bordered_padding" android:bottom="0.0px" />
-</shape>
