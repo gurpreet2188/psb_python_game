@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.balysv.materialripple.MaterialRippleLayout android:id="@*com.xda.labs:id/pending_apps_cont" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@*com.xda.labs:id/pending_apps_row" android:padding="8.0dip" android:layout_width="fill_parent" android:layout_height="42.0dip">
+        <ImageView android:id="@*com.xda.labs:id/pending_apps_icon" android:layout_width="34.0dip" android:layout_height="34.0dip" android:layout_marginLeft="8.0dip" android:layout_marginRight="16.0dip" android:src="@*com.xda.labs:drawable/ic_navdrawer_android" android:layout_centerVertical="true" />
+        <TextView android:textSize="16.0sp" android:textColor="#1e1e1e" android:id="@*com.xda.labs:id/pending_apps_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@*com.xda.labs:string/navdrawer_pending_all" android:singleLine="true" android:layout_toLeftOf="@*com.xda.labs:id/pending_apps_button" android:layout_toRightOf="@*com.xda.labs:id/pending_apps_icon" android:layout_centerVertical="true" />
+        <Button android:textSize="14.0sp" android:textStyle="bold" android:textColor="#ffffff" android:id="@*com.xda.labs:id/pending_apps_button" android:background="@*com.xda.labs:drawable/rectangle_button_bg" android:padding="2.0dip" android:layout_width="30.0dip" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip" android:minHeight="22.0dip" android:text="\?" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</com.balysv.materialripple.MaterialRippleLayout>

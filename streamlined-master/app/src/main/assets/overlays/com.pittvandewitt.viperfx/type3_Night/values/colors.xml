@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+    <color name="primaryColor">@android:color/holo_blue_light</color>
+    <color name="primaryLightColor">@android:color/background_dark</color>
+    <color name="primaryDarkColor">@android:color/holo_blue_light</color>
+    <color name="secondaryColor">@*android:color/accent_material_dark</color>
+    <color name="primaryTextColor">#ffffffff</color>
+    <color name="secondaryTextColor">#d8ffffff</color>
+    <color name="rippleColor">#33ffffff</color>
+    <color name="primaryKnobPointColor">@*android:color/accent_material_dark</color>
+    <color name="dialogBackgroundColor">@android:color/background_dark</color>
+    <color name="mainIconColor">#ffffff</color>
+    <color name="iconColor">#dfffffff</color>
+    <color name="primaryKnobColor">@*android:color/accent_material_dark</color>
+    <color name="secondaryKnobColor">#d8ffffff</color>
+    <color name="secondaryKnobPointColor">#d8ffffff</color>
+    <color name="buttonColor">@android:color/holo_purple</color>
+    <color name="switchThumbDisabled">#b1ffffff</color>
+    <color name="switchThumbNormal">@*android:color/accent_material_dark</color>
+</resources>

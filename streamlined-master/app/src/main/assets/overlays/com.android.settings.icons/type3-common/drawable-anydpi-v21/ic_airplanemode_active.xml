@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?> <layer-list xmlns:android="http://schemas.android.com/apk/res/android"  > <item android:drawable="@*com.android.settings:drawable/abc_ic_star_black_36dp"/> <item android:bottom="2dp" android:left="2dp" android:right="2dp" android:top="2dp">
+<vector
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="99.8"
+    android:viewportHeight="99.8"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+                <path
+                    android:name="cross_1"
+                    android:pathData="M74.2,51.5 L80.3,49.9"
+                    android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+                    android:strokeWidth="6"
+                    android:strokeLineJoin="round"
+                    android:strokeMiterLimit="10"
+                    android:strokeLineCap="round"
+                    android:strokeAlpha="0" />
+
+
+                <path
+                    android:name="plane_1"
+                    android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+                    android:strokeWidth="6"
+                    android:strokeLineJoin="round"
+                    android:strokeMiterLimit="10"
+                    android:strokeLineCap="round"
+                    android:pathData="M25.1,65 L37.1,53 L16.3,48.1 L80.3,22.8 L50.8,82.5 L42.7,58.7 L80.3,22.8"
+                    android:strokeAlpha="1" />
+
+         </vector> </item> </layer-list>

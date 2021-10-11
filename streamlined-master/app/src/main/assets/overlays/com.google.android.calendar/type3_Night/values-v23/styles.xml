@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="launchscreen_use_light_status_bar">false</bool>
+    <bool name="mainview_use_light_status_bar">false</bool>
+
+    <color name="launchscreen_status_bar_background">@android:color/background_dark</color>
+    <color name="mainview_status_bar_background">@android:color/background_dark</color>
+    <color name="light_status_bar_background">@android:color/background_dark</color>
+<!--
+    <style name="Base.V23.Theme.AppCompat.Light" parent="@*com.google.android.calendar:style/Base.V22.Theme.AppCompat">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="*com.google.android.calendar:actionBarItemBackground">?android:actionBarItemBackground</item>
+        <item name="*com.google.android.calendar:actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="*com.google.android.calendar:actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="*com.google.android.calendar:controlBackground">@*com.google.android.calendar:drawable/abc_control_background_material</item>
+        <item name="*com.google.android.calendar:ratingBarStyleIndicator">?android:ratingBarStyleIndicator</item>
+        <item name="*com.google.android.calendar:ratingBarStyleSmall">?android:ratingBarStyleSmall</item>
+    </style>
+
+    <style name="CalendarTheme.WithActionBar" parent="@*com.google.android.calendar:style/CalendarTheme.WithActionBar_v21">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="CardView" parent="@*com.google.android.calendar:style/Base.CardView">
+        <item name="*com.google.android.calendar:cardBackgroundColor">?android:colorBackgroundFloating</item>
+    </style>
+    <style name="DayPopUpTheme" parent="@*com.google.android.calendar:style/DayPopUpTheme_v21">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="DetailsTheme" parent="@*com.google.android.calendar:style/DetailsTheme_v21">
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+    </style>
+    <style name="PreferenceTheme.Compat" parent="@*com.google.android.calendar:style/PreferenceTheme">
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+    </style>
+    <style name="PreferencesTheme" parent="@*com.google.android.calendar:style/PreferencesTheme_v21">
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+    </style>
+
+    <style name="CalendarTheme.CreateGrooveActivity" parent="@*com.google.android.calendar:style/CalendarTheme.NoActionBar">
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@android:color/holo_blue_bright</item>
+        <item name="android:windowBackground">@android:color/holo_blue_bright</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="android:colorAccent">#1e1e1e</item>
+        <item name="android:statusBarColor">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.calendar:windowNoTitle">true</item>
+        <item name="*com.google.android.calendar:colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.calendar:colorAccent">#1e1e1e</item>
+    </style>
+
+    <style name="SearchToolbar" parent="@*com.google.android.calendar:style/Widget.AppCompat.Toolbar">
+        <item name="android:background">@android:color/background_dark</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:elevation">4.0dip</item>
+        <item name="*com.google.android.calendar:actionBarSize">@*com.google.android.calendar:dimen/action_bar_height</item>
+        <item name="*com.google.android.calendar:titleTextAppearance">@*com.google.android.calendar:style/TextAppearance.Toolbar.White</item>
+        <item name="*com.google.android.calendar:navigationIcon">@*com.google.android.calendar:drawable/quantum_ic_arrow_back_grey600_24</item>
+        <item name="*com.google.android.calendar:navigationContentDescription">@*com.google.android.calendar:string/accessibility_navigation_icon</item>
+    </style>
+-->
+
+    <style name="DayPopUpTheme" parent="@*com.google.android.calendar:style/DayPopUpTheme_v21">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="DetailsTheme_v21" parent="@*com.google.android.calendar:style/DetailsThemeCommon">
+        <item name="android:windowIsFloating">@*com.google.android.calendar:bool/not_show_event_info_full_screen</item>
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!--<style name="CalendarGmTheme.NoActionBar" parent="@*com.google.android.calendar:style/CalendarGmTheme.NoActionBar.Base">-->
+        <!--<item name="android:background">@android:color/background_dark</item>-->
+        <!--<item name="android:statusBarColor">@android:color/background_dark</item>-->
+        <!--<item name="android:windowLightStatusBar">false</item>-->
+    <!--</style>-->
+    <style name="CalendarTheme.WithActionBar" parent="@*com.google.android.calendar:style/CalendarTheme.WithActionBar_v21">
+
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="DefaultToolbar" parent="@*com.google.android.calendar:style/Widget.AppCompat.Toolbar">
+        <item name="*com.google.android.calendar:contentInsetStart">@*com.google.android.calendar:dimen/desired_title_start_padding</item>
+        <item name="*com.google.android.calendar:actionBarSize">@*com.google.android.calendar:dimen/action_bar_height</item>
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+        <item name="android:background">@android:color/background_dark</item>
+    </style>
+
+    <style name="Toolbar" >
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+    </style>
+
+
+    <!--<style name="EditTextToolbarGm" parent="@*com.google.android.calendar:style/EditTextToolbar">-->
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+        <!--<item name="android:background">@android:color/background_dark</item>-->
+        <!--<item name="android:paddingStart">4.0dip</item>-->
+        <!--<item name="*com.google.android.calendar:contentInsetStart">60.0dip</item>-->
+        <!--<item name="*com.google.android.calendar:contentInsetStartWithNavigation">60.0dip</item>-->
+        <!--<item name="*com.google.android.calendar:titleTextAppearance">@*com.google.android.calendar:style/TextAppearance.Toolbar.GoogleMaterial</item>-->
+        <!--<item name="*com.google.android.calendar:navigationIcon">@*com.google.android.calendar:drawable/quantum_gm_ic_arrow_back_gm_grey_24</item>-->
+    <!--</style>-->
+
+    <!--<style name="FullScreenDialogToolbarGm" parent="@*com.google.android.calendar:style/FullScreenDialogToolbar">-->
+        <!--<item name="android:background">@android:color/background_dark</item>-->
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+        <!--<item name="android:paddingStart">4.0dip</item>-->
+        <!--<item name="*com.google.android.calendar:contentInsetStart">64.0dip</item>-->
+        <!--<item name="*com.google.android.calendar:contentInsetStartWithNavigation">64.0dip</item>-->
+        <!--<item name="*com.google.android.calendar:navigationIcon">@*com.google.android.calendar:drawable/quantum_gm_ic_arrow_back_gm_grey_24</item>-->
+    <!--</style>-->
+
+    <style name="Widget.GoogleMaterial.TabLayout" parent="@*com.google.android.calendar:style/Widget.MaterialComponents.TabLayout">
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+        <item name="android:background">@android:color/background_dark</item>
+        <item name="*com.google.android.calendar:tabIndicatorColor">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.calendar:tabIndicator">@*com.google.android.calendar:drawable/google_tabs_rounded_line_indicator</item>
+        <item name="*com.google.android.calendar:tabIndicatorFullWidth">false</item>
+        <item name="*com.google.android.calendar:tabTextAppearance">@*com.google.android.calendar:style/TextAppearance.GoogleMaterial.Tab</item>
+        <item name="*com.google.android.calendar:tabTextColor">@*com.google.android.calendar:color/google_tabs_icon_color_selector</item>
+        <item name="*com.google.android.calendar:tabIconTint">@*com.google.android.calendar:color/google_tabs_icon_color_selector</item>
+        <item name="*com.google.android.calendar:tabRippleColor">@*com.google.android.calendar:color/google_tabs_ripple_color_selector</item>
+        <item name="*com.google.android.calendar:enforceMaterialTheme">false</item>
+        <item name="*com.google.android.calendar:enforceTextAppearance">false</item>
+    </style>
+
+    <style name="EditScreen">
+        <item name="android:backgroundTint">@android:color/background_dark</item>
+    </style>
+    <!--<style name="EditTextToolbar" parent="@*com.google.android.calendar:style/DefaultToolbar">-->
+        <!--&lt;!&ndash;<item name="android:backgroundTint">@android:color/background_dark</item>&ndash;&gt;-->
+        <!--<item name="android:background">@android:color/background_dark</item>-->
+        <!--<item name="android:layout_width">fill_parent</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="*com.google.android.calendar:titleTextAppearance">@*com.google.android.calendar:style/TextAppearance.Toolbar.White</item>-->
+        <!--<item name="*com.google.android.calendar:navigationIcon">@*com.google.android.calendar:drawable/quantum_gm_ic_arrow_back_white_24</item>-->
+        <!--<item name="*com.google.android.calendar:navigationContentDescription">@*com.google.android.calendar:string/accessibility_navigation_icon</item>-->
+    <!--</style>-->
+
+    <!--<style name="EditTextToolbarGm" parent="@style/DefaultToolbar">-->
+        <!--<item name="android:background">@color/calendar_appbar_background</item>-->
+        <!--<item name="android:layout_width">fill_parent</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:paddingStart">4.0dip</item>-->
+        <!--<item name="contentInsetStart">60.0dip</item>-->
+        <!--<item name="contentInsetStartWithNavigation">60.0dip</item>-->
+        <!--<item name="navigationContentDescription">@string/accessibility_navigation_icon</item>-->
+        <!--<item name="navigationIcon">@drawable/quantum_gm_ic_arrow_back_vd_theme_24</item>-->
+        <!--<item name="titleTextAppearance">@style/TextAppearance.Toolbar.GoogleMaterial</item>-->
+    <!--</style>-->
+
+    <!--<style name="GrooveSummaryText" parent="@android:style/Widget.Holo.TextView">-->
+        <!--<item name="android:textSize">@*com.google.android.calendar:dimen/groove_summary_text_text_size</item>-->
+        <!--<item name="android:textColor">@android:color/white</item>-->
+    <!--</style>-->
+    <!--<style name="GrooveCreationWizardTitle" parent="@android:style/Widget.Holo.TextView">-->
+        <!--<item name="android:textSize">@*com.google.android.calendar:dimen/groove_selection_title_text_size</item>-->
+        <!--<item name="android:textColor">@android:color/white</item>-->
+        <!--<item name="android:paddingTop">@*com.google.android.calendar:dimen/groove_selection_title_padding_top</item>-->
+        <!--<item name="android:paddingBottom">@*com.google.android.calendar:dimen/groove_selection_title_padding_bottom</item>-->
+        <!--<item name="android:focusable">true</item>-->
+        <!--<item name="android:focusableInTouchMode">true</item>-->
+        <!--<item name="android:textAlignment">viewStart</item>-->
+        <!--<item name="android:paddingStart">@*com.google.android.calendar:dimen/groove_selection_padding_horizontal</item>-->
+    <!--</style>-->
+
+    <style name="Base.Theme.GoogleMaterial.Light" parent="@*com.google.android.calendar:style/Base.Theme.GoogleMaterial.Dark">
+        <item name="android:statusBarColor">@android:color/holo_blue_light</item>
+    </style>
+
+    <!--<style name="CalendarGmTheme.AbstractNoActionBar.Base" parent="@*com.google.android.calendar:style/Theme.GoogleMaterial.Light.NoActionBar.Bridge" >-->
+        <!--&lt;!&ndash;<item name="android:backgroundTint">@android:color/background_dark</item>&ndash;&gt;-->
+    <!--</style>-->
+    <!--<style name="CalendarGmTheme.NoActionBar" parent="@*com.google.android.calendar:style/CalendarGmTheme.NoActionBar.Base">-->
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+        <!--<item name="android:statusBarColor">@android:color/holo_blue_light</item>-->
+    <!--</style>-->
+    <style name="EditScreenTheme" parent="@*com.google.android.calendar:style/DetailsTheme_v21" >
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+    </style>
+
+    <style name="CalendarGmTheme.AbstractNoActionBar.Base" parent="@*com.google.android.calendar:style/Theme.GoogleMaterial.Dark.NoActionBar.Bridge" />
+    <style name="CalendarTheme.AbstractNoActionBar" parent="@*com.google.android.calendar:style/Theme.GoogleMaterial.Dark.NoActionBar.Bridge" />
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@*com.google.android.calendar:style/Theme.AppCompat.NoActionBar" />
+    <style name="Theme.GoogleMaterial.DayNight" parent="@*com.google.android.calendar:style/Theme.GoogleMaterial.Dark" />
+    <style name="Theme.GoogleMaterial.DayNight.Dialog" parent="@*com.google.android.calendar:style/Theme.GoogleMaterial.Dark.Dialog" />
+</resources>

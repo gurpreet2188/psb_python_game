@@ -1,0 +1,14 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 99 99"
+    width="24px" height="24px">
+
+    <path
+        id="path_1"
+        d="M 22 50.1 L 22 78.2 L 79 78.2 L 79 35.9 L 49.9 13.2 L 22 35.9"
+        style="fill:none;stroke:#1e1e1e;stroke-width:4.5px;"/>
+    <path
+        id="path_2"
+        d="M 41.9 77.4 L 41.9 52.9 L 57.7 52.9 L 57.7 65.5"
+        style="fill:none;stroke:#1e1e1e;stroke-width:4.5px;" />
+</svg>

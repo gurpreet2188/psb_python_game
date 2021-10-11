@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout n1:id="@*com.whatsapp:id/send_current_location_btn" n1:background="@*com.whatsapp:drawable/selector_orange_gradient" n1:layout_width="wrap_content" n1:layout_height="@*com.whatsapp:dimen/location_picker_row_height"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <FrameLayout n1:layout_gravity="left" n1:layout_width="@*com.whatsapp:dimen/location_picker_row_height" n1:layout_height="@*com.whatsapp:dimen/location_picker_row_height">
+        <ImageView n1:layout_gravity="center" n1:id="@*com.whatsapp:id/send_current_location_icon" n1:background="@*com.whatsapp:drawable/send_current_location_background" n1:layout_width="@*com.whatsapp:dimen/location_picker_icon_size" n1:layout_height="@*com.whatsapp:dimen/location_picker_icon_size" n1:src="@*com.whatsapp:drawable/ic_current_location" n1:scaleType="center" n1:tint="@*com.whatsapp:color/list_item_verified_title" />
+    </FrameLayout>
+    <LinearLayout n1:gravity="left" n1:layout_gravity="center|left" n1:orientation="vertical" n1:paddingLeft="@*com.whatsapp:dimen/location_picker_row_height" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <com.whatsapp.WaTextView n1:textAppearance="?android:textAppearanceSmallInverse" n1:textSize="17.0sp" n1:textColor="@android:color/primary_text_dark" n1:ellipsize="end" n1:id="@*com.whatsapp:id/send_current_location_text" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:text="@*com.whatsapp:string/send_this_location" n1:maxLines="1" />
+        <com.whatsapp.WaTextView n1:textSize="14.0sp" n1:textColor="#c1ffffff" n1:ellipsize="end" n1:id="@*com.whatsapp:id/location_description" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:maxLines="1" />
+    </LinearLayout>
+    <View n1:layout_gravity="bottom" n1:id="@*com.whatsapp:id/this_location_divider" n1:background="@*com.whatsapp:color/divider_gray" n1:visibility="gone" n1:layout_width="fill_parent" n1:layout_height="0.5dip" />
+</FrameLayout>

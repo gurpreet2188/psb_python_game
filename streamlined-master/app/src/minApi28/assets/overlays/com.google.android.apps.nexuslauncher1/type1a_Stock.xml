@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BaseLauncherThemeWithCustomAttrs" parent="@*com.google.android.apps.nexuslauncher:style/BaseLauncherTheme">
+        <item name="*com.google.android.apps.nexuslauncher:allAppsNavBarScrimColor">#33000000</item>
+        <item name="*com.google.android.apps.nexuslauncher:popupColorPrimary">?android:colorBackgroundFloating</item>
+        <item name="*com.google.android.apps.nexuslauncher:popupColorSecondary">?android:colorBackgroundFloating</item>
+        <item name="*com.google.android.apps.nexuslauncher:popupColorTertiary">?android:colorBackgroundFloating</item>
+        <item name="*com.google.android.apps.nexuslauncher:isWorkspaceDarkText">false</item>
+        <item name="*com.google.android.apps.nexuslauncher:workspaceTextColor">@android:color/white</item>
+        <item name="*com.google.android.apps.nexuslauncher:workspaceShadowColor">#b0000000</item>
+        <item name="*com.google.android.apps.nexuslauncher:workspaceAmbientShadowColor">#33000000</item>
+        <item name="*com.google.android.apps.nexuslauncher:workspaceKeyShadowColor">#44000000</item>
+        <item name="*com.google.android.apps.nexuslauncher:isMainColorDark">@*com.google.android.apps.nexuslauncher:string/about_app_version</item>
+        <item name="*com.google.android.apps.nexuslauncher:allAppsScrimColor">@android:color/background_dark</item>
+        <item name="android:keyboardLayout">@*com.google.android.apps.nexuslauncher:layout/search_container_all_apps</item>
+        <item name="*com.google.android.apps.nexuslauncher:workspaceStatusBarScrim">@*com.google.android.apps.nexuslauncher:drawable/workspace_bg</item>
+        <item name="*com.google.android.apps.nexuslauncher:widgetsTheme">@*com.google.android.apps.nexuslauncher:style/WidgetContainerTheme</item>
+    </style>
+
+</resources>

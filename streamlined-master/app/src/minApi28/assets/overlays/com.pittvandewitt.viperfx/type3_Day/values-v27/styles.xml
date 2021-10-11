@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.V23.Theme.AppCompat" parent="@*com.pittvandewitt.viperfx:style/Base.V22.Theme.AppCompat">
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:colorControlNormal">#1e1e1e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:statusBarColor">@android:color/holo_red_light</item>
+        <item name="*com.pittvandewitt.viperfx:actionBarItemBackground">?android:actionBarItemBackground</item>
+        <item name="*com.pittvandewitt.viperfx:actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="*com.pittvandewitt.viperfx:actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="*com.pittvandewitt.viperfx:controlBackground">@*com.pittvandewitt.viperfx:drawable/abc_control_background_material</item>
+        <item name="*com.pittvandewitt.viperfx:ratingBarStyleIndicator">?android:ratingBarStyleIndicator</item>
+        <item name="*com.pittvandewitt.viperfx:ratingBarStyleSmall">?android:ratingBarStyleSmall</item>
+    </style>
+</resources>

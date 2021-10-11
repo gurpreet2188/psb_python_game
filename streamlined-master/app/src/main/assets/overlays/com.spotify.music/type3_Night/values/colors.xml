@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="android_checkedTextViewStyle" format="reference" />
+    <attr name="android_switchStyle" format="reference" />
+
+
+    <color name="accent_material_dark">@android:color/holo_blue_bright</color>
+    <color name="accent_material_light">@android:color/holo_blue_bright</color>
+
+    <color name="background_floating_material_dark">@android:color/holo_purple</color>
+    <color name="background_floating_material_light">@android:color/holo_purple</color>
+    <color name="background_material_dark">@android:color/background_dark</color>
+    <color name="background_material_light">@android:color/background_dark</color>
+    <color name="tooltip_background_dark">@android:color/holo_purple</color>
+    <color name="tooltip_background_light">@android:color/holo_purple</color>
+    <color name="cardview_dark_background">@android:color/holo_purple</color>
+    <color name="cardview_light_background">@android:color/holo_purple</color>
+    <color name="cardview_shadow_end_color">#00000000</color>
+    <color name="cardview_shadow_start_color">#00000000</color>
+    <!--
+        <color name="bright_foreground_disabled_material_dark">#801e1e1e</color>
+        <color name="bright_foreground_disabled_material_light">#80000000</color>
+        <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
+        <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color> -->
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+    <color name="bright_foreground_material_light">@android:color/black</color>
+
+    <color name="button_material_dark">@android:color/holo_purple</color>
+    <color name="button_material_light">@android:color/holo_purple</color>
+
+    <color name="foreground_material_dark">@android:color/white</color>
+    <color name="foreground_material_light">@android:color/black</color>
+
+    <color name="primary_dark_material_dark">@android:color/background_dark</color>
+    <color name="primary_dark_material_light">@android:color/background_dark</color>
+    <color name="primary_material_dark">@android:color/background_dark</color>
+    <color name="primary_material_light">@android:color/background_dark</color>
+
+    <color name="primary_text_default_material_dark">#1e1e1e</color>
+    <color name="primary_text_default_material_light">#1e1e1e</color>
+    <color name="primary_text_disabled_material_dark">#4d1e1e1e</color>
+    <color name="primary_text_disabled_material_light">#a11e1e1e</color>
+
+    <color name="secondary_text_default_material_light">#d81e1e1e</color>
+    <color name="secondary_text_default_material_dark">#b31e1e1e</color>
+    <color name="secondary_text_disabled_material_dark">#361e1e1e</color>
+    <color name="secondary_text_disabled_material_light">#a11e1e1e</color>
+
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="highlighted_text_material_light">#66009688</color>
+
+    <color name="ripple_material_dark">@android:color/holo_blue_bright</color>
+    <color name="ripple_material_light">@android:color/holo_blue_bright</color>
+
+    <color name="switch_thumb_disabled_material_dark">#a11e1e1e</color>
+    <color name="switch_thumb_disabled_material_light">#a11e1e1e</color>
+    <color name="switch_thumb_normal_material_dark">@android:color/holo_blue_bright</color>
+    <color name="switch_thumb_normal_material_light">@android:color/holo_blue_bright</color>
+
+
+    <!-- app specifics -->
+    <color name="cat_grayscale_8">@android:color/background_dark</color>
+
+    <color name="glue_black">@android:color/holo_purple</color>
+    <color name="glue_gray_7">@android:color/background_dark</color>
+    <color name="cat_grayscale_15">@android:color/background_dark</color>
+    <color name="cat_black">@android:color/holo_purple</color>
+    <color name="glue_gray_background">@android:color/background_dark</color>
+    <color name="glue_gray_background_30">@android:color/background_dark</color>
+    <color name="glue_gray_background_90">@android:color/background_dark</color>
+    <color name="glue_green_dark">#c11e1e1e</color>
+    <color name="glue_green_light">@android:color/holo_blue_bright</color>
+
+
+
+
+
+</resources>

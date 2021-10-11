@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="letter_tile_colors">
+        <item>#777777</item>
+        <item>#777777</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>#777777</item>
+        <item>#777777</item>
+    </array>
+</resources>

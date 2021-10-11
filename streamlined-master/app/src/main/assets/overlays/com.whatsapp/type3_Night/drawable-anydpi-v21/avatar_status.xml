@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="60dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <path
+        android:fillColor="@android:color/holo_purple"
+        android:strokeColor="@android:color/holo_blue_bright"
+        android:strokeWidth="1"
+        android:pathData="M50,0.5 C77.3381,0.5,99.5,22.6619,99.5,50 C99.5,77.3381,77.3381,99.5,50,99.5
+C22.6619,99.5,0.5,77.3381,0.5,50 C0.5,22.6619,22.6619,0.5,50,0.5 Z" />
+    <group android:pivotX="50" android:pivotY="50" android:scaleX="0.5" android:scaleY="0.5">
+    <path
+        android:strokeLineCap="round"
+        android:strokeColor="@android:color/holo_blue_bright"
+        android:strokeWidth="5"
+        android:pathData="M85,50 C85,67.405,72.268,81.859,55.618,84.551" />
+    <path
+        android:strokeLineCap="round"
+        android:strokeColor="@android:color/holo_blue_bright"
+        android:strokeWidth="5"
+        android:pathData="M45.994,84.773 C29.96,82.942,17.201,70.258,15.257,54.259" />
+    <path
+        android:strokeLineCap="round"
+        android:strokeColor="@android:color/holo_blue_bright"
+        android:strokeWidth="5"
+        android:pathData="M15.532,43.891 C18.425,27.482,32.766,15,50,15" />
+    <path
+        android:strokeLineCap="round"
+        android:strokeColor="@android:color/holo_blue_bright"
+        android:strokeWidth="5"
+        android:pathData="M66.643,29.072 L56.855,29.072" />
+    <path
+        android:strokeLineCap="round"
+        android:strokeColor="@android:color/holo_blue_bright"
+        android:strokeWidth="5"
+        android:pathData="M85,29.072 L75.211,29.072" />
+    <path
+        android:strokeLineCap="round"
+        android:strokeColor="@android:color/holo_blue_bright"
+        android:strokeWidth="5"
+        android:pathData="M70.927,33.357 L70.927,43.145" />
+    <path
+        android:strokeLineCap="round"
+        android:strokeColor="@android:color/holo_blue_bright"
+        android:strokeWidth="5"
+        android:pathData="M70.927,15 L70.927,24.789" />
+
+    </group>
+</vector>

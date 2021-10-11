@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100" android:tint="@*android:color/switch_thumb_material_light" >
+
+    <group android:pivotX="50"  android:pivotY="50" android:scaleX=".4" android:scaleY=".4" >
+        <path
+            android:name="ring_outer_path"
+            android:trimPathStart="0"
+            android:fillColor="#ffffff"
+            android:fillAlpha="1"
+            android:strokeWidth="8"
+            android:strokeColor="#ffffff"
+            android:pathData="M50,38.5 C56.3513,38.5,61.5,43.6487,61.5,50 C61.5,56.3513,56.3513,61.5,50,61.5 C43.6487,61.5,38.5,56.3513,38.5,50 C38.5,43.6487,43.6487,38.5,50,38.5 Z" />
+    </group>
+
+    <group android:pivotX="50" android:pivotY="50" android:scaleX="1.6" android:scaleY="1.6" >
+        <path
+            android:strokeAlpha="0.6"
+            android:fillAlpha="0"
+            android:strokeWidth="4.8"
+            android:strokeColor="#ffffff"
+            android:pathData="M50,38.5 C56.3513,38.5,61.5,43.6487,61.5,50 C61.5,56.3513,56.3513,61.5,50,61.5 C43.6487,61.5,38.5,56.3513,38.5,50 C38.5,43.6487,43.6487,38.5,50,38.5 Z" />
+    </group>
+
+    <group android:pivotX="50" android:pivotY="50" android:scaleX="1.6" android:scaleY="1.6" >
+        <path
+            android:name="ring_outer"
+            android:trimPathEnd="1"
+            android:strokeWidth="4.8"
+            android:strokeColor="#ffffff"
+            android:pathData="M50,38.5 C56.3513,38.5,61.5,43.6487,61.5,50 C61.5,56.3513,56.3513,61.5,50,61.5 C43.6487,61.5,38.5,56.3513,38.5,50 C38.5,43.6487,43.6487,38.5,50,38.5 Z" />
+    </group>
+</vector>

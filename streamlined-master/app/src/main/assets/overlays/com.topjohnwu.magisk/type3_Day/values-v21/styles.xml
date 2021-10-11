@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorControlNormal">#6e6e6e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorLink">?android:colorAccent</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+        <item name="android:textColorLinkInverse">?android:colorAccent</item>
+    </style>
+
+    <style name="CardViewStyle.Light" parent="@android:style/Widget">
+        <item name="cardCornerRadius">0.0dip</item>
+        <item name="cardElevation">0.0dip</item>
+        <item name="cardMaxElevation">0.0dip</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+        <item name="cardBackgroundColor">@*android:color/background_material_light</item>
+    </style>
+</resources>

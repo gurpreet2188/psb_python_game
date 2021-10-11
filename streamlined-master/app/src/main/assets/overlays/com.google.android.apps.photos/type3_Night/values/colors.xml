@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="photos_drawermenu_navigation_divider_height">0.0dip</dimen>
+    <dimen name="photos_drawermenu_navigation_item_view_icon_size">26.0dip</dimen>
+
+    <!--<dimen name="photos_assistant_cardui_corner_radius">0.0dip</dimen>-->
+    <!--<dimen name="photos_assistant_cardui_divider_line_height">0.0dip</dimen>-->
+
+    <color name="button_material_dark">@android:color/holo_purple</color>
+    <color name="button_material_light">@android:color/holo_purple</color>
+
+    <color name="photos_assistant_cardui_header_dark_title">#d8ffffff</color>
+    <color name="photos_assistant_cardui_header_light_title">#d8ffffff</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#ffffff</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="primary_text_disabled_material_light">#4dffffff</color>
+    <color name="secondary_text_default_material_dark">#d8ffffff</color>
+    <color name="secondary_text_default_material_light">#d8ffffff</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#36ffffff</color>
+    <color name="text_black_26_percent">#a1ffffff</color>
+    <color name="text_black_54_percent">#99ffffff</color>
+    <color name="text_black_87_percent">#ddffffff</color>
+    <color name="text_blue">#ff2861ff</color>
+    <color name="text_gray">#ff757575</color>
+    <color name="text_gray_accessible_on_grey200">#ffffffff</color>
+    <color name="text_hint">#c1ffffff</color>
+    <color name="text_normal">#d8ffffff</color>
+    <color name="quantum_black_100">@android:color/background_dark</color>
+    <color name="quantum_black_divider">#1fffffff</color>
+    <color name="quantum_black_hint_text">#61ffffff</color>
+    <color name="quantum_black_secondary_text">#89ffffff</color>
+    <color name="quantum_black_text">#ddffffff</color>
+    <color name="mm_black">@android:color/background_dark</color>
+    <color name="mm_black_30_percent">@android:color/background_dark</color>
+    <color name="mm_black_50_percent">@android:color/background_dark</color>
+    <color name="mm_black_66_percent">@android:color/background_dark</color>
+    <color name="mm_black_80_percent">@android:color/background_dark</color>
+    <color name="quantum_grey900">#ffffffff</color>
+    <color name="quantum_grey500">#a8ffffff</color>
+    <color name="quantum_grey600">#b8ffffff</color>
+    <color name="quantum_grey700">#c8ffffff</color>
+    <color name="quantum_grey800">#d8ffffff</color>
+    <color name="ingest_date_tile_text">#d8ffffff</color>
+    <color name="quantum_googblue500">@android:color/holo_blue_bright</color>
+    <color name="blue_4">@android:color/holo_blue_bright</color>
+
+    <color name="quantum_white_100">@android:color/background_dark</color>
+    <color name="google_white">@android:color/background_dark</color>
+    <color name="tile_background">#22ffffff</color>
+    <color name="tile_background_selected">#44ffffff</color>
+    <color name="photos_partneraccount_onboarding_bullet_number">#ffffff</color>
+    <color name="photos_sharingtab_impl_suggestionsview_card_overflow_count_text">#ffffff</color>
+    <color name="photos_theme_gm2_white_translucent_navigation_bar_color">@android:color/background_dark</color>
+    <color name="photos_theme_white_translucent_navigation_bar_color">@android:color/background_dark</color>
+    <color name="host_background">#777777</color>
+
+    <color name="photos_videoeditor_video_main_background">@android:color/background_dark</color>
+    <color name="photos_videoeditor_video_main_background_new">@android:color/background_dark</color>
+    <color name="mm_music_page_color">@android:color/background_dark</color>
+    <color name="quantum_grey200">#f2f2f2</color>
+    <color name="default_bg">@android:color/background_dark</color>
+    <color name="material_grey_100">#f1f1f1</color>
+    <color name="quantum_grey100">#f1f1f1</color>
+
+    <color name="background_floating_material_dark">@android:color/holo_purple</color>
+    <color name="background_floating_material_light">@android:color/holo_purple</color>
+    <color name="background_material_dark">@android:color/holo_purple</color>
+    <color name="background_material_light">@android:color/holo_purple</color>
+
+    <color name="primary_dark_material_dark">@android:color/holo_blue_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_blue_light</color>
+    <color name="primary_material_dark">@android:color/holo_blue_light</color>
+    <color name="primary_material_light">@android:color/holo_blue_light</color>
+    <color name="quantum_greywhite1000">@android:color/holo_blue_light</color>
+
+
+    <color name="photos_theme_status_bar_color">#00000000</color>
+
+    <color name="sendkit_api_default_action_bar_color">@android:color/holo_blue_light</color>
+    <color name="sendkit_ui_autocomplete_background_color">@android:color/background_dark</color>
+    <color name="sendkit_ui_autocomplete_chip_background">@android:color/holo_purple</color>
+    <color name="sendkit_ui_autocomplete_divider_color">#00cccccc</color>
+    <color name="sendkit_ui_autocomplete_highlight_color">#ffffffff</color>
+    <color name="sendkit_ui_autocomplete_hint_color">#c1ffffff</color>
+    <color name="sendkit_ui_autocomplete_light_divider_color">#00eeeeee</color>
+    <color name="sendkit_ui_autocomplete_row_background_color">@android:color/background_dark</color>
+    <color name="sendkit_ui_autocomplete_selected_color">@android:color/holo_blue_bright</color>
+    <color name="sendkit_ui_autocomplete_text_color">#d8ffffff</color>
+    <color name="sendkit_ui_default_background_color">@android:color/background_dark</color>
+    <color name="sendkit_ui_default_primary_color">#ffffff</color>
+    <color name="sendkit_ui_default_secondary_color">#d8ffffff</color>
+    <color name="sendkit_ui_default_selected_primary_color">#ffffff</color>
+    <color name="sendkit_ui_default_selected_secondary_color">#d8ffffff</color>
+    <color name="sendkit_ui_divider_color">#00e2e2e2</color>
+    <color name="sendkit_ui_info_icon_tint">@android:color/holo_blue_bright</color>
+    <color name="sendkit_ui_list_background_color">@android:color/background_dark</color>
+    <color name="sendkit_ui_message_bar_top_border_color">#00eeeeee</color>
+    <color name="sendkit_ui_secondary_divider_color">#00e2e2e2</color>
+    <color name="sendkit_ui_snackbar_text_color">#ffffffff</color>
+
+    <color name="card_background_selected">@android:color/holo_purple</color>
+    <color name="cardview_dark_background">@android:color/background_dark</color>
+    <color name="cardview_light_background">@android:color/background_dark</color>
+    <color name="design_default_color_background">@android:color/background_dark</color>
+    <color name="design_default_color_on_primary">@android:color/background_dark</color>
+    <color name="hats_lib_survey_white_shape_color">@android:color/background_dark</color>
+    <color name="hats_lib_white_100">@android:color/background_dark</color>
+    <color name="photos_album_enrichment_ui_map_marker_background">@android:color/background_dark</color>
+    <color name="cardview_shadow_end_color">#00000000</color>
+    <color name="cardview_shadow_start_color">#30000000</color>
+
+    <color name="photos_list_fastscroll_new_scrubber_label_background">@android:color/holo_purple</color>
+    <color name="photos_list_fastscroll_new_scrubber_label_text">#d8ffffff</color>
+    <color name="photos_list_fastscroll_new_scrubber_scale_label_background">@android:color/holo_purple</color>
+    <color name="photos_list_fastscroll_new_scrubber_scale_label_text">#d8ffffff</color>
+
+    <!--<color name="google_grey600">#d8ffffff</color>-->
+    <!--<color name="google_grey700">#a1ffffff</color>-->
+    <!--<color name="google_grey800">#f1ffffff</color>-->
+    <!--<color name="google_grey900">#ffffffff</color>-->
+
+
+    <color name="photos_daynight_blue100">@android:color/holo_blue_bright</color>
+    <color name="photos_daynight_blue50">@android:color/holo_blue_bright</color>
+    <color name="photos_daynight_blue600">@android:color/holo_blue_bright</color>
+    <color name="photos_daynight_grey100">#d1d1d1</color>
+    <color name="photos_daynight_grey300">#e0e0e0</color>
+    <color name="photos_daynight_grey600">#e1e1e1</color>
+    <color name="photos_daynight_grey700">#f0f0f0</color>
+    <color name="photos_daynight_grey800">#f1f1f1</color>
+    <color name="photos_daynight_grey800_alpha38">#61ffffff</color>
+    <color name="photos_daynight_grey900">#ffffffff</color>
+    <color name="photos_daynight_red600">@android:color/holo_blue_bright</color>
+    <color name="photos_daynight_white">@android:color/background_dark</color>
+    <color name="photos_daynight_white_elevation_3dp">@android:color/background_dark</color>
+    <color name="photos_daynight_white_elevation_6dp">@android:color/background_dark</color>
+    <color name="og_elevation_dark_2">@android:color/background_dark</color>
+    <color name="google_dark_default_color_primary">@android:color/background_dark</color>
+    <color name="google_dark_default_color_primary_dark">@android:color/background_dark</color>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="common.Theme.Base.GoogleSettings" parent="@*com.google.android.play.games:style/Theme.AppCompat.Light">
+        <item name="android:listPreferredItemHeight">72.0dip</item>
+        <item name="android:statusBarColor">@android:color/holo_blue_light</item>
+        <item name="android:colorEdgeEffect">@android:color/white</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="*com.google.android.play.games:popupTheme">@*com.google.android.play.games:style/ThemeOverlay.AppCompat.Light</item>
+        <item name="*com.google.android.play.games:actionBarTheme">@*com.google.android.play.games:style/common.Theme.Base.ActionBar</item>
+        <item name="*com.google.android.play.games:dialogCornerRadius">@*com.google.android.play.games:dimen/common_dialog_corner_radius</item>
+        <item name="*com.google.android.play.games:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.play.games:colorPrimaryDark">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.play.games:colorAccent">#ffffff</item>
+        <item name="*com.google.android.play.games:preferenceTheme">@*com.google.android.play.games:style/PreferenceTheme</item>
+    </style>
+</resources>

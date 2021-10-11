@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="OneGoogle.AccountMenu.DayNight" parent="@*com.google.android.keep:style/OneGoogle.AccountMenu.Dark" />
+    <style name="OneGoogle.AccountMenu.PolicyFooter.DayNight" parent="@*com.google.android.keep:style/OneGoogle.AccountMenu.PolicyFooter.Dark" />
+    <style name="OneGoogle.AccountParticle.DayNight" parent="@*com.google.android.keep:style/OneGoogle.AccountParticle.Dark" />
+    <style name="OneGoogle.AccountParticleDisc.DayNight" parent="@*com.google.android.keep:style/OneGoogle.AccountParticleDisc.Dark" />
+    <style name="Theme.AppCompat.DayNight" parent="@*com.google.android.keep:style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="@*com.google.android.keep:style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="@*com.google.android.keep:style/Theme.AppCompat.Dialog" />
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="@*com.google.android.keep:style/Theme.AppCompat.Dialog.Alert" />
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="@*com.google.android.keep:style/Theme.AppCompat.Dialog.MinWidth" />
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="@*com.google.android.keep:style/Theme.AppCompat.DialogWhenLarge" />
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@*com.google.android.keep:style/Theme.AppCompat.NoActionBar" />
+    <style name="Theme.GoogleMaterial.DayNight" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark" />
+    <style name="Theme.GoogleMaterial.DayNight.BottomSheetDialog" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark.BottomSheetDialog" />
+    <style name="Theme.GoogleMaterial.DayNight.Bridge" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark.Bridge" />
+    <style name="Theme.GoogleMaterial.DayNight.Dialog" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark.Dialog" />
+    <style name="Theme.GoogleMaterial.DayNight.Dialog.Alert" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark.Dialog.Alert" />
+    <style name="Theme.GoogleMaterial.DayNight.Dialog.Bridge" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark.Dialog.Bridge" />
+    <style name="Theme.GoogleMaterial.DayNight.Dialog.MinWidth" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark.Dialog.MinWidth" />
+    <style name="Theme.GoogleMaterial.DayNight.DialogWhenLarge" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark.DialogWhenLarge" />
+    <style name="Theme.GoogleMaterial.DayNight.NoActionBar" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark.NoActionBar" />
+    <style name="Theme.GoogleMaterial.DayNight.NoActionBar.Bridge" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark.NoActionBar.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight" parent="@*com.google.android.keep:style/Theme.MaterialComponents" />
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="@*com.google.android.keep:style/Theme.MaterialComponents.BottomSheetDialog" />
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="@*com.google.android.keep:style/Theme.MaterialComponents.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="@*com.google.android.keep:style/Theme.MaterialComponents" />
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="@*com.google.android.keep:style/Theme.MaterialComponents.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="@*com.google.android.keep:style/Theme.MaterialComponents.Dialog" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="@*com.google.android.keep:style/Theme.MaterialComponents.Dialog.Alert" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="@*com.google.android.keep:style/Theme.MaterialComponents.Dialog.Alert.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="@*com.google.android.keep:style/Theme.MaterialComponents.Dialog.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="@*com.google.android.keep:style/Theme.MaterialComponents.Dialog.FixedSize" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="@*com.google.android.keep:style/Theme.MaterialComponents.Dialog.FixedSize.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="@*com.google.android.keep:style/Theme.MaterialComponents.Dialog.MinWidth" />
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="@*com.google.android.keep:style/Theme.MaterialComponents.Dialog.MinWidth.Bridge" />
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="@*com.google.android.keep:style/Theme.MaterialComponents.DialogWhenLarge" />
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="@*com.google.android.keep:style/Theme.MaterialComponents.NoActionBar" />
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="@*com.google.android.keep:style/Theme.MaterialComponents.NoActionBar.Bridge" />
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="@*com.google.android.keep:style/ThemeOverlay.AppCompat.Dark" />
+    <style name="ThemeOverlay.GoogleMaterial.DayNight.BottomSheetDialog" parent="@*com.google.android.keep:style/ThemeOverlay.GoogleMaterial.Dark.BottomSheetDialog" />
+    <style name="ThemeOverlay.MaterialComponents.DayNight.BottomSheetDialog" parent="@*com.google.android.keep:style/ThemeOverlay.MaterialComponents.BottomSheetDialog" />
+    <style name="ThemeOverlay.Popup" parent="@*com.google.android.keep:style/ThemeOverlay.AppCompat.Dark">
+        <item name="colorControlNormal">#ffa9a9a9</item>
+    </style>
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="@*com.google.android.keep:style/Widget.MaterialComponents.ActionBar.Surface" />
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="@*com.google.android.keep:style/Widget.MaterialComponents.AppBarLayout.Surface" />
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="@*com.google.android.keep:style/Widget.MaterialComponents.BottomAppBar" />
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="@*com.google.android.keep:style/Widget.MaterialComponents.BottomNavigationView" />
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="@*com.google.android.keep:style/Widget.MaterialComponents.TabLayout" />
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="@*com.google.android.keep:style/Widget.MaterialComponents.Toolbar.Surface" />
+
+    <!--<style name="Platform.V21.AppCompat.Light" parent="@*android:style/Theme.Material.NoActionBar">-->
+        <!--<item name="android:textColorHintInverse">@*com.google.android.keep:color/abc_hint_foreground_material_dark</item>-->
+        <!--<item name="android:textColorHint">@*com.google.android.keep:color/abc_hint_foreground_material_light</item>-->
+        <!--<item name="android:textColorLink">?android:colorAccent</item>-->
+        <!--<item name="android:buttonBarStyle">?buttonBarStyle</item>-->
+        <!--<item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>-->
+        <!--<item name="android:textColorLinkInverse">?android:colorAccent</item>-->
+    <!--</style>-->
+
+    <!--<style name="DrawerLandingPageItemTextActiveStyle">-->
+        <!--<item name="android:textStyle">bold</item>-->
+        <!--<item name="android:textColor">#ffffffff</item>-->
+    <!--</style>-->
+
+    <!--<style name="DrawerFragmentStyle">-->
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+        <!--<item name="android:layout_gravity">left</item>-->
+    <!--</style>-->
+
+    <!--<style name="KeepPhotoViewerTheme" parent="@*com.google.android.keep:style/Theme.AppCompat.Light">-->
+        <!--<item name="android:colorControlNormal">#ffffff</item>-->
+        <!--<item name="android:tint">#ffffff</item>-->
+        <!--<item name="android:color">#ffffff</item>-->
+        <!--<item name="android:textColorPrimary">#ffffff</item>-->
+        <!--<item name="android:windowBackground">@android:color/background_dark</item>-->
+        <!--<item name="android:windowDrawsSystemBarBackgrounds">true</item>-->
+        <!--<item name="android:statusBarColor">@android:color/background_dark</item>-->
+        <!--<item name="*com.google.android.keep:popupTheme">@*com.google.android.keep:style/ThemeOverlay.AppCompat.Light</item>-->
+    <!--</style>-->
+
+    <!--<style name="ThemeOverlay.GoogleMaterial.Toolbar.Contextual" parent="">-->
+        <!--<item name="*com.google.android.keep:colorControlNormal">@android:color/holo_blue_bright</item>-->
+        <!--<item name="android:backgroundTint">@android:color/holo_purple</item>-->
+    <!--</style>-->
+
+    <!--<style name="ContextualToolbarTheme">-->
+        <!--<item name="android:backgroundTint">@android:color/holo_purple</item>-->
+        <!--<item name="android:colorBackground">@android:color/holo_purple</item>-->
+        <!--<item name="android:background">@android:color/holo_purple</item>-->
+        <!--<item name="*com.google.android.keep:colorControlNormal">@android:color/holo_blue_bright</item>-->
+    <!--</style>-->
+
+    <!--<style name="Theme.GoogleMaterial.Light.Dialog" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark.Dialog" />-->
+
+    <!--<style name="Theme.GoogleMaterial.Light.Dialog" parent="@*com.google.android.keep:style/Base.Theme.GoogleMaterial.Dark.Dialog" >-->
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+    <!--</style>-->
+    <!--<style name="Theme.GoogleMaterial.Light.Dialog.Alert" parent="@*com.google.android.keep:style/Base.Theme.GoogleMaterial.Dark.Dialog.Alert" >-->
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+    <!--</style>-->
+    <!--<style name="Theme.GoogleMaterial.Light.Dialog.MinWidth" parent="@*com.google.android.keep:style/Base.Theme.GoogleMaterial.Dark.Dialog.MinWidth" >-->
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+    <!--</style>-->
+    <!--<style name="Theme.GoogleMaterial.Light.DialogWhenLarge" parent="@*com.google.android.keep:style/Base.Theme.GoogleMaterial.Dark.DialogWhenLarge" />-->
+    <!--<style name="Theme.GoogleMaterial.Light.NoActionBar" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Dark.NoActionBar"/>-->
+
+    <!--<style name="Base.Theme.AppCompat.Light.Dialog" parent="@*com.google.android.keep:style/Base.V21.Theme.AppCompat.Dialog" >-->
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+    <!--</style>-->
+
+
+
+    <!--<style name="ThemeOverlay.GoogleMaterial.OpenSearch.Dark" parent="">-->
+        <!--<item name="*com.google.android.keep:colorOnSurface">#ffffff</item>-->
+        <!--<item name="*com.google.android.keep:colorSurface">@android:color/holo_purple</item>-->
+    <!--</style>-->
+
+    <!--<style name="EditorToolbarTheme">-->
+        <!--<item name="*com.google.android.keep:colorControlNormal">#ffffff</item>-->
+        <!--<item name="android:colorControlNormal">#ffffff</item>-->
+        <!--<item name="android:tint">#ffffff</item>-->
+        <!--<item name="android:color">#ffffff</item>-->
+    <!--</style>-->
+
+    <!--&lt;!&ndash;<style name="EditorTheme" parent="@*com.google.android.keep:style/WidgetEditorTheme">&ndash;&gt;-->
+        <!--&lt;!&ndash;<item name="android:windowBackground">@android:color/transparent</item>&ndash;&gt;-->
+        <!--&lt;!&ndash;<item name="android:windowIsFloating">false</item>&ndash;&gt;-->
+        <!--&lt;!&ndash;<item name="android:windowIsTranslucent">true</item>&ndash;&gt;-->
+        <!--&lt;!&ndash;<item name="android:windowAnimationStyle">@null</item>&ndash;&gt;-->
+        <!--&lt;!&ndash;<item name="*com.google.android.keep:colorControlNormal">#ffffff</item>&ndash;&gt;-->
+        <!--&lt;!&ndash;<item name="android:colorControlNormal">#ffffff</item>&ndash;&gt;-->
+        <!--&lt;!&ndash;<item name="android:tint">#ffffff</item>&ndash;&gt;-->
+        <!--&lt;!&ndash;<item name="android:color">#ffffff</item>&ndash;&gt;-->
+    <!--&lt;!&ndash;</style>&ndash;&gt;-->
+
+    <!--<style name="LightToolbarStyle" parent="@*com.google.android.keep:style/Widget.GoogleMaterial.Toolbar">-->
+        <!--<item name="android:background">@android:color/background_dark</item>-->
+        <!--<item name="android:colorControlNormal">#ffffff</item>-->
+        <!--<item name="android:tint">#ffffff</item>-->
+        <!--<item name="android:color">#ffffff</item>-->
+        <!--<item name="android:touchscreenBlocksFocus">true</item>-->
+        <!--<item name="*com.google.android.keep:titleTextAppearance">@*com.google.android.keep:style/Heading6TextAppearance</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="ReminderDialogSpinner" parent="@android:style/Widget.Material.Spinner">-->
+        <!--<item name="android:textSize">16.0sp</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:gravity">center_vertical</item>-->
+        <!--<item name="android:layout_width">fill_parent</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+    <!--</style>-->
+
+    <!--<style name="DrawerItemIconStyle">-->
+        <!--<item name="android:tint">#ffffff</item>-->
+        <!--<item name="android:gravity">center</item>-->
+        <!--<item name="android:layout_gravity">center</item>-->
+        <!--<item name="android:layout_width">32.0dip</item>-->
+        <!--<item name="android:layout_height">32.0dip</item>-->
+        <!--<item name="android:scaleType">center</item>-->
+        <!--<item name="android:alpha">0.54</item>-->
+    <!--</style>-->
+
+    <!--<style name="DrawerLandingPageItemTextStyle">-->
+        <!--<item name="android:textSize">14.0sp</item>-->
+        <!--<item name="android:ellipsize">end</item>-->
+        <!--<item name="android:gravity">center_vertical</item>-->
+        <!--<item name="android:layout_gravity">center_vertical</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+        <!--<item name="android:fontFamily">sans-serif</item>-->
+        <!--<item name="android:textColor">#d8ffffff</item>-->
+        <!--<item name="android:layout_width">0.0dip</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:layout_marginLeft">16dip</item>-->
+        <!--<item name="android:layout_weight">1.0</item>-->
+    <!--</style>-->
+
+    <!--<style name="BottomSheetButtonStyle">-->
+        <!--<item name="android:tint">#ffffff</item>-->
+        <!--<item name="android:layout_width">48.0dip</item>-->
+        <!--<item name="android:layout_height">48.0dip</item>-->
+        <!--<item name="android:scaleType">center</item>-->
+    <!--</style>-->
+</resources>

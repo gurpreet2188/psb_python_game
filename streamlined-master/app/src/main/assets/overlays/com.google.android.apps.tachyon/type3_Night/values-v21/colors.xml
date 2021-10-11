@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="contacts_card_invites_background">@android:color/background_dark</color>
+    <color name="contacts_card_invites_shadow">#00000000</color>
+    <color name="contacts_card_invites_text">#d8ffffff</color>
+
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#deffffff</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="primary_text_disabled_material_light">#39ffffff</color>
+
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8affffff</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#24ffffff</color>
+
+    <color name="common_light_background">@android:color/background_dark</color>
+    <color name="card_background">@android:color/background_dark</color>
+    <color name="card_background_v2">@*com.google.android.apps.tachyon:color/background_material_dark</color>
+    <color name="undo_bar_background">@*com.google.android.apps.tachyon:color/background_floating_material_dark</color>
+    <color name="background_floating_material_dark">@android:color/background_dark</color>
+    <color name="background_floating_material_light">@android:color/background_dark</color>
+    <color name="background_material_dark">@android:color/background_dark</color>
+    <color name="background_material_light">@android:color/background_dark</color>
+    <color name="call_mode_audio_background">@android:color/holo_blue_light</color>
+    <color name="call_mode_video_background">@android:color/holo_blue_light</color>
+
+    <color name="blue_grey_100">#a1ffffff</color>
+    <color name="blue_grey_500">#b1ffffff</color>
+    <color name="blue_grey_600">#c1ffffff</color>
+    <color name="blue_grey_700">#d1ffffff</color>
+    <color name="blue_grey_800">#e1ffffff</color>
+    <color name="blue_grey_900">#ffffffff</color>
+    <color name="call_mode_text_audio_unselected">#a1ffffff</color>
+    <color name="call_mode_text_video_unselected">#a1ffffff</color>
+    <color name="call_mode_text_audio_selected">#ffffff</color>
+    <color name="call_mode_text_video_selected">#ffffff</color>
+
+    <color name="settings_summary">#d8ffffff</color>
+    <color name="google_blue_500">@android:color/holo_blue_bright</color>
+    <color name="av_toggle_v2_disabled_blue">#999999</color>
+    <color name="av_toggle_v2_disabled_white">#ffffff</color>
+
+    <color name="primary_dark_material_light">@android:color/holo_blue_light</color>
+    <color name="primary_material_dark">@android:color/holo_blue_light</color>
+    <color name="primary_material_light">@android:color/holo_blue_light</color>
+    <color name="primary_dark_material_dark">@android:color/holo_blue_light</color>
+
+    <color name="default_pin_key_color">#c1ffffff</color>
+    <color name="contact_avatar_person_white">#00000000</color>
+
+    <dimen name="toolbar_elevation">0.0dip</dimen>
+    <dimen name="card_elevation">0.0dip</dimen>
+    <dimen name="cardview_default_elevation">0.0dip</dimen>
+    <dimen name="main_screen_card_corner_elevation">0.0dip</dimen>
+    <dimen name="theme_information_card_corner_elevation">0.0dip</dimen>
+    <dimen name="abc_action_bar_elevation_material">0.0dip</dimen>
+    <dimen name="action_bar_elevation">0.0dip</dimen>
+    <dimen name="design_appbar_elevation">0.0dip</dimen>
+    <dimen name="appbar_layout_elevation">0.0dip</dimen>
+    <dimen name="mealbar_elevation">0.0dip</dimen>
+    <dimen name="av_toggle_2_underline_height">0.0dip</dimen>
+    <dimen name="av_toggle_2_shadow_height">0.0dip</dimen>
+    <dimen name="cardview_compat_inset_shadow">0.0dip</dimen>
+    <dimen name="contacts_card_v2_elevation">0.0dip</dimen>
+    <dimen name="contacts_card_search_header_v2_shadow_height">0.0dip</dimen>
+
+    <color name="google_grey600">#d8ffffff</color>
+    <color name="google_white">@android:color/background_dark</color>
+    <color name="google_grey500">#c1ffffff</color>
+    <color name="google_grey700">#d8ffffff</color>
+    <color name="google_grey800">#c8ffffff</color>
+    <color name="google_grey900">#ffffffff</color>
+    <color name="quantum_bluegrey800">#ffffffff</color>
+    <color name="soft_white">@android:color/background_dark</color>
+    <color name="gaia_blue">@android:color/holo_blue_bright</color>
+    <color name="gaia_reg_gray">#ffffff</color>
+    <color name="gaia_reg_guest_background">@android:color/holo_purple</color>
+
+    <color name="round_search_bar_fill">#00ffffff</color>
+    <color name="round_search_bar_search_icon_color">#ffffff</color>
+    <color name="round_search_bar_stroke">@android:color/holo_blue_bright</color>
+
+    <color name="contact_name_text_color">#ffffffff</color>
+
+    <color name="google_blue600">@android:color/holo_blue_bright</color>
+
+    <dimen name="google_opensearchbar_radius">24.0dip</dimen>
+
+    <color name="light_grey_94_percent">#f0000000</color>
+    <color name="action_bar_button_bg">@null</color>
+    <color name="action_bar_button_stroke">@android:color/holo_blue_bright</color>
+    <color name="search_bar_background">@android:color/holo_purple</color>
+    <color name="search_bar_hint_text">#c1ffffff</color>
+    <color name="search_bar_primary_icon">#d8ffffff</color>
+    <color name="search_bar_secondary_icon">#d1ffffff</color>
+</resources>

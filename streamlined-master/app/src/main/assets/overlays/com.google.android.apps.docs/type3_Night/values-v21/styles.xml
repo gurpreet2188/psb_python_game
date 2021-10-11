@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorLink">?android:colorAccent</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+        <item name="android:textColorLinkInverse">?android:colorAccent</item>
+    </style>
+
+    <style name="BaseAppTheme" parent="@android:style/Theme.Material">
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+    </style>
+
+    <style name="Base.Theme.GoogleMaterial.Light" parent="@*com.google.android.apps.docs:style/Base.V14.Theme.GoogleMaterial.Light">
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <style name="BaseDialogTheme" parent="@android:style/Theme.Material.Dialog.MinWidth">
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+    </style>
+    <style name="CakemixGoogleOneTheme" parent="@*com.google.android.apps.docs:style/Theme.GoogleMaterial.Light.NoActionBar" >
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="OpenSearchBarText" parent="@*com.google.android.apps.docs:style/TextAppearance.GoogleMaterial.OpenSearchBar">
+        <item name="android:textColor">@*com.google.android.apps.docs:color/google_grey500</item>
+    </style>
+    <style name="SearchBarText" parent="@*com.google.android.apps.docs:style/TextAppearance.GoogleMaterial.Headline6">
+        <item name="android:textColor">@*com.google.android.apps.docs:color/google_grey200</item>
+        <item name="android:textColorHint">@*com.google.android.apps.docs:color/google_grey500</item>
+    </style>
+    <style name="Theme.GoogleMaterial.Dark" parent="@*com.google.android.apps.docs:style/Base.Theme.GoogleMaterial.Dark">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+    </style>
+    <style name="Theme.GoogleMaterial.DayNight" parent="@*com.google.android.apps.docs:style/Theme.GoogleMaterial.Dark" >
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+    </style>
+    <style name="OneGoogle.AccountMenu.DayNight" parent="@*com.google.android.apps.docs:style/OneGoogle.AccountMenu.Dark" >
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="OneGoogle.AccountMenu.PolicyFooter.DayNight" parent="@*com.google.android.apps.docs:style/OneGoogle.AccountMenu.PolicyFooter.Dark" >
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="OneGoogle.AccountParticle.DayNight" parent="@*com.google.android.apps.docs:style/OneGoogle.AccountParticle.Dark" >
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="OneGoogle.AccountParticleDisc.DayNight" parent="@*com.google.android.apps.docs:style/OneGoogle.AccountParticleDisc.Dark" >
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.GoogleMaterial.DayNight.Dialog.MinWidth" parent="@*com.google.android.apps.docs:style/Theme.GoogleMaterial.Dark.Dialog.MinWidth" />
+    <style name="Theme.GoogleMaterial.DayNight.DialogWhenLarge" parent="@*com.google.android.apps.docs:style/Theme.GoogleMaterial.Dark.DialogWhenLarge" />
+    <style name="Theme.GoogleMaterial.DayNight.NoActionBar" parent="@*com.google.android.apps.docs:style/Theme.GoogleMaterial.Dark.NoActionBar" />
+    <style name="Theme.MaterialComponents.DayNight" parent="@*com.google.android.apps.docs:style/Theme.MaterialComponents" />
+    <style name="ToolbarSubtitleCollectionName" parent="@*com.google.android.apps.docs:style/TextAppearance.GoogleMaterial.Body2">
+        <item name="android:textColor">@*com.google.android.apps.docs:color/google_grey200</item>
+    </style>
+    <style name="ToolbarSubtitleSearchHint" parent="@*com.google.android.apps.docs:style/TextAppearance.GoogleMaterial.SubtitleAlt2">
+        <item name="android:textColor">@*com.google.android.apps.docs:color/google_grey500</item>
+    </style>
+    <style name="ToolbarTitleCollectionName" parent="@*com.google.android.apps.docs:style/TextAppearance.GoogleMaterial.Headline6">
+        <item name="android:textColor">@*com.google.android.apps.docs:color/google_grey200</item>
+    </style>
+    <style name="ToolbarTitleSearchHint" parent="@*com.google.android.apps.docs:style/TextAppearance.GoogleMaterial.SubtitleAlt1">
+        <item name="android:textColor">@*com.google.android.apps.docs:color/google_grey500</item>
+    </style>
+    <!--<style name="Upload.Button.Spinner.Daynight" parent="@android:style/Widget.Holo.Spinner">-->
+        <!--<item name="android:spinnerItemStyle">@*com.google.android.apps.docs:style/Upload.SpinnerItem</item>-->
+        <!--<item name="android:textSize">@*com.google.android.apps.docs:dimen/m_text_size_body</item>-->
+        <!--<item name="android:layout_width">fill_parent</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:layout_marginTop">0.0dip</item>-->
+        <!--<item name="android:layout_marginBottom">0.0dip</item>-->
+        <!--<item name="android:minHeight">@*com.google.android.apps.docs:dimen/m_touch_target_size</item>-->
+        <!--<item name="android:dropDownSpinnerStyle">@*com.google.android.apps.docs:style/Upload.SpinnerItem</item>-->
+        <!--<item name="android:layout_marginStart">0.0dip</item>-->
+        <!--<item name="android:layout_marginEnd">0.0dip</item>-->
+    <!--</style>-->
+
+    <style name="NavigationItem.TextAppearance" parent="@*com.google.android.apps.docs:style/quantum_text_menu_black">
+        <item name="android:textColor">#f1f1f1</item>
+    </style>
+
+    <!--<style name="OneGoogle.AccountMenu.Light" parent="@android:style/Widget">-->
+        <!--<item name="*com.google.android.apps.docs:actionTextColor">@color/og_item_text_color_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:backgroundColor">@color/og_background_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:accountMenuChipBackgroundColor">@color/og_background_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:accountMenuChipRippleColor">@color/og_ripple_color_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:accountMenuChipStrokeColor">@color/og_chip_stroke_color_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:accountMenuChipTextColor">@color/og_item_text_color_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:dividerColor">@color/og_account_menu_divider_color_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:iconColor">@color/og_default_icon_color_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:policyRippleColor">@color/account_menu_footer_ripple_color_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:policyTextColor">@color/account_menu_footer_text_color_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:embeddedNoSelectedAccountTitleColor">@color/og_menu_title_color_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:elevatedHeaderColor">@color/og_background_light</item>-->
+        <!--<item name="*com.google.android.apps.docs:chipBackgroundColor">@color/og_background_light</item>-->
+    <!--</style>-->
+
+    <style name="TextAppearance.OneGoogle.AccountParticle.AccountDisplayName.Light" parent="@*com.google.android.apps.docs:style/TextAppearance.OneGoogle.AccountParticle.AccountDisplayName">
+        <item name="android:textColor">#1e1e1e</item>
+    </style>
+    <style name="TextAppearance.OneGoogle.AccountParticle.AccountName" parent="@*com.google.android.apps.docs:style/TextAppearance.OneGoogle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#1e1e1e</item>
+    </style>
+    <style name="TextAppearance.OneGoogle.AccountParticle.AccountName.Light" parent="@*com.google.android.apps.docs:style/TextAppearance.OneGoogle.AccountParticle.AccountName">
+        <item name="android:textColor">#1e1e1e</item>
+    </style>
+    <style name="AccountsSwitcher.AccountTextStyle" parent="@*com.google.android.apps.docs:style/AccountsSwitcher">
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:layout_marginLeft">@*com.google.android.apps.docs:dimen/start_horiz_padding</item>
+    </style>
+</resources>

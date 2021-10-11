@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="design_snackbar_background_color">@*android:color/background_material_light</color>
+    <color name="snackbar_background">@*android:color/background_material_light</color>
+    <color name="hangout_snackbar_background">@*android:color/background_material_light</color>
+
+    <color name="fab_hangouts_inactive_color">#00000000</color>
+    <color name="fab_hangouts_primary_color">#001e1e1e</color>
+    <color name="fab_hangouts_image_tint_color">#ff98aab4</color>
+
+    <color name="quantum_googgreen500">@android:color/holo_red_light</color>
+    <color name="rich_status_content_color">@*android:color/background_material_light</color>
+    <color name="quantum_bluegrey700">@*android:color/background_material_light</color>
+    <color name="primary">@android:color/holo_red_light</color>
+    <color name="quantum_googgreen400">#ff33ac71</color>
+    <color name="edit_participants_statusbar_color_one_on_one">@android:color/holo_red_light</color>
+    <color name="status_message_statusbar_color">@android:color/holo_red_light</color>
+    <color name="edit_participants_statusbar_color_default">@android:color/holo_red_light</color>
+
+
+    <color name="compose_message_view_hint_text_color">#d81e1e1e</color>
+
+
+    <color name="primary_text_default_material_dark">#1e1e1e</color>
+    <color name="secondary_text_default_material_dark">#b31e1e1e</color>
+    <color name="primary_text_disabled_material_dark">#4d1e1e1e</color>
+    <color name="secondary_text_disabled_material_dark">#361e1e1e</color>
+
+    <color name="primary_dark">@android:color/holo_red_light</color>
+    <color name="realtimechat_message_link_incoming">#c11e1e1e</color>
+    <color name="realtimechat_message_link_outgoing">#c11e1e1e</color>
+    <color name="realtimechat_message_text_incoming">#c11e1e1e</color>
+    <color name="realtimechat_message_text_outgoing">#c11e1e1e</color>
+    <color name="realtimechat_message_link_incoming_otr">@*android:color/accent_material_light</color>
+    <color name="realtimechat_message_link_outgoing_otr">@*android:color/accent_material_light</color>
+    <color name="realtimechat_message_text_incoming_otr">@*android:color/accent_material_light</color>
+    <color name="realtimechat_message_text_outgoing_otr">@*android:color/accent_material_light</color>
+    <color name="abc_search_url_text_selected">#1e1e1e</color>
+    <color name="abc_search_url_text_pressed">#1e1e1e</color>
+    <color name="abc_input_method_navigation_guard">#1e1e1e</color>
+    <color name="default_account_details_color">#c11e1e1e</color>
+    <color name="incoming_conversation_bubble_background">#c11e1e1e</color>
+    <color name="outgoing_conversation_bubble_background">#c11e1e1e</color>
+    <color name="incoming_conversation_bubble_background_otr">@*android:color/accent_material_light</color>
+    <color name="outgoing_conversation_bubble_background_otr">@*android:color/accent_material_light</color>
+    <color name="conversation_bg_color">@android:color/background_light</color>
+    <color name="application_background">@android:color/background_light</color>
+    <color name="contact_text_color">#1e1e1e</color>
+    <color name="quantum_googgreen700">#1e1e1e</color>
+    <color name="text_color_primary_settings">#1e1e1e</color>
+    <color name="text_color_secondary_settings">#6e6e6e</color>
+    <color name="text_secondary_default_color_dark">#6e6e6e</color>
+    <color name="text_tertiary_default_color_dark">#ffa3a3a3</color>
+    <color name="text_hint">#ffa3a3a3</color>
+    <color name="highlighted_text_material_dark">#1e1e1e</color>
+    <color name="highlighted_text_material_light">#1e1e1e</color>
+    <color name="realtimechat_message_timestamp">#1e1e1e</color>
+    <color name="people_name">#1e1e1e</color>
+    <color name="quantum_bluegrey100">@*android:color/background_material_light</color>
+    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_light">@*android:color/background_material_light</color>
+    <color name="us_update_button_enabled">#000000</color>
+
+    <color name="text_white">#ff1e1e1e</color>
+    <color name="text_white_26_percent">#421e1e1e</color>
+    <color name="text_white_40_percent">#661e1e1e</color>
+
+    <color name="invite_text_light">#ff1e1e1e</color>
+    <color name="quantum_greywhite1000">#ffffffff</color>
+    <color name="participant_add_foreground">#ffffffff</color>
+
+    <color name="in_call_background">@android:color/background_light</color>
+    <color name="last_seen">#1e1e1e</color>
+    <color name="quantum_white_100">@android:color/background_light</color>
+    <color name="compose_message_view_bg">@android:color/background_light</color>
+    <color name="people_list_section_header">#1e1e1e</color>
+    <color name="people_no_results">#1e1e1e</color>
+    <color name="action_sheet_secondary_color">@*android:color/background_material_light</color>
+    <color name="quick_button_text_color">#1e1e1e</color>
+    <color name="quick_send_active_background_color">#6b6b6b</color>
+    <color name="quick_send_inactive_background_color">@*android:color/background_material_light</color>
+    <color name="quick_send_inactive_tint">#53565656</color>
+    <color name="compose_message_view_text_color">#c11e1e1e</color>
+    <color name="hangouts_primary_color">@*android:color/accent_material_light</color>
+    <color name="floating_action_button_pressed_color">#0ecabf</color>
+    <color name="floating_action_button_unpressed_color">@*android:color/accent_material_light</color>
+    <color name="foreground_material_dark">@android:color/background_light</color>
+    <color name="foreground_material_light">@android:color/background_light</color>
+    <color name="background_floating_material_light">@android:color/background_light</color>
+    <color name="bright_foreground_material_dark">@android:color/background_light</color>
+
+    <color name="accent_dark">@*android:color/accent_material_light</color>
+    <color name="accent">@*android:color/accent_material_light</color>
+    <color name="accent_light">@*android:color/accent_material_light</color>
+    <color name="accent_material_light">@*android:color/accent_material_light</color>
+    <color name="accent_material_dark">@*android:color/accent_material_light</color>
+
+    <color name="quantum_googgreen900">@*android:color/accent_material_light</color>
+    <color name="quantum_googgreen800">@*android:color/accent_material_light</color>
+    <color name="quantum_googgreen600">@*android:color/accent_material_light</color>
+    <color name="quantum_googgreenA100">@*android:color/accent_material_light</color>
+    <color name="quantum_googgreenA200">@*android:color/accent_material_light</color>
+    <color name="quantum_googgreenA700">@*android:color/accent_material_light</color>
+
+    <color name="quantum_bluegrey500">#d81e1e1e</color>
+
+    <color name="hangouts_search_query_highlight_color">@*android:color/accent_material_light</color> <!-- impt !! -->
+    <color name="quantum_bluegrey800">@*android:color/accent_material_light</color>
+
+    <color name="tile_background">@android:color/holo_red_light</color>
+    <color name="tile_background_selected">@*android:color/background_material_light</color>
+
+
+    <color name="quantum_white_text">#1e1e1e</color>
+    <color name="quantum_white_secondary_text">#d81e1e1e</color>
+    <color name="quantum_white_hint_text">#c11e1e1e</color>
+    <color name="quantum_white_divider">#001e1e1e</color>
+
+    <color name="in_call_action_bar_background_color_bottom">@android:color/holo_red_light</color>
+    <color name="in_call_action_bar_background_color_top">@android:color/holo_red_light</color>
+
+    <color name="material_grey_850">@*android:color/background_material_light</color>
+    <color name="material_grey_800">@*android:color/background_material_light</color>
+    <color name="material_grey_600">@*android:color/background_material_light</color>
+    <color name="material_grey_300">@*android:color/background_material_light</color>
+    <color name="material_grey_100">@*android:color/background_material_light</color>
+    <color name="material_grey_50">@*android:color/background_material_light</color>
+    <color name="default_status_bar_color">@android:color/holo_red_light</color>
+    <color name="primary_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_material_light">@android:color/holo_red_light</color>
+    <color name="primary_dark_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_red_light</color>
+
+    <color name="quantum_tealA200">@*android:color/accent_material_light</color>
+
+    <color name="bg_item_normal_invite">@android:color/background_light</color>
+    <color name="bg_item_transparent">@android:color/background_light</color>
+    <color name="quantum_bluegrey950">@*android:color/background_material_light</color>
+    <color name="navigation_drawer_item_text">#1e1e1e</color>
+    <color name="navigation_drawer_item_detail_text">#1e1e1e</color>
+    <color name="navigation_drawer_disabled_item_text">#6e6e6e</color>
+    <color name="material_deep_teal_200">#1e1e1e</color>
+    <color name="material_deep_teal_500">#1e1e1e</color>
+    <color name="quantum_teal500">#1e1e1e</color>
+    <color name="background_dialpad">@android:color/background_light</color>
+    <color name="background_dialpad_pressed">#0ecabf</color>
+    <color name="dialpad_primary_text_color">#1e1e1e</color>
+    <color name="dialpad_secondary_text_color">#1e1e1e</color>
+    <color name="dialpad_digits_text_color">#ff6e6e6e</color>
+    <color name="dialpad_separator_line_color">@android:color/background_light</color>
+    <color name="hangout_present_banner_background">@android:color/background_light</color>
+    <color name="ongoing_hangout_background">@*android:color/background_material_light</color>
+    <color name="make_phone_call_hint_color">#c11e1e1e</color>
+    <color name="divider_settings">@*android:color/background_material_light</color>
+    <color name="tab_text_color">#1e1e1e</color>
+    <color name="manage_accounts_text_color">#1e1e1e</color>
+    <color name="default_bg">@android:color/background_light</color>
+    <color name="solid_white">@android:color/background_light</color>
+    <color name="quantum_vanillagreenA400">@*android:color/accent_material_light</color>
+    <color name="quantum_googgreenA400">@*android:color/accent_material_light</color>
+    <color name="background_edittext">@android:color/background_light</color>
+    <color name="background_edittext_focused">@android:color/background_light</color>
+    <color name="background_edittext_pressed">@android:color/background_light</color>
+    <color name="search_query_highlight_color">#1e1e1e</color>
+    <color name="search_translucent_bg_color">#bbfafafa</color>
+
+    <color name="status_update_button_disabled">@*android:color/background_material_light</color>
+    <color name="status_cancel_button_text">#1e1e1e</color>
+
+    <color name="background_material_light">@android:color/background_light</color>
+    <color name="background_material_dark">@android:color/background_light</color>
+    <color name="participant_view_text_hint_color">#1e1e1e</color>
+
+    <color name="overlay_tint_dark">#1e1e1e</color>
+
+
+    <color name="quantum_bluegrey200">#ffb0bec5</color>
+    <color name="quantum_bluegrey300">#1e1e1e</color>
+    <color name="quantum_bluegrey400">#ff111111</color>
+
+
+
+
+
+
+
+    <color name="quantum_black_100">@android:color/background_light</color>
+    <color name="quantum_black_text">#1e1e1e</color>
+    <color name="quantum_black_secondary_text">#6e6e6e</color>
+    <color name="quantum_black_hint_text">#c11e1e1e</color>
+    <color name="quantum_black_divider">#001e1e1e</color>
+    <color name="quantum_greyblack1000">@android:color/background_light</color>
+    <color name="primary_text_disabled_material_light">#1e1e1e</color>
+    <color name="secondary_text_disabled_material_light">#6e6e6e</color>
+    <color name="translucent_black">#66000000</color>
+    <color name="dark_shadow_black">#001e1e1e</color>
+    <color name="account_header_name_text_color">#1e1e1e</color>
+    <color name="navigation_drawer_enabled_item_text">#6e6e6e</color>
+    <color name="hangout_action_bar_background_color_top">@android:color/background_light</color>
+    <color name="hangout_action_bar_background_color_bottom">@android:color/background_light</color>
+    <color name="quantum_grey">@android:color/background_light</color>
+    <color name="quantum_bluegrey600">#6e6e6e</color>   <!--Babel home secondary text -->
+
+    <color name="quantum_bluegrey900">#1e1e1e</color>  <!--Babel home primary text -->
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+
+    <style name="BaseAppTheme" parent="@*com.pittvandewitt.viperfx:style/Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="*com.pittvandewitt.viperfx:colorAccent">@*android:color/accent_material_dark</item>
+        <item name="android:colorAccent">@*android:color/accent_material_dark</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:colorControlNormal">#ffffff</item>
+        <item name="android:titleTextColor">#ffffff</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="*com.pittvandewitt.viperfx:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="*com.pittvandewitt.viperfx:colorPrimaryDark">@android:color/holo_blue_light</item>
+    </style>
+
+   
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+android:width="24dp"
+android:height="24dp"
+android:viewportWidth="100"
+android:viewportHeight="100" android:tint="?android:colorControlNormal">
+<group android:scaleX="0.6" android:scaleY="0.6" android:pivotX="50" android:pivotY="50">
+    <!--
+       <path
+           android:strokeColor="#ffffff"
+           android:fillColor="#ffffff"
+           android:fillAlpha="0.2"
+           android:strokeWidth="2.3"
+           android:pathData="M50,0.5 C77.3381,0.5,99.5,22.6619,99.5,50 C99.5,77.3381,77.3381,99.5,50,99.5
+C22.6619,99.5,0.5,77.3381,0.5,50 C0.5,22.6619,22.6619,0.5,50,0.5 Z" /> -->
+
+    <path
+        android:strokeColor="#fff"
+        android:strokeLineCap="round"
+        android:strokeWidth="5"
+        android:pathData="M10.42,17c-4.371,0 -7.92,3.549 -7.92,7.92l0,50.16c0,4.371 3.549,7.92 7.92,7.92 M89.58,83c4.371,0 7.92,-3.549 7.92,-7.92l0,-50.16c0,-4.371 -3.549,-7.92
+-7.92,-7.92" />
+
+    <group  android:name="ring_outer" android:pivotY="50" android:pivotX="50"  android:translateX="-7.1" android:rotation="0">
+
+        <path
+            android:name="icon_null"
+            android:strokeColor="#ffffff"
+            android:strokeLineCap="round"
+            android:strokeWidth="5.5"
+            android:pathData="M38.095,68.99l37.98,-37.98 M76.075,68.99l-37.98,-37.98" />
+
+    </group>
+</group>
+</vector>

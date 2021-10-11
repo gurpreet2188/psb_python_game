@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="storageColorPrimary">@android:color/holo_blue_light</color>
+    <color name="storageColorPrimaryDark">@android:color/holo_blue_light</color>
+    <color name="primary_util">@android:color/holo_blue_light</color>
+    <color name="primary_util_dark">@android:color/holo_blue_light</color>
+    <color name="review_color_primary">@android:color/holo_blue_light</color>
+    <color name="review_color_primary_dark">@android:color/holo_blue_light</color>
+    <color name="search_tool_bar">@android:color/holo_blue_light</color>
+    <color name="search_status_bar_action_mode">@android:color/holo_blue_light</color>
+    <color name="search_status_bar_non_action_mode">@android:color/holo_blue_light</color>
+    <color name="browser_color_primary">@android:color/holo_blue_light</color>
+    <color name="browser_color_primary_dark">@android:color/holo_blue_light</color>
+    <color name="primary_active_dark">@android:color/holo_blue_light</color>
+    <color name="primary_dark_material_dark">@android:color/holo_blue_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_blue_light</color>
+    <color name="primary_material_dark">@android:color/holo_blue_light</color>
+    <color name="primary_material_light">@android:color/holo_blue_light</color>
+    <color name="home_screen_color_primary">@android:color/background_dark</color>
+    <color name="home_screen_color_primary_dark">@android:color/background_dark</color>
+    <color name="file_browser_action_mode_background_color">@android:color/holo_blue_light</color>
+
+    <color name="primary_accent">@*android:color/accent_material_dark</color>
+    <color name="primary_active">@*android:color/accent_material_dark</color>
+    <color name="accent_material_dark">@*android:color/accent_material_dark</color>
+    <color name="accent_material_light">@*android:color/accent_material_dark</color>
+    <color name="files_blue">@*android:color/accent_material_dark</color>
+    <color name="preference_fallback_accent_color">@*android:color/accent_material_dark</color>
+    <color name="file_picker_content_circle_dark_stroke_color">@*android:color/accent_material_dark</color>
+    <color name="file_picker_content_circle_fill_color">@*android:color/accent_material_dark</color>
+    <color name="file_picker_content_circle_white_stroke_color">@*android:color/accent_material_dark</color>
+    <color name="highlighted_text_material_dark">@*android:color/accent_material_dark</color>
+    <color name="highlighted_text_material_light">@*android:color/accent_material_dark</color>
+    <color name="bottom_navigation_bar_active_color">@*android:color/accent_material_dark</color>
+    <color name="progress_bar_background">@*android:color/accent_material_dark</color>
+
+
+    <color name="primary_text_default_material_light">#ffffff</color>
+    <color name="primary_text_disabled_material_light">#39ffffff</color>
+    <color name="secondary_text_default_material_light">#d8ffffff</color>
+    <color name="secondary_text_disabled_material_light">#24ffffff</color>
+
+    <color name="file_browser_rename_dialog_warning_text_color">#ffdb4437</color>
+    <color name="quantum_black_100">#ffffffff</color>
+    <color name="quantum_black_divider">#00ffffff</color>
+    <color name="quantum_black_hint_text">#61ffffff</color>
+    <color name="quantum_black_secondary_text">#d8ffffff</color>
+    <color name="quantum_black_text">#ffffffff</color>
+    <color name="file_info_preview_file_name_shadow_color">#80000000</color>
+    <color name="file_info_preview_file_name_text_color">#ddffffff</color>
+    <color name="home_screen_title_text_color">#ffffff</color>
+    <color name="darker_secondary_text">#d8ffffff</color>
+    <color name="quantum_bluegrey700">#ffffffff</color>
+
+    <color name="settings_background">@android:color/background_dark</color>
+    <color name="smart_suggestion_background">@android:color/holo_purple</color>
+    <color name="storageWheelBackground">#33000000</color>
+    <color name="storage_card_progress_background">#61ffffff</color>
+    <color name="white_fade_overlay">#66000000</color>
+    <color name="tooltip_background_dark">@android:color/holo_purple</color>
+    <color name="tooltip_background_light">@android:color/holo_purple</color>
+    <color name="translucent_text_background">#88ffffff</color>
+    <color name="permission_carousel_background">@android:color/holo_purple</color>
+    <color name="progress_bar_fill">@android:color/holo_purple</color>
+    <color name="bottom_navigation_bar_background">@android:color/background_dark</color>
+    <color name="bottom_navigation_bar_inactive_color">#90ffffff</color>
+    <color name="file_browser_grid_item_background">@android:color/holo_purple</color>
+    <color name="file_browser_popup_menu_background_color">@android:color/holo_purple</color>
+    <color name="file_info_warning_message_background">@android:color/holo_purple</color>
+    <color name="dark_background">@android:color/background_dark</color>
+    <color name="default_background">@android:color/background_dark</color>
+    <color name="button_disabled_color">#11ffffff</color>
+    <color name="button_material_dark">@android:color/holo_purple</color>
+    <color name="button_material_light">@android:color/holo_purple</color>
+    <color name="cardview_dark_background">@android:color/holo_purple</color>
+    <color name="cardview_light_background">@android:color/holo_purple</color>
+    <color name="cardview_shadow_end_color">#00000000</color>
+    <color name="cardview_shadow_start_color">#00000000</color>
+    <color name="background_floating_material_dark">@android:color/holo_purple</color>
+    <color name="background_floating_material_light">@android:color/holo_purple</color>
+    <color name="background_material_dark">@android:color/background_dark</color>
+    <color name="background_material_light">@android:color/background_dark</color>
+    <color name="selection_background_color">@android:color/holo_purple</color>
+    <color name="quantum_deeppurple700">#ffd1c4e9</color>
+
+    <color name="quantum_grey100">@android:color/holo_purple</color>
+    <color name="google_grey100">@android:color/holo_purple</color>
+    <color name="material_grey_100">@android:color/holo_purple</color>
+
+    <color name="quantum_white_100">@android:color/background_dark</color>
+
+    <color name="google_white">@android:color/background_dark</color>
+
+    <color name="menu_grayout_text_color">#1e1e1e</color>
+    <color name="file_browser_popup_menu_text_color">#1e1e1e</color>
+
+    <color name="google_grey200">#a1ffffff</color>
+    <color name="google_grey300">#a8ffffff</color>
+    <color name="google_grey400">#b1ffffff</color>
+    <color name="google_grey50">#b8ffffff</color>
+    <color name="google_grey500">#c1ffffff</color>
+    <color name="google_grey600">#c8ffffff</color>
+    <color name="google_grey700">#d1ffffff</color>
+    <color name="google_grey800">#a1ffffff</color>
+    <color name="google_grey900">#ffffffff</color>
+    <color name="google_blue600">@*android:color/accent_material_dark</color>
+
+    <color name="design_default_color_background">@android:color/holo_purple</color>
+    <color name="google_dark_default_color_surface">@android:color/holo_purple</color>
+    <color name="google_default_color_on_surface">@android:color/holo_purple</color>
+
+
+<!--
+    <color name="white_half_opacity">@color/quantum_white_hint_text</color>
+
+
+
+    <color name="android_file_type_color_tint">@color/file_category_color_documents</color>
+-->
+
+
+
+</resources>

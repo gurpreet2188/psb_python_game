@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_material_dark">@*android:color/background_dark</color>
+    <color name="background_floating_material_dark">@*android:color/background_dark</color>
+    <color name="material_deep_teal_100">@*android:color/holo_blue_light</color>
+    <color name="material_deep_teal_200">@*android:color/background_light</color>
+    <color name="material_deep_teal_300">@*android:color/holo_blue_light</color>
+    <color name="accent_material_dark">@*android:color/holo_blue_bright</color>
+    <color name="material_deep_teal_500">@*android:color/holo_blue_bright</color>
+    <color name="switch_thumb_disabled_material_light">@*android:color/holo_blue_bright</color>
+   <!-- <color name="system_bar_background_semi_transparent">#00000000</color> -->   <!-- -_- -->
+    <color name="button_material_dark">@android:color/holo_purple</color>
+    <color name="system_notification_accent_color">@android:color/holo_blue_bright</color>
+    <color name="user_icon_1">@android:color/holo_blue_bright</color>
+    <color name="user_icon_2">@android:color/holo_blue_bright</color>
+    <color name="user_icon_3">@android:color/holo_blue_bright</color>
+    <color name="user_icon_4">@android:color/holo_blue_bright</color>
+    <color name="user_icon_5">@android:color/holo_blue_bright</color>
+    <color name="user_icon_6">@android:color/holo_blue_bright</color>
+    <color name="user_icon_7">@android:color/holo_blue_bright</color>
+    <color name="user_icon_8">@android:color/holo_blue_bright</color>
+    <color name="user_icon_default_gray">#ff9e9e9e</color>
+    <color name="user_icon_default_white">#ffffffff</color>
+    <color name="notification_action_list">@android:color/holo_purple</color>
+    <color name="notification_action_list_dark">@android:color/holo_purple</color>
+    <color name="notification_default_color">@*android:color/holo_blue_bright</color>
+    <color name="input_method_navigation_guard">@android:color/background_dark</color>
+    <color name="notification_icon_default_color">@android:color/holo_blue_bright</color>
+    <color name="notification_material_background_color">#ffffffff</color>
+    <color name="notification_primary_text_color_dark">#ffffff</color>
+    <color name="notification_primary_text_color_light">#ffffff</color>
+    <color name="notification_progress_background_color">#d8ffffff</color>
+    <color name="notification_secondary_text_color_dark">#d8ffffff</color>
+    <color name="notification_secondary_text_color_light">#d8ffffff</color>
+    <color name="sender_text_color">@*android:color/holo_blue_bright</color>
+    <color name="app_permission_icon_tint">@android:color/white</color>
+    <!-- pissel colors -->
+    <color name="accent_device_default_700">@android:color/holo_blue_bright</color>
+    <color name="accent_device_default_light">@android:color/holo_blue_bright</color>
+    <color name="accent_device_default_dark">@android:color/holo_blue_bright</color>
+    <color name="accent_device_default_50">@android:color/holo_blue_bright</color>
+    <color name="secondary_device_default_settings">@android:color/holo_blue_bright</color>
+    <color name="tertiary_device_default_settings">@android:color/holo_blue_bright</color>
+    <color name="quaternary_device_default_settings">@android:color/holo_blue_bright</color>
+
+    <!-- 7.1 settings info -->
+    <color name="primary_dark_device_default_settings">@android:color/holo_blue_light</color>
+    <color name="primary_device_default_settings">@android:color/holo_blue_light</color>
+    <!-- //7.1 -->
+
+    <color name="material_pixel_primary_dark_material_dark">@*android:color/holo_blue_light</color><!--Pixel Statusbar Color-->
+    <color name="material_pixel_blue_dark">@*android:color/holo_blue_light</color><!-- Pixel Primary Color-->
+    <color name="material_pixel_blue_light">@*android:color/holo_blue_light</color><!-- Pixel Secondary Color-->
+    <color name="material_pixel_blue_bright">@*android:color/holo_blue_bright</color><!-- Pixel accent-->
+
+    <color name="theme_text1">#ffffff</color>
+    <color name="theme_text2">#d8ffffff</color>
+    <color name="theme_text3">#ffffff</color>
+
+    <color name="theme_color1">#ffffff</color>
+    <color name="theme_color2">#ffffff</color>
+    <color name="theme_color3">#ffffff</color>
+    <color name="theme_color4">#ffffff</color>
+    <color name="theme_color5">#ffffff</color>
+    <color name="theme_color6">#ffffff</color>
+    <color name="theme_color7">#ffffff</color>
+    <color name="theme_color8">#ffffff</color>
+    <color name="theme_color9">#ffffff</color>
+
+    <color name="notification_text_default_color">#ffffff</color>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dashboard_tile_image_margin">24.0dip</dimen>
+    <dimen name="dashboard_tile_image_size">24dip</dimen>
+    <dimen name="dashboard_tile_minimum_height">60.0dip</dimen>
+    <dimen name="dashboard_category_height">48.0dip</dimen>
+    <dimen name="dashboard_padding_start">10.0dip</dimen>
+    <dimen name="dashboard_padding_end">10.0dip</dimen>
+    <dimen name="dashboard_padding_top">10.0dip</dimen>
+    <dimen name="dashboard_padding_bottom">10.0dip</dimen>
+    <dimen name="dashboard_header_margin_start">0dip</dimen>
+    <dimen name="dashboard_header_margin_end">10.0dip</dimen>
+    <dimen name="dashboard_category_padding_start">10.0dip</dimen>
+    <dimen name="dashboard_category_padding_end">10.0dip</dimen>
+    <dimen name="dashboard_category_elevation">0.0dip</dimen>
+    <dimen name="cardview_default_elevation">0.0dip</dimen>
+    <dimen name="cardview_default_radius">0.0dip</dimen>
+    <dimen name="cardview_compat_inset_shadow">0.0dip</dimen>
+
+    <dimen name="card_elevation">0.0dip</dimen>
+    <dimen name="main_screen_card_corner_elevation">0.0dip</dimen>
+    <dimen name="theme_information_card_corner_elevation">0.0dip</dimen>
+    <dimen name="abc_action_bar_elevation_material">0.0dip</dimen>
+    <dimen name="action_bar_elevation">0.0dip</dimen>
+    <dimen name="design_fab_elevation">0.0dip</dimen>
+    <dimen name="design_appbar_elevation">0.0dip</dimen>
+    <dimen name="contact_list_header_elevation">0.0dip</dimen>
+    <dimen name="quick_contact_toolbar_elevation">0dip</dimen>
+    <dimen name="tab_elevation">0.0dip</dimen>
+</resources>

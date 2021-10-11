@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:background="@*com.whatsapp:drawable/selector_orange_gradient" android:paddingLeft="@*com.whatsapp:dimen/card_h_padding" android:paddingRight="@*com.whatsapp:dimen/card_h_padding" android:layout_width="fill_parent" android:layout_height="56.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center" android:id="@*com.whatsapp:id/provider_icon_container" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="13.0dip" android:layout_alignParentLeft="true">
+        <com.whatsapp.WaImageView android:layout_gravity="center" android:id="@*com.whatsapp:id/provider_icon" android:layout_width="26.0dip" android:layout_height="26.0dip" android:src="@*com.whatsapp:drawable/bank_logo_placeholder" android:scaleType="fitXY" />
+    </FrameLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="23.0dip" android:layout_toRightOf="@*com.whatsapp:id/provider_icon_container">
+        <com.whatsapp.TextEmojiLabel android:textSize="16.0sp" android:textColor="#d8ffffff" android:gravity="center_vertical" android:id="@*com.whatsapp:id/bank_name" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@*com.whatsapp:style/ListItemTitle" />
+    </LinearLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@*com.whatsapp:id/progress" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="?android:progressBarStyleInverse" />
+</RelativeLayout>

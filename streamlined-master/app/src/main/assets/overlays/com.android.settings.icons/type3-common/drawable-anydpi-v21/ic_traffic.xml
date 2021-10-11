@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?> <layer-list xmlns:android="http://schemas.android.com/apk/res/android"  > <item android:drawable="@*com.android.settings:drawable/abc_ic_star_black_36dp"/> <item android:bottom="2dp" android:left="2dp" android:right="2dp" android:top="2dp">
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="99"
+    android:viewportHeight="99">
+
+    <path
+        android:pathData="M49.5,0.5 C76.562,0.5,98.5,22.438,98.5,49.5 C98.5,76.562,76.562,98.5,49.5,98.5
+C22.438,98.5,0.5,76.562,0.5,49.5 C0.5,22.438,22.438,0.5,49.5,0.5 Z" />
+    <path
+        android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+        android:strokeWidth="5"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M61.2,71 L61.2,26.4" />
+    <path
+        android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+        android:strokeWidth="5"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M61.2,82 L47,67.8" />
+    <path
+        android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+        android:strokeWidth="5"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M61.2,82 L76.5,66.7" />
+    <path
+        android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+        android:strokeWidth="5"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M47,67.8 L52,62.8" />
+    <path
+        android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+        android:strokeWidth="5"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M37.8,28 L37.8,72.6" />
+    <path
+        android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+        android:strokeWidth="5"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M37.8,17 L52,31.2" />
+    <path
+        android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+        android:strokeWidth="5"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M37.8,17 L22.5,32.3" />
+    <path
+        android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+        android:strokeWidth="5"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M52,31.2 L47,36.2" />
+</vector> </item> </layer-list>

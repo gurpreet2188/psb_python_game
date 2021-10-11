@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.V25.AppCompat.Light" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorActivatedHighlight">#1e1e1e</item>
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:colorControlActivated">#1e1e1e</item>
+        <item name="android:textColorPrimaryDisableOnly">#1e1e1e</item>
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:textColorSecondary">#d81e1e1e</item>
+        <item name="android:colorControlNormal">#d81e1e1e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorBackgroundFloating">@android:color/background_light</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+    </style>
+
+<!--    <style name="Theme.App" parent="@*com.whatsapp:style/Theme.Base">-->
+<!--        <item name="android:navigationBarColor">@android:color/background_light</item>-->
+<!--        <item name="android:windowLightNavigationBar">true</item>-->
+<!--        <item name="android:windowBackground">@*com.whatsapp:color/primary_background</item>-->
+<!--        <item name="android:windowContentOverlay">@null</item>-->
+<!--        <item name="android:fastScrollThumbDrawable">@*com.whatsapp:drawable/fastscroll_thumb</item>-->
+<!--        <item name="android:fastScrollTrackDrawable">@*com.whatsapp:drawable/fastscroll_track</item>-->
+<!--        <item name="*com.whatsapp:actionBarSize">@*com.whatsapp:dimen/actionbar_height</item>-->
+<!--        <item name="*com.whatsapp:actionBarStyle">@*com.whatsapp:style/Widget.Styled.ActionBar</item>-->
+<!--        <item name="*com.whatsapp:actionModeBackground">@*com.whatsapp:color/action_mode</item>-->
+<!--        <item name="*com.whatsapp:colorAccent">@*com.whatsapp:color/primary_light</item>-->
+<!--        <item name="*com.whatsapp:colorPrimary">@*com.whatsapp:color/primary</item>-->
+<!--        <item name="*com.whatsapp:colorPrimaryDark">@*com.whatsapp:color/primary_dark</item>-->
+<!--        <item name="*com.whatsapp:listItemSubtitle">@*com.whatsapp:style/ListItemSubtitle</item>-->
+<!--        <item name="*com.whatsapp:listItemTitle">@*com.whatsapp:style/ListItemTitle</item>-->
+<!--        <item name="*com.whatsapp:listSectionBackground">@*com.whatsapp:color/list_section_background</item>-->
+<!--        <item name="*com.whatsapp:listSectionDivider">@*com.whatsapp:style/ListSectionDivider</item>-->
+<!--        <item name="*com.whatsapp:listSectionTitleText">@*com.whatsapp:style/ListSectionTitleText</item>-->
+<!--        <item name="*com.whatsapp:panelMenuListTheme">@*com.whatsapp:style/PanelMenuList</item>-->
+<!--        <item name="*com.whatsapp:primaryIconColor">@*com.whatsapp:color/icon_color</item>-->
+<!--        <item name="*com.whatsapp:toolbarStyle">@*com.whatsapp:style/Widget.Styled.Toolbar</item>-->
+<!--        <item name="*com.whatsapp:windowActionModeOverlay">true</item>-->
+<!--    </style>-->
+
+<!--    <style name="Theme.App.Home" parent="@*com.whatsapp:style/Theme.App">-->
+<!--        <item name="android:navigationBarColor">@android:color/background_light</item>-->
+<!--        <item name="android:windowTranslucentNavigation">true</item>-->
+<!--        <item name="android:colorActivatedHighlight">#1e1e1e</item>-->
+<!--        <item name="android:colorControlActivated">#1e1e1e</item>-->
+<!--        <item name="android:textColorPrimaryDisableOnly">#1e1e1e</item>-->
+<!--        <item name="android:textColorPrimary">#1e1e1e</item>-->
+<!--        <item name="android:textColorSecondary">#d81e1e1e</item>-->
+<!--        <item name="android:colorControlNormal">#d81e1e1e</item>-->
+
+<!--        <item name="android:windowBackground">@android:color/transparent</item>-->
+<!--        <item name="android:fastScrollThumbDrawable">@*com.whatsapp:drawable/fastscroll_thumb_home</item>-->
+<!--        <item name="android:fastScrollTrackDrawable">@*com.whatsapp:drawable/fastscroll_track</item>-->
+<!--        <item name="*com.whatsapp:windowActionBar">false</item>-->
+<!--        <item name="*com.whatsapp:windowNoTitle">true</item>-->
+<!--    </style>-->
+
+<!--    <style name="Theme.App.V2" parent="@*com.whatsapp:style/Theme.App">-->
+<!--        <item name="android:navigationBarColor">@android:color/background_light</item>-->
+<!--        <item name="android:windowTranslucentNavigation">true</item>-->
+<!--        <item name="android:windowBackground">@*com.whatsapp:color/primary_background</item>-->
+<!--        <item name="*com.whatsapp:colorAccent">@*com.whatsapp:color/accent_v2</item>-->
+<!--        <item name="*com.whatsapp:colorPrimary">@*com.whatsapp:color/primary_v2</item>-->
+<!--        <item name="*com.whatsapp:colorPrimaryDark">@*com.whatsapp:color/primary_dark_v2</item>-->
+<!--        <item name="*com.whatsapp:listItemSubtitle">@*com.whatsapp:style/ListItemSubtitle.V2</item>-->
+<!--        <item name="*com.whatsapp:listItemTitle">@*com.whatsapp:style/ListItemTitle.V2</item>-->
+<!--        <item name="*com.whatsapp:listSectionBackground">@null</item>-->
+<!--        <item name="*com.whatsapp:listSectionDivider">@*com.whatsapp:style/ListSectionDivider.V2</item>-->
+<!--        <item name="*com.whatsapp:listSectionTitleText">@*com.whatsapp:style/ListSectionTitleText.V2</item>-->
+<!--        <item name="*com.whatsapp:primaryIconColor">@*com.whatsapp:color/icon_color_v2</item>-->
+<!--    </style>-->
+</resources>

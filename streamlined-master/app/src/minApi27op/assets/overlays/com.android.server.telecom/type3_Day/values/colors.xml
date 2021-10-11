@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="network_operators_color_primary">@android:color/holo_red_light</color>
+    <color name="network_operators_color_primary_dark">@android:color/holo_red_light</color>
+
+    <color name="blocked_numbers_divider_color">#ff00</color>
+    <color name="blocked_numbers_butter_bar_color">#ff00</color>
+    <color name="blocked_numbers_title_text_color">#ba1e1e1e</color>
+    <color name="blocked_numbers_secondary_text_color">#891e1e1e</color>
+
+    <color name="theme_color">@*android:color/accent_material_light</color>
+
+    <color name="dialer_settings_actionbar_text_color">#1e1e1e</color>
+    <color name="dialer_settings_actionbar_background_color">@android:color/holo_red_light</color>
+    <color name="dialer_settings_color_dark">@android:color/holo_red_light</color>
+</resources>

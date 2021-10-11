@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:gravity="center_vertical" android:layout_gravity="bottom"  android:textColor="#1e1e1e" android:shadowColor="#000000"  android:shadowRadius="1.5" android:id="@*com.google.android.music:id/title" android:paddingBottom="@*com.google.android.music:dimen/play_header_list_tab_text_bottom_padding" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@*com.google.android.music:style/PlayHeaderListTabText"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

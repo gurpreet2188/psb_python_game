@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorControlNormal">#1e1e1e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowNoDisplay">false</item>
+    </style>
+
+
+
+    <!-- thanks jimmy and braden -->
+    <style name="ListViewStyle" parent="@android:style/Widget.Material.Light.ListView">
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:overScrollMode">always</item>
+        <item name="android:background">@android:color/background_light</item>
+    </style>
+
+
+
+    <style name="DialtactsActionBarOverflow" parent="@android:style/Widget.Material.Light.ActionButton.Overflow">
+        <item name="android:colorControlNormal">#d81e1e1e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:colorBackgroundFloating">@*android:color/background_material_light</item>
+        <item name="android:background">@*android:color/background_material_light</item>
+        <item name="android:popupMenuStyle">@android:style/ThemeOverlay.Material</item>
+        <item name="android:popupBackground">@*android:color/background_material_light</item>
+    </style>
+    <style name="DialtactsTheme1" parent="@android:style/Theme.Material.Light">
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:colorControlNormal">#d81e1e1e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:colorPrimary">@android:color/background_light</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_red_light</item>
+    </style>
+
+    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#1e1e1e</item>
+    </style>
+
+    <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#d81e1e1e</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Light.Dialog">
+        <item name="android:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+
+    <style name="DialtactsActionBarTitleText" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:colorControlNormal">#d81e1e1e</item>
+        <item name="android:textColor">#1e1e1e</item>
+    </style>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">@android:color/background_light</color>
+    <color name="focused_bg">@*android:color/background_material_light</color>
+    <color name="text_blue">@*android:color/accent_material_light</color>
+    <color name="twitter_blue">@*android:color/accent_material_light</color>
+    <color name="twitter_blue_30">@*android:color/accent_material_light</color>
+    <color name="twitter_blue_50">@*android:color/accent_material_light</color>
+
+    <color name="deep_gray">#ff1e1e1e</color>
+    <color name="deep_gray_30">#4d1e1e1e</color>
+    <color name="deep_gray_50">#801e1e1e</color>
+    <color name="medium_gray">#1e1e1e</color>
+    <color name="medium_gray_50">#881e1e1e</color>
+
+    <dimen name="card_elevation">0.0dip</dimen>
+    <dimen name="cardview_default_elevation">0.0dip</dimen>
+    <dimen name="main_screen_card_corner_elevation">0.0dip</dimen>
+    <dimen name="theme_information_card_corner_elevation">0.0dip</dimen>
+    <dimen name="abc_action_bar_elevation_material">0.0dip</dimen>
+    <dimen name="action_bar_elevation">0.0dip</dimen>
+    <dimen name="design_appbar_elevation">0.0dip</dimen>
+    <dimen name="toolbar_elevation">0dip</dimen>
+</resources>

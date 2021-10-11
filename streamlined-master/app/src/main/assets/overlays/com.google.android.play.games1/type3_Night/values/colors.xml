@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app compat -->
+
+
+    <color name="accent_material_dark">@android:color/holo_blue_bright</color>
+    <color name="accent_material_light">@android:color/holo_blue_bright</color>
+
+    <color name="background_floating_material_dark">@android:color/holo_purple</color>
+    <color name="background_floating_material_light">@android:color/holo_purple</color>
+    <color name="background_material_dark">@android:color/background_dark</color>
+    <color name="background_material_light">@android:color/background_dark</color>
+    <color name="tooltip_background_dark">@android:color/holo_purple</color>
+    <color name="tooltip_background_light">@android:color/holo_purple</color>
+    <color name="cardview_dark_background">@android:color/holo_purple</color>
+    <color name="cardview_light_background">@android:color/holo_purple</color>
+    <color name="cardview_shadow_end_color">#00000000</color>
+    <color name="cardview_shadow_start_color">#00000000</color>
+    <!--
+        <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
+        <color name="bright_foreground_disabled_material_light">#80000000</color>
+        <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
+        <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color> -->
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+    <color name="bright_foreground_material_light">@android:color/black</color>
+
+    <color name="button_material_dark">@android:color/holo_purple</color>
+    <color name="button_material_light">@android:color/holo_purple</color>
+
+    <color name="foreground_material_dark">@android:color/white</color>
+    <color name="foreground_material_light">@android:color/black</color>
+
+    <color name="primary_dark_material_dark">@android:color/holo_blue_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_blue_light</color>
+    <color name="primary_material_dark">@android:color/holo_blue_light</color>
+    <color name="primary_material_light">@android:color/holo_blue_light</color>
+
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#ffffff</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="primary_text_disabled_material_light">#a1ffffff</color>
+
+    <color name="secondary_text_default_material_light">#d8ffffff</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#a1ffffff</color>
+
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="highlighted_text_material_light">#66009688</color>
+
+    <color name="ripple_material_dark">@android:color/holo_blue_bright</color>
+    <color name="ripple_material_light">@android:color/holo_blue_bright</color>
+
+    <color name="switch_thumb_disabled_material_dark">#a1ffffff</color>
+    <color name="switch_thumb_disabled_material_light">#a1ffffff</color>
+    <color name="switch_thumb_normal_material_dark">@android:color/holo_blue_bright</color>
+    <color name="switch_thumb_normal_material_light">@android:color/holo_blue_bright</color>
+
+
+    <color name="replay__pal_games_400">@android:color/holo_blue_bright</color>
+    <color name="gamedetails__live_op_background">@android:color/background_dark</color>
+    <color name="google_white">@android:color/background_dark</color>
+    <color name="replay__window_background_light">@android:color/background_dark</color>
+    <color name="material_grey_white_1000">@android:color/background_dark</color>
+    <color name="games_mvp_background_green">@android:color/holo_purple</color>
+
+    <color name="games_mvp_divider_color">@android:color/holo_purple</color>
+    <color name="games_onyx_wide_image_overlay_alpha">#c94f4f4f</color>
+    <color name="games_mvp_text_color_primary">#ffffffff</color>
+    <color name="games_mvp_accent_green">@android:color/holo_blue_bright</color>
+    <color name="games_mvp_text_color_tertiary">#c1ffffff</color>
+    <color name="games_popup_dark_text_color">#ffffffff</color>
+    <color name="games_popup_light_text_color">#d8ffffff</color>
+
+    <color name="gamedetails__apl_list_item_extra_text_color">@android:color/holo_blue_bright</color>
+
+    <color name="replay__bottomnavigationview_selected_color">@android:color/holo_blue_bright</color>
+    <color name="replay__bottomnavigationview_unselected_color">#c1ffffff</color>
+
+    <color name="replay__pal_gray_800">#d8ffffff</color>
+    <color name="replay__pal_gray_900">#ffffffff</color>
+    <color name="play_main_background">@android:color/background_dark</color>
+    <color name="replay__pal_gray_300">@android:color/holo_purple</color>
+</resources>

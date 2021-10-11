@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.dialer.main.impl.toolbar.MainToolbar android:background="#00000000" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="11dip" app:contentInsetStart="0.0dip" app:contentInsetEnd="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/com.google.android.dialer">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:background="@*com.google.android.dialer:drawable/abc_ic_star_half_black_16dp">
+        <com.android.dialer.main.impl.toolbar.SearchBarView android:id="@*com.google.android.dialer:id/search_view_container"  android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </FrameLayout>
+</com.android.dialer.main.impl.toolbar.MainToolbar>

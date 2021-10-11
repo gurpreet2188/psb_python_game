@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="default_account_details_color">#d8ffffff</color>
+  <color name="manage_accounts_text_color">#d8ffffff</color>
+  <color name="contact_tile_shadow_box_color">#00000000</color>
+  <color name="nav_item_selected_background">#44ffffff</color>
+  <color name="quickcontact_name_detail_background">#00000000</color>
+  <color name="cardview_shadow_start_color">#00000000</color>
+  <color name="cardview_shadow_end_color">#00000000</color>
+  <color name="quantum_black_divider">#00000000</color>
+  <color name="material_star_pink">@android:color/holo_blue_bright</color>
+  <color name="quantum_pink500">@android:color/holo_blue_bright</color>
+  <color name="quantum_pinkA100">@android:color/holo_blue_bright</color>
+  <color name="quantum_pinkA200">@android:color/holo_blue_bright</color>
+  <color name="quantum_pinkA400">@android:color/holo_blue_bright</color>
+  <color name="quantum_pinkA700">@android:color/holo_blue_bright</color>
+  <color name="primary_text_default_material_dark">#ffffff</color>
+  <color name="primary_text_default_material_light">#deffffff</color>
+  <color name="primary_text_disabled_material_dark">#e3ffffff</color>
+  <color name="primary_text_disabled_material_light">#d6ffffff</color>
+  <color name="secondary_text_default_material_dark">#b3ffffff</color>
+  <color name="secondary_text_default_material_light">#ceffffff</color>
+  <color name="secondary_text_disabled_material_dark">#e6ffffff</color>
+  <color name="secondary_text_disabled_material_light">#e5ffffff</color>
+  <color name="wallet_uic_credit_card_invalid_text_color">#ffff0000</color>
+  <color name="quantum_pink">@android:color/holo_blue_bright</color>
+  <color name="actionbar_icon_color">#ffffffff</color>
+  <color name="action_bar_button_text_color">#ffffffff</color>
+  <color name="actionbar_text_color">#ffffffff</color>
+  <color name="actionbar_unselected_text_color">#a6ffffff</color>
+  <color name="primary_text_color">#ffffff</color>
+  <color name="secondary_text_color">#d8ffffff</color>
+  <color name="people_app_theme_color">@android:color/holo_blue_bright</color>
+  <color name="list_item_name_text_color">#ffffff</color>
+  <color name="background_primary">@android:color/background_dark</color>
+  <color name="frequent_contact_text_color">@android:color/holo_blue_bright</color>
+  <color name="quick_contact_text_color">#ffffff</color>
+  <color name="frequently_contacted_title_color">#ffffff</color>
+  <color name="editor_disabled_text_color">#b1ffffff</color>
+  <color name="block_contact_dialog_primary_text_color">#ffffff</color>
+  <color name="contact_tile_text_color">@android:color/holo_blue_bright</color>
+  <color name="cardview_light_background">@android:color/holo_purple</color>
+  <color name="cardview_dark_background">@android:color/background_dark</color>
+  <color name="dialtacts_primary_text_color">#ffffff</color>
+  <color name="dialtacts_secondary_text_color">#d8ffffff</color>
+  <color name="text_highlight_color">@android:color/holo_blue_bright</color>
+  <color name="quickcontact_entry_sub_header_text_color">#ffffffff</color>
+  <color name="quickcontact_entry_header_text_color">#ffffffff</color>
+  <color name="dialer_theme_color">@android:color/holo_blue_bright</color>
+  <color name="dialer_theme_color_dark">@android:color/holo_blue_bright</color>
+  <color name="dialtacts_theme_color">@android:color/holo_blue_bright</color>
+  <color name="searchbox_text_color">#ffffff</color>
+  <color name="searchbox_background_color">@android:color/holo_blue_light</color>
+  <color name="searchbox_hint_text_color">#c1ffffff</color>
+  <color name="search_shortcut_icon_color">#ffffff</color>
+  <color name="primary_color_dark">@android:color/holo_blue_light</color>
+  <color name="actionbar_background_color">@android:color/holo_blue_light</color>
+  <color name="primary_color">@android:color/holo_blue_bright</color>
+  <color name="contact_all_list_background_color">@android:color/background_dark</color>
+  <color name="expanding_entry_card_background_color">@android:color/holo_purple</color>
+  <color name="card_margin_color">@android:color/holo_purple</color>
+  <color name="background_social_updates">@android:color/background_dark</color>
+  <color name="holo_list_background_color">@android:color/background_dark</color>
+  <color name="divider_line_color_light">@android:color/holo_blue_bright</color>
+  <color name="group_list_background_color">@android:color/background_dark</color>
+  <color name="editor_icon_color">@android:color/holo_blue_bright</color>
+  <color name="tab_accent_color">@android:color/holo_blue_bright</color>
+  <color name="quickcontact_default_photo_tint_color">#777777</color>
+  <color name="quickcontact_default_photo_tint_color_dark">#777777</color>
+  <color name="expanding_entry_card_button_text_color">@android:color/holo_blue_bright</color>
+  <color name="letter_tile_default_color">@android:color/holo_blue_bright</color>
+  <color name="quickcontact_header_background">@android:color/background_dark</color>
+  <color name="contextual_selection_bar_color">@android:color/holo_blue_light</color>
+  <color name="contextual_selection_bar_status_bar_color">@android:color/holo_blue_light</color>
+  <color name="quantum_grey200">#33ffffff</color>
+  <color name="quantum_grey300">#33ffffff</color>
+  <color name="group_primary_color">@android:color/holo_blue_light</color>
+  <color name="group_primary_color_dark">@android:color/holo_blue_light</color>
+  <color name="navigation_drawer_background_color">@android:color/background_dark</color>
+  <color name="drawer_divider_color">#00e5e5e5</color>
+  <color name="drawer_selected_color">@android:color/holo_purple</color>
+  <color name="quantum_black_hint_text">#61ffffff</color>
+  <color name="quantum_black_secondary_text">#89ffffff</color>
+  <color name="quantum_black_text">#ddffffff</color>
+  <color name="actionbar_text_color_black">#ffffff</color>
+  <color name="quickcontact_icon_color">#f1ffffff</color>
+
+  <color name="oneplus_tab_selected_underline_color">#d8ffffff</color>
+  <color name="oneplus_tab_icon_focus_tint_color">#ffffff</color>
+  <color name="oneplus_caller_information_bg_color">@android:color/holo_purple</color>
+  <color name="oneplus_fastscroll_thumb_press_color">@*android:color/accent_material_dark</color>
+  <color name="oneplus_contorl_text_color_primary_light">#e5ffffff</color>
+  <color name="oneplus_contorl_text_color_secondary_light">#66ffffff</color>
+  <color name="oneplus_contorl_text_color_label_light">#66ffffff</color>
+  <color name="oneplus_contorl_text_color_hint_light">#2dffffff</color>
+  <color name="oneplus_contorl_text_color_disable_light">#2dffffff</color>
+  <color name="oneplus_contorl_icon_color_active_light">#66ffffff</color>
+  <color name="oneplus_contorl_icon_color_inactive_light">#1effffff</color>
+  <color name="oneplus_contorl_divider_color_light">@*android:color/transparent</color>
+  <color name="oneplus_contorl_bg_color_dialogs_light">@android:color/holo_purple</color>
+  <color name="oneplus_contorl_bg_color_menu_light">@android:color/holo_purple</color>
+  <color name="oneplus_contorl_bg_color_bottomsheets_light">@android:color/holo_purple</color>
+  <color name="oneplus_contorl_bg_color_cardview_light">@android:color/holo_purple</color>
+  <color name="oneplus_contorl_bg_color_listbg_light">@android:color/holo_purple</color>
+  <color name="oneplus_contorl_bg_color_light">@android:color/holo_purple</color>
+
+
+
+
+
+  <color name="oneplus_dialpad_input_text_color">#ffffffff</color>
+  <color name="oneplus_dialpad_button_text_color_primary">@*android:color/accent_material_dark</color>
+  <color name="oneplus_dialpad_button_text_color_secondary">#fff5f5f5</color>
+  <color name="oneplus_dialpad_icon_tint">@*android:color/accent_material_dark</color>
+  <color name="oneplus_dialpad_voicemail_tint">@*android:color/accent_material_dark</color>
+  <color name="oneplus_call_log_action_bg">@android:color/holo_purple</color>
+  <color name="call_log_action_text_color">#ffffffff</color>
+  <color name="call_log_action_icon_color">@*android:color/accent_material_dark</color>
+  <color name="op_menu_background_light">@android:color/holo_purple</color>
+  <color name="oneplus_sim_icon_bg">#42ffffff</color>
+  <color name="grey_03_dark">@android:color/holo_purple</color>
+  <color name="alert_dialog_color_background_light">@*android:color/background_dark</color>
+  <color name="alert_dialog_title_style_font_color_light">#ffffffff</color>
+  <color name="dialog_color_background">@*android:color/background_dark</color>
+  <color name="alert_dialog_color_accent_light">@*android:color/accent_material_dark</color>
+  <color name="font_dialog_title_light">#ffffffff</color>
+  <color name="font_dialog_text_light">#b7ffffff</color>
+  <color name="font_list_subtitle_light">#ddffffff</color>
+  <color name="font_list_text_light">#6bffffff</color>
+
+  <color name="section_header_text_color">#ffffffff</color>
+  <color name="op_countrycode_item_content_color">#ffffffff</color>
+
+
+  <color name="background_material_light">@android:color/holo_purple</color>
+  <color name="background_floating_material_light">@android:color/holo_purple</color>
+  <color name="oneplus_contact_icon_focus_tint_color">@*android:color/accent_material_dark</color>
+
+
+  <color name="primary_default_light">@*android:color/accent_material_dark</color>
+  <color name="oneplus_contorl_bg_color_dark">@*android:color/background_dark</color>
+  <color name="oneplus_contorl_bg_color_default">@*android:color/background_dark</color>
+  <color name="default_backgroundcolor">@*android:color/background_dark</color>
+
+
+  <color name="primary_default_dark">@android:color/holo_blue_light</color>
+
+  <color name="oneplus_contorl_divider_color_dark">@*android:color/transparent</color>
+  <color name="oneplus_contacts_control_activated_color">@*android:color/accent_material_dark</color>
+  <color name="oneplus_primary_color">@*android:color/accent_material_dark</color>
+  <color name="oneplus_primary_color_dark">@*android:color/accent_material_dark</color>
+  <color name="oneplus_actionbar_background_color">@android:color/holo_purple</color>
+  <color name="oneplus_contact_list_title_text_color">@*android:color/accent_material_dark</color>
+  <color name="op_countrycode_item_title_color">@*android:color/accent_material_dark</color>
+  <color name="oneplus_section_header_text_color">@*android:color/accent_material_dark</color>
+  <color name="oneplus_empty_list_action_text_color">@*android:color/accent_material_dark</color>
+  <color name="quick_index_bar_select_color">@*android:color/accent_material_dark</color>
+  <color name="oneplus_accent_color">@*android:color/accent_material_dark</color>
+  <color name="oneplus_contorl_bg_color_statusbar_dark">@android:color/holo_blue_light</color>
+
+  <color name="oneplus_contorl_bg_color_cardview_dark">@*android:color/holo_purple</color>
+  <color name="secondary_header_separator_color">@android:color/holo_purple</color>
+  <color name="favorite_contacts_separator_color">@android:color/holo_purple</color>
+  <color name="dialog_color_background_dark">@android:color/holo_purple</color>
+  <color name="alert_dialog_color_background_dark">@android:color/holo_purple</color>
+  <color name="bg_dialog_dark">@android:color/holo_purple</color>
+  <color name="oneplus_dialpad_bg_color">@*android:color/background_dark</color>
+</resources>

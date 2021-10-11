@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="letter_tile_colors">
+        <item>@android:color/background_dark</item>
+        <item>@android:color/holo_red_dark</item>
+    </array>
+    <array name="letter_tile_colors_dark">
+        <item>@android:color/background_dark</item>
+        <item>@android:color/holo_red_dark</item>
+    </array>
+    <string-array name="customized_color_content_descriptions">
+        <item>StreamLined Accent</item>
+
+    </string-array>
+    <array name="customized_letter_tile_colors">
+        <item>@android:color/holo_purple</item>
+        <item>@android:color/holo_red_dark</item>
+    </array>
+    <array name="customized_letter_tile_colors_dark">
+        <item>@android:color/holo_red_dark</item>
+        <item>@android:color/holo_red_dark</item>
+    </array>
+</resources>

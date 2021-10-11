@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="99"
+    android:viewportHeight="99">
+
+    <path
+        android:name="dot1"
+        android:strokeColor="?android:colorAccent"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M 27.9 45.4 L 27.9 75.6" />
+    <path
+        android:name="dot2"
+        android:strokeColor="?android:colorAccent"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M 46.8 32.5 L 46.8 75.6" />
+    <path
+        android:name="dot3"
+        android:strokeColor="?android:colorAccent"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M 65.7 23.6 L 65.7 75.6" />
+
+   <group android:scaleY="0.9" android:scaleX="0.9" android:translateY="5" android:translateX="5"> <path  android:strokeColor="?android:colorAccent" android:fillColor="@*android:color/transparent"  android:strokeWidth="3"  android:strokeLineJoin="round"  android:strokeMiterLimit="10"   android:strokeLineCap="round" android:pathData="M 49 0 C 76.0619527417 0 98 21.9380472583 98 49 C 98 76.0619527417 76.0619527417 98 49 98 C 21.9380472583 98 0 76.0619527417 0 49 C 0 21.9380472583 21.9380472583 0 49 0 Z" />
+    <path
+        android:strokeColor="?android:colorAccent"
+        android:strokeWidth="4"
+        android:strokeLineJoin="round"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M 6.6 54.9 L 15.4 54.9 L 15.4 75.2 L 23.4 75.2 L 23.4 40.9 L 32.5 40.9 L 32.5 75.5 L 42.1 75.5 L 42.1 28.5 L 51.7 28.5 L 51.7 75.2 L 60.8 75.2 L 60.8 19.4 L 70.7 19.4 L 70.7 75.6 L 77.3 75.6 " />
+
+</group> </vector>

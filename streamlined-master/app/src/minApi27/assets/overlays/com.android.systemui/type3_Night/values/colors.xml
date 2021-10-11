@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_guts_bg_color">@android:color/holo_purple</color>
+    <color name="notification_ripple_untinted_color">#28000000</color>
+    <color name="notification_panel_solid_background">@android:color/background_dark</color>
+    <color name="system_primary_color">@android:color/background_dark</color>
+    <color name="system_secondary_color">@android:color/background_dark</color>
+    <color name="system_accent_color">@android:color/holo_blue_bright</color>
+    <color name="qs_detail_empty">@android:color/background_light</color>
+    <color name="statusbar_system_panel_text">@android:color/background_light</color>
+    <color name="statusbar_text_button_text">@android:color/background_light</color>
+    <color name="statusbar_expanded_text">@android:color/background_light</color>
+    <color name="statusbar_expanded_clock_text">@android:color/background_light</color>
+    <color name="statusbar_expanded_date_text">@android:color/background_light</color>
+    <color name="statusbar_expanded_above_date_time_text">@android:color/background_light</color>
+    <color name="statusbar_expanded_network_text">@android:color/background_light</color>
+    <color name="statusbar_expanded_network_emergency_only_text">@android:color/background_light</color>
+    <color name="qs_text">#ffffff</color>
+    <color name="qs_tile_divider">@android:color/holo_blue_bright</color>
+    <color name="qs_tile_text">#ffffff</color>
+    <color name="qs_subhead">@android:color/holo_blue_bright</color>
+    <color name="qs_edit_item_decoration_bg">@android:color/background_dark</color>
+    <color name="lb_basic_card_bg_color">@android:color/background_dark</color>
+    <color name="lb_default_brand_color_dark">@android:color/background_dark</color>
+    <color name="material_blue_grey_900">@android:color/background_dark</color>
+    <color name="recents_tv_card_background_color">@android:color/background_dark</color>
+    <color name="notification_shade_background_color">@android:color/holo_purple</color>
+    <color name="material_deep_teal_200">@android:color/background_dark</color>
+    <color name="material_deep_teal_500">@android:color/background_dark</color>
+    <color name="preference_fallback_accent_color">@android:color/background_dark</color>
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="notification_guts_slider_color">@android:color/holo_purple</color>
+    <color name="notification_material_background_low_priority_color">@android:color/background_dark</color>
+    <color name="notification_material_background_color">@android:color/background_dark</color>
+    <color name="background_floating_material_dark">@android:color/background_dark</color>
+    <color name="background_floating_material_light">@android:color/background_dark</color>
+    <color name="primary_text_default_material_light">#d8ffffff</color>
+    <color name="highlighted_text_material_light">@android:color/holo_blue_bright</color>
+    <color name="notification_action_color_filter">@android:color/background_dark</color>
+    <color name="bright_foreground_disabled_material_dark">@android:color/holo_blue_bright</color>
+    <color name="qs_tile_disabled_color">@android:color/holo_blue_bright</color>
+
+    <color name="smartbar_editor_popup_background">@android:color/holo_purple</color>
+    <color name="smartbar_editor_popup_text">@android:color/white</color>
+    <color name="smartbar_editor_popup_icon_fill">@android:color/white</color>
+    <color name="smartbar_editor_popup_horiz_separator">@android:color/holo_blue_bright</color>
+
+    <color name="qs_battery_text_color">@android:color/holo_blue_bright</color>
+    <color name="qs_battery_graph_text_color">#66ffffff</color>
+    <color name="qs_battery_accent">@android:color/holo_blue_bright</color>
+
+    <color name="qs_tile_tint_unavailable">@android:color/holo_blue_bright</color>
+    <color name="qs_tile_tint_inactive">@android:color/holo_blue_bright</color>
+    <color name="qs_tile_tint_active">@android:color/holo_blue_bright</color>
+    <color name="external_qs_tile_tint_color">@android:color/holo_blue_bright</color>
+    <color name="tm_floating_action_button_icon_color">@android:color/holo_blue_bright</color>
+    <color name="tm_floating_action_button_bg_color">@android:color/holo_purple</color>
+    <color name="memory_usage_item_background">@android:color/holo_purple</color>
+    <color name="memory_usage_text">#ffffffff</color>
+    <color name="task_item_background">@android:color/holo_purple</color>
+    <color name="task_item_text">#b3ffffff</color>
+    <color name="task_manager_bg_color">@android:color/holo_purple</color>
+    <color name="tm_button_color">#b3ffffff</color>
+    <color name="tm_close_button_color">#b3ffffff</color>
+
+    <color name="light_mode_icon_color_dual_tone_background">#4dbbbbbb</color>
+    <color name="light_mode_icon_color_dual_tone_fill">#bbbbbb</color>
+    <color name="light_mode_icon_color_single_tone">#bbbbbb</color>
+    <color name="dark_mode_icon_color_dual_tone_background">#4dbbbbbb</color>
+    <color name="dark_mode_icon_color_dual_tone_fill">#bbbbbb</color>
+    <color name="dark_mode_icon_color_single_tone">#bbbbbb</color>
+</resources>

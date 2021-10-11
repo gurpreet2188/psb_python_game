@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:statusBarColor">@android:color/holo_blue_light</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:textColorTertiary">#c1ffffff</item>
+        <item name="android:textColorHint">#b1ffffff</item>
+        <item name="android:textColorSecondary">#f8f8f8</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:windowNoTitle">true</item>
+       <item name="android:windowActionBar">false</item>
+       <item name="android:buttonBarStyle">?buttonBarStyle</item>
+       <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+      </style>
+
+    <style name="Thriller.RecentsButton" parent="@*com.google.android.music:style/Thriller">
+        <item name="android:backgroundTint">#e1e1e1</item>
+        <item name="android:textSize">@*com.google.android.music:dimen/thriller_home_button_text_size</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+
+    <style name="RtlOverlay.Widget.AppCompat.Search.DropDown" parent="@android:style/Widget">
+        <item name="android:paddingLeft">@*com.google.android.music:dimen/abc_dropdownitem_text_padding_left</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:backgroundTint">#ffffff</item>
+    </style>
+
+    <style name="PlayDrawerProfileNameText" parent="@*com.google.android.music:style/PlayMediumPlainText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="PlaySearchSuggestionText">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="PlaySearchSuggestionText.Query" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="PlaySearchSuggestionText.Suggested" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="PlaySearchBoxIdleText">
+        <item name="android:tint">#ffffff</item>
+        <item name="android:color">#ffffff</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:paddingTop">12.0dip</item>
+        <item name="android:paddingBottom">12.0dip</item>
+        <item name="android:layout_height">24.0dip</item>
+        <item name="android:scaleType">matrix</item>
+    </style>
+
+    <style name="UserQuizSkipButton" parent="@*com.google.android.music:style/SecondaryTitle">
+        <item name="android:backgroundTint">@android:color/holo_purple</item>
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="PlaySearchPlate">
+        <item name="android:background">@android:color/background_dark</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:paddingRight">0.0dip</item>
+    </style>
+
+    <style name="FamilyOnboarding.Title" parent="@*com.google.android.music:style/FamilyOnboarding">
+        <item name="android:textSize">@*com.google.android.music:dimen/family_onboarding_title_text_size</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:paddingLeft">@*com.google.android.music:dimen/family_onboarding_title_left_padding</item>
+        <item name="android:paddingBottom">@*com.google.android.music:dimen/family_onboarding_title_bottom_padding</item>
+    </style>
+
+    <style name="NowCard.ModuleTitle" parent="@*com.google.android.music:style/NowCard">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:letterSpacing">0.05</item>
+    </style>
+
+    <style name="Tutorial.ProgressBar.WhiteSpinner" parent="@*com.google.android.music:style/Tutorial.ProgressBar">
+        <item name="android:indeterminateTint">@android:color/holo_blue_bright</item>
+    </style>
+
+    <style name="MusicCardNumber.Dark" parent="@*com.google.android.music:style/PlayCardTitle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:background">@android:color/holo_purple</item>
+    </style>
+
+    <style name="MusicSettingsActionBar.TitleTextStyle" parent="@*com.google.android.music:style/MusicActionBar.TitleTextStyle">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="Thriller.ModuleTitle" parent="@*com.google.android.music:style/Thriller">
+        <item name="android:textSize">28.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">3</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="Tutorial.Button.Orange" parent="@*com.google.android.music:style/Tutorial.Button">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:background">@android:color/holo_purple</item>
+    </style>
+
+    <style name="Tutorial.Button.Orange.Flat" parent="@*com.google.android.music:style/Tutorial.Button.Orange">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:background">@android:color/holo_purple</item>
+    </style>
+    <style name="Tutorial.Button.Secondary" parent="@*com.google.android.music:style/Tutorial.Button">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:background">@android:color/holo_purple</item>
+    </style>
+
+    <style name="Tutorial.TextView.WarmWelcomeSubTitle" parent="@*com.google.android.music:style/Tutorial.TextView">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">2</item>
+    </style>
+
+    <style name="Tutorial.TextView.WarmWelcomeSummary" parent="@*com.google.android.music:style/Tutorial.TextView">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:lineSpacingExtra">4.0sp</item>
+    </style>
+
+    <style name="PlayDrawerList">
+        <item name="android:background">@android:color/background_dark</item>
+        <item name="android:fadingEdgeLength">0.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">0.0dip</item>
+        <item name="android:cacheColorHint">#ffffff</item>
+        <item name="android:divider">@null</item>
+        <item name="android:choiceMode">none</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+
+    <style name="PlaybackControl.Play.Light" parent="@*com.google.android.music:style/PlaybackControl.Play">
+        <item name="android:padding">0.0dip</item>
+        <item name="android:layout_margin">@*com.google.android.music:dimen/default_padding</item>
+        <item name="android:contentDescription">@*com.google.android.music:string/accessibility_pause</item>
+        <item name="*com.google.android.music:pauseImage">@*com.google.android.music:drawable/ic_media_pause_light</item>
+        <item name="*com.google.android.music:playImage">@*com.google.android.music:drawable/ic_play_black_round</item>
+        <item name="*com.google.android.music:stopImage">@*com.google.android.music:drawable/ic_media_pause_light</item>
+    </style>
+
+    <style name="PlayDrawerBaseText" parent="">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">48.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">32.0dip</item>
+    </style>
+    <style name="PlayDrawerDisabledText" parent="">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">48.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">32.0dip</item>
+    </style>
+
+    <style name="PlayDrawerSelectedText" parent="@*com.google.android.music:style/PlayDrawerBaseText">
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">#21ffffff</item>
+    </style>
+
+    <style name="BaseMusicActivityTheme" parent="@*com.google.android.music:style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:gridViewStyle">@*com.google.android.music:style/MusicGridView</item>
+        <item name="android:listViewStyle">@*com.google.android.music:style/MusicListView</item>
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="android:windowSharedElementsUseOverlay">false</item>
+        <item name="*com.google.android.music:drawerArrowStyle">@*com.google.android.music:style/MusicDrawerArrowStyle</item>
+        <item name="*com.google.android.music:windowActionBarOverlay">true</item>
+        <item name="*com.google.android.music:actionBarPopupTheme">@*com.google.android.music:style/ThemeOverlay.AppCompat.Light</item>
+        <item name="*com.google.android.music:actionBarDivider">@null</item>
+        <item name="*com.google.android.music:dialogTheme">@*com.google.android.music:style/MusicDialogTheme</item>
+        <item name="*com.google.android.music:selectableItemBackground">@*com.google.android.music:drawable/white_highlight</item>
+        <item name="*com.google.android.music:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.music:colorPrimaryDark">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.music:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.music:alertDialogTheme">@*com.google.android.music:style/MusicDialogTheme</item>
+    </style>
+
+    <style name="MusicDialogTheme" parent="@*com.google.android.music:style/Theme.AppCompat.Dialog">
+        <item name="android:backgroundTint">@android:color/holo_purple</item>
+        <item name="*com.google.android.music:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.music:colorPrimaryDark">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.music:colorAccent">@android:color/holo_blue_bright</item>
+    </style>
+
+    <style name="TopChartsMoreButton" parent="@*com.google.android.music:style/DetailsPageHeaderButton">
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:background">@null</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="PlaybackControl.Play.Light.Fab" parent="@*com.google.android.music:style/PlaybackControl.Play.Light">
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">56dip</item>
+        <item name="android:layout_height">56dip</item>
+        <item name="android:layout_marginLeft">@*com.google.android.music:dimen/nowplaying_fab_button_side_margin</item>
+        <item name="android:layout_marginRight">@*com.google.android.music:dimen/nowplaying_fab_button_side_margin</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:contentDescription">@*com.google.android.music:string/accessibility_pause</item>
+        <item name="*com.google.android.music:pauseImage">@*com.google.android.music:drawable/ic_fab_pause</item>
+        <item name="*com.google.android.music:playImage">@*com.google.android.music:drawable/ic_fab_play</item>
+        <item name="*com.google.android.music:stopImage">@*com.google.android.music:drawable/ic_fab_pause</item>
+    </style>
+
+    <style name="MusicSettingsActivityTheme" parent="@*com.google.android.music:style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:statusBarColor">@android:color/holo_blue_light</item>
+        <item name="android:titleTextColor">#ffffff</item>
+        <item name="android:textColorSecondary">#d8ffffff</item>
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:gridViewStyle">@*com.google.android.music:style/MusicGridView</item>
+        <item name="android:listViewStyle">@*com.google.android.music:style/MusicListView</item>
+        <item name="android:windowSharedElementsUseOverlay">false</item>
+        <item name="*com.google.android.music:actionBarStyle">@*com.google.android.music:style/MusicSettingsActionBar</item>
+        <item name="*com.google.android.music:actionBarDivider">@null</item>
+        <item name="*com.google.android.music:selectableItemBackground">@*com.google.android.music:drawable/white_highlight</item>
+        <item name="*com.google.android.music:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.music:colorPrimaryDark">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.music:colorAccent">@android:color/holo_blue_bright</item>
+    </style>
+
+    <style name="GearHeadMusicTheme">
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_blue_light</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+    </style>
+
+    <style name="NoPHLLToolbarActivityTheme" parent="@*com.google.android.music:style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:gridViewStyle">@*com.google.android.music:style/MusicGridView</item>
+        <item name="android:listViewStyle">@*com.google.android.music:style/MusicListView</item>
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.music:drawerArrowStyle">@*com.google.android.music:style/MusicDrawerArrowStyle</item>
+        <item name="*com.google.android.music:windowActionBarOverlay">true</item>
+        <item name="*com.google.android.music:actionBarTheme">@*com.google.android.music:style/MusicActionBar</item>
+        <item name="*com.google.android.music:actionBarDivider">@null</item>
+        <item name="*com.google.android.music:selectableItemBackground">@*com.google.android.music:drawable/white_highlight</item>
+        <item name="*com.google.android.music:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.music:colorPrimaryDark">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.music:colorAccent">@android:color/holo_blue_bright</item>
+    </style>
+
+    <style name="SelectAccountTitle" parent="@*com.google.android.music:style/PlayDetailTitle">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="Thriller.ShuffleButton" parent="@*com.google.android.music:style/Thriller">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:drawableLeft">@*com.google.android.music:drawable/ic_play_shuffle_orange_noshadow</item>
+        <item name="android:drawablePadding">16.0dip</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:drawableStart">@*com.google.android.music:drawable/ic_play_shuffle_orange_noshadow</item>
+    </style>
+
+
+</resources>

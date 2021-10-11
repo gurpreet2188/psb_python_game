@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Body">
+        <item name="android:tag">.keyboard-body-area</item>
+        <item name="android:background">@android:color/background_light</item>
+        <item name="android:backgroundTint">@android:color/background_light</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">?*com.google.android.inputmethod.latin:KeyboardBodyHeight</item>
+    </style>
+
+    <style name="LatinMaterialDarkTheme">
+        <item name="android:backgroundTint">@android:color/background_light</item>
+        <item name="*com.google.android.inputmethod.latin:Icon9KeyShiftUnderline">@*com.google.android.inputmethod.latin:drawable/ic_9key_shift_underline_material_dark_theme</item>
+        <item name="*com.google.android.inputmethod.latin:Icon9KeyShiftUnderlineHighlight">@*com.google.android.inputmethod.latin:drawable/ic_9key_shift_underline_highlight_material_dark_theme</item>
+        <item name="*com.google.android.inputmethod.latin:IconCiSimplified">@*com.google.android.inputmethod.latin:drawable/ic_key_ci_white_s</item>
+        <item name="*com.google.android.inputmethod.latin:IconCiTraditional">@*com.google.android.inputmethod.latin:drawable/ic_key_ci_white_t</item>
+        <item name="*com.google.android.inputmethod.latin:IconIndicMoreAlpha">204</item>
+        <item name="*com.google.android.inputmethod.latin:IconMic">@*com.google.android.inputmethod.latin:drawable/ic_mic_dark_theme</item>
+        <item name="*com.google.android.inputmethod.latin:colorLabelDynamic">@*com.google.android.inputmethod.latin:color/label_dynamic_light_green</item>
+        <item name="*com.google.android.inputmethod.latin:iconTabKey">@*com.google.android.inputmethod.latin:drawable/sym_keyboard_tab_lxx_dark</item>
+    </style>
+</resources>

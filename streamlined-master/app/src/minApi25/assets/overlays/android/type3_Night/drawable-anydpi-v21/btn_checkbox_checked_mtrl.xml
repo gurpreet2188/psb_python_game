@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="ic_checkbox_checked" android:tint="@*android:color/control_checkable_material" android:height="32.0dip" android:width="32.0dip" android:viewportWidth="100" android:viewportHeight="100"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:scaleX="0.6" android:scaleY="0.6" android:pivotX="50" android:pivotY="50">
+    <path
+        android:strokeColor="#ffffff"
+        android:strokeWidth="5"
+        android:pathData="M97.5,26.25c0,-13.108 -10.642,-23.75 -23.75,-23.75l-47.5,0c-13.108,0
+-23.75,10.642 -23.75,23.75l0,47.5c0,13.108 10.642,23.75
+23.75,23.75l47.5,0c13.108,0 23.75,-10.642 23.75,-23.75l0,-47.5Z" />
+
+
+    <group  android:name="check_path_merged" android:pivotY="50" android:pivotX="50"  android:translateX="-7.1" android:rotation="0">
+
+        <path
+            android:name="box_inner_merged"
+            android:strokeColor="#ffffff"
+            android:strokeLineCap="round"
+            android:strokeWidth="5"
+            android:pathData="M38.095,68.99l37.98,-37.98 M76.075,68.99l-37.98,-37.9 " />
+
+    </group>
+</group>
+</vector>

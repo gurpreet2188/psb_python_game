@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="key_text_color_lxx_light">#6e6e6e</color>
+        <color name="key_functional_text_color_lxx_light">#6e6e6e</color>
+        <color name="key_text_inactive_color_lxx_light">#1e1e1e</color>
+        <color name="key_hint_letter_color_lxx_light">#1e1e1e</color>
+        <color name="language_on_spacebar_text_color_lxx_light">@android:color/background_light</color>
+        <color name="highlight_color_lxx_light">#1e1e1e</color>
+        <color name="auto_correct_color_lxx_light">#1e1e1e</color>
+        <color name="typed_word_color_lxx_light">#1e1e1e</color>
+        <color name="suggested_word_color_lxx_light">#6e6e6e</color>
+        <color name="gesture_trail_color_lxx_light">#1e1e1e</color>
+        <color name="sliding_key_input_preview_color_lxx_light">#6e6e6e</color>
+        <color name="key_background_lxx_light">@android:color/background_light</color>
+        <color name="key_background_pressed_lxx_light">#1e1e1e</color>
+        <color name="suggested_word_background_selected_lxx_light">#6e6e6e</color>
+        <color name="gesture_floating_preview_color_lxx_light">@android:color/background_light</color>
+        <color name="emoji_tab_page_indicator_background_lxx_light">@android:color/background_light</color>
+
+                                   <!-- new 5.x -->
+
+        <color name="material_deep_teal_200">@*android:color/background_material_light</color>
+        <color name="material_deep_teal_500">@*android:color/background_material_light</color>
+        <color name="key_bordered_light_theme">@*android:color/background_material_light</color>
+        <color name="key_action_bordered_light_theme">#1e1e1e</color>
+        <color name="key_action_pressed_bordered_light_theme">#1e1e1e</color>
+        <color name="ColorChordedTrackMaterialLightTheme">@*android:color/accent_material_light</color>
+
+        <color name="base_material_light_theme">@android:color/background_light</color>
+
+        <color name="candidate_material_light_theme">@android:color/background_light</color>
+
+        <color name="candidate_placeholder">#ff999999</color>
+        <color name="common_action_bar_splitter">#ffd2d2d2</color>
+        <color name="confidential_red">#ffbe2c12</color>
+        <color name="confidential_silver">#ff999999</color>
+        <color name="default_green">#ff4db6ac</color>
+        <color name="feature_page_background">#ff01bcd4</color>
+        <color name="feature_page_text_color">#d8000000</color>
+        <color name="first_run_navigation_text">#e637474f</color>
+      
+        <color name="header_bottom_separator_material_light_theme">@*android:color/accent_material_light</color>
+        <color name="inline_composing_text_correction">#ff1e1e1e</color>
+        <color name="inline_composing_text_correction_material_light_theme">#1e1e1e</color>
+
+        <color name="inline_composing_text_determined_syllable">#8833b5e5</color>
+        <color name="inline_composing_text_undecoded">#771e1e1e</color>
+        <color name="key_pressed_material_light_theme">@android:color/background_light</color>
+     
+     
+        <color name="keyboard_separator_material_light_theme">@*android:color/accent_material_light</color>
+      
+        <color name="label_9key_left_panel_material_light_theme">#9937474f</color>
+      
+     
+        <color name="label_dashboard_active_layout_light_theme">#cc1e1e1e</color>
+        <color name="label_dashboard_active_layout_material_light_theme">#cc37474f</color>
+        <color name="label_dashboard_inactive_layout_light_theme">#991e1e1e</color>
+        <color name="label_dashboard_inactive_layout_material_light_theme">#9937474f</color>
+        <color name="label_disabled_material_light_theme">#441e1e1e</color>
+      
+        <color name="label_function_key_material_light_theme">#1e1e1e</color>
+     
+        <color name="label_material_light_theme">#1e1e1e</color>
+
+        <color name="label_non_prime_header_active_light_theme">#1e1e1e</color>
+        <color name="label_non_prime_header_active_material_light_theme">#ff37474f</color>
+        <color name="label_non_prime_header_deactive_light_theme">#ff808080</color>
+        <color name="label_non_prime_header_deactive_material_light_theme">#8037474f</color>
+        <color name="label_popup_footer_material_light_theme">#54cfd8dc</color>
+      
+        <color name="label_popup_material_light_theme">#1e1e1e</color>
+      
+        <color name="label_popup_pressed_material_light_theme">#1e1e1e</color>
+        <color name="label_reading_text_candidate_material_light_theme">#cc1e1e1e</color>
+      
+        <color name="label_secondary_material_light_theme">#991e1e1e</color>
+      
+        <color name="label_space_bordered_light_theme">#6bcfd8dc</color>
+   
+        <color name="label_space_material_light_theme">#33cfd8dc</color>
+  
+
+
+        <color name="label_sup_light_material_light_theme">#ff808184</color>
+    
+        <color name="more_candidates_separator_material_light_theme">@*android:color/accent_material_light</color>
+  
+        <color name="popup_background_material_light_theme">@android:color/background_light</color>
+
+        <color name="popup_confirmation_text">#1e1e1e</color>
+        <color name="popup_overlay_background">@*android:color/accent_material_light</color>
+
+        <!-- Gboard -->
+
+        <color name="gbot_share_chip_background">@*android:color/background_material_light</color>
+        <color name="gbot_share_chip_text_color">#6e6e6e</color>
+        <color name="foreground_material_light">@android:color/background_light</color>
+
+       
+        <color name="cardview_light_background">@*android:color/background_material_light</color>
+
+      
+        <color name="bright_foreground_material_light">@*android:color/background_material_light</color>
+</resources>

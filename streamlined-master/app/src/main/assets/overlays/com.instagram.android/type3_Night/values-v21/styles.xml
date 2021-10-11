@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<style name="FixedTabBar.Whiteout" parent="@*com.instagram.android:style/FixedTabBar">-->
+        <!--<item name="android:background">@android:color/background_dark</item>-->
+    <!--</style>-->
+
+    <!--<style name="IgDialog" parent="@android:style/Theme.Material.Dialog">-->
+        <!--<item name="android:backgroundDimAmount">0.6</item>-->
+        <!--<item name="android:windowBackground">@android:color/background_dark</item>-->
+        <!--<item name="android:windowFrame">@null</item>-->
+        <!--<item name="android:windowNoTitle">true</item>-->
+        <!--<item name="android:windowIsFloating">true</item>-->
+        <!--<item name="android:windowIsTranslucent">true</item>-->
+        <!--<item name="android:windowContentOverlay">@null</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:windowAnimationStyle">@*com.instagram.android:style/animationDialog</item>-->
+        <!--<item name="android:listChoiceIndicatorSingle">@null</item>-->
+        <!--<item name="android:listChoiceIndicatorMultiple">@null</item>-->
+        <!--<item name="android:backgroundDimEnabled">true</item>-->
+        <!--<item name="android:listChoiceBackgroundIndicator">@null</item>-->
+        <!--<item name="android:activatedBackgroundIndicator">@null</item>-->
+        <!--<item name="android:windowCloseOnTouchOutside">false</item>-->
+    <!--</style>-->
+
+    <!--<style name="ListViewStyle">-->
+        <!--<item name="android:background">@*android:color/background_dark</item>-->
+        <!--<item name="android:focusable">false</item>-->
+        <!--<item name="android:listSelector">#00000000</item>-->
+        <!--<item name="android:cacheColorHint">@*android:color/background_dark</item>-->
+        <!--<item name="android:divider">@null</item>-->
+        <!--<item name="android:dividerHeight">0.0dip</item>-->
+        <!--<item name="android:headerDividersEnabled">false</item>-->
+        <!--<item name="android:footerDividersEnabled">false</item>-->
+    <!--</style>-->
+
+    <!--<style name="Widget.InAppCaptureView" parent="">-->
+        <!--<item name="*com.instagram.android:captureStrokeRing">@android:color/holo_blue_bright</item>-->
+        <!--<item name="*com.instagram.android:captureCameraOuterRing">#c1ffffff</item>-->
+        <!--<item name="*com.instagram.android:captureCameraInnerRing">#c1ffffff</item>-->
+        <!--<item name="*com.instagram.android:captureCameraOuterRingPressed">@android:color/holo_blue_bright</item>-->
+        <!--<item name="*com.instagram.android:captureCameraInnerRingPressed">@android:color/holo_blue_bright</item>-->
+        <!--<item name="*com.instagram.android:captureCamcorderOuterRing">#ffffff</item>-->
+        <!--<item name="*com.instagram.android:captureCamcorderInnerRing">#c1ffffff</item>-->
+        <!--<item name="*com.instagram.android:captureCamcorderOuterRingPressed">@android:color/holo_blue_bright</item>-->
+        <!--<item name="*com.instagram.android:captureCamcorderInnerRingPressed">@android:color/holo_blue_bright</item>-->
+        <!--<item name="*com.instagram.android:captureCamcorderOuterRingDisable">#61ffffff</item>-->
+        <!--<item name="*com.instagram.android:captureCamcorderInnerRingDisable">#61ffffff</item>-->
+        <!--<item name="*com.instagram.android:captureCamcorderProgressDrawable">@*com.instagram.android:drawable/camcorder_progress_black</item>-->
+        <!--<item name="*com.instagram.android:captureCamcorderProgressActiveDrawable">@*com.instagram.android:drawable/camcorder_progress_red_whiteout</item>-->
+        <!--<item name="*com.instagram.android:captureCamcorderBlinkerColor">@android:color/holo_blue_bright</item>-->
+    <!--</style>-->
+
+    <!--<style name="IgDialogNoStyle">-->
+        <!--<item name="android:windowBackground">@android:color/background_dark</item>-->
+        <!--<item name="android:windowFrame">@null</item>-->
+        <!--<item name="android:windowNoTitle">true</item>-->
+        <!--<item name="android:windowIsFloating">false</item>-->
+        <!--<item name="android:windowContentOverlay">@null</item>-->
+        <!--<item name="android:windowAnimationStyle">@null</item>-->
+        <!--<item name="android:windowCloseOnTouchOutside">false</item>-->
+    <!--</style>-->
+
+    <!--<style name="ActionBarTitle" parent="@android:style/Widget.TextView">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_large</item>-->
+        <!--<item name="android:textColor">@android:color/holo_blue_bright</item>-->
+        <!--<item name="android:ellipsize">end</item>-->
+        <!--<item name="android:paddingLeft">@*com.instagram.android:dimen/action_bar_item_padding</item>-->
+        <!--<item name="android:paddingBottom">2.0dip</item>-->
+        <!--<item name="android:lines">1</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+    <!--</style>-->
+
+    <!--<style name="ActionBarTitle.ContextualFeed.Whiteout" parent="@*com.instagram.android:style/ActionBarTitle.ContextualFeed">-->
+        <!--<item name="android:textColor">@android:color/holo_blue_bright</item>-->
+        <!--<item name="android:includeFontPadding">true</item>-->
+        <!--<item name="*com.instagram.android:capitalize">false</item>-->
+    <!--</style>-->
+
+    <!--<style name="DefaultCameraButtonStyle">-->
+        <!--<item name="*com.instagram.android:arrowColour">#1e1e1e</item>-->
+        <!--<item name="*com.instagram.android:arrowHeadEdgeLength">12.0dip</item>-->
+        <!--<item name="*com.instagram.android:arrowLength">20.0dip</item>-->
+        <!--<item name="*com.instagram.android:arrowThickness">2.0dip</item>-->
+        <!--<item name="*com.instagram.android:innerCircleColour">@android:color/white</item>-->
+        <!--<item name="*com.instagram.android:innerCircleInset">12.5dip</item>-->
+        <!--<item name="*com.instagram.android:outerCircleColour">@*com.instagram.android:color/white_30_transparent</item>-->
+        <!--<item name="*com.instagram.android:progressCircleStrokeWidth">4.0dip</item>-->
+        <!--<item name="*com.instagram.android:progressGradientPatternStyle">@*com.instagram.android:style/GradientPatternStyle</item>-->
+    <!--</style>-->
+
+    <!--<style name="Headline1" parent="@*com.instagram.android:style/IgPrimaryText">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_xxlarge</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:gravity">center_vertical</item>-->
+        <!--<item name="android:lineSpacingMultiplier">1.1</item>-->
+    <!--</style>-->
+    <!--<style name="Headline2" parent="@*com.instagram.android:style/IgPrimaryText">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_xlarge</item>-->
+    <!--</style>-->
+    <!--<style name="Title" parent="@*com.instagram.android:style/IgPrimaryText">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_xlarge</item>-->
+        <!--<item name="android:textColor">@android:color/holo_blue_bright</item>-->
+        <!--<item name="android:gravity">center_vertical</item>-->
+        <!--<item name="android:lineSpacingMultiplier">1.2</item>-->
+    <!--</style>-->
+
+    <!--<style name="Section" parent="@*com.instagram.android:style/IgSecondaryText">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_medium_xlarge</item>-->
+        <!--<item name="android:textColor">#d8ffffff</item>-->
+        <!--<item name="android:lineSpacingMultiplier">1.25</item>-->
+    <!--</style>-->
+    <!--<style name="Label" parent="@*com.instagram.android:style/IgPrimaryText">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_medium_xlarge</item>-->
+        <!--<item name="android:textColor">@android:color/holo_blue_bright</item>-->
+        <!--<item name="android:lineSpacingMultiplier">1.25</item>-->
+    <!--</style>-->
+
+    <!--<style name="Body" parent="@*com.instagram.android:style/IgPrimaryText">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_medium</item>-->
+        <!--<item name="android:textColor">#f1ffffff</item>-->
+        <!--<item name="android:lineSpacingMultiplier">1.2</item>-->
+    <!--</style>-->
+    <!--<style name="BodyEmphasized" parent="@*com.instagram.android:style/IgSecondaryText">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_medium</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:lineSpacingMultiplier">1.3</item>-->
+    <!--</style>-->
+    <!--<style name="FootNote" parent="@*com.instagram.android:style/IgPrimaryText">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_small</item>-->
+        <!--<item name="android:textColor">#c1ffffff</item>-->
+        <!--<item name="android:lineSpacingMultiplier">1.35</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="FootNoteEmphasized" parent="@*com.instagram.android:style/IgSecondaryText">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_medium</item>-->
+        <!--<item name="android:textColor">#f1ffffff</item>-->
+        <!--<item name="android:lineSpacingMultiplier">1.35</item>-->
+    <!--</style>-->
+    <!--<style name="ButtonSecondary" parent="@*com.instagram.android:style/ButtonPrimary">-->
+        <!--<item name="android:textColor">#d8ffffff</item>-->
+    <!--</style>-->
+    <!--<style name="TextViewStyle.FeedEmpty" parent="@*com.instagram.android:style/TextViewStyle">-->
+        <!--<item name="android:textColor">#c1ffffff</item>-->
+        <!--<item name="android:gravity">center</item>-->
+        <!--<item name="android:layout_gravity">center_horizontal</item>-->
+        <!--<item name="android:paddingTop">48.0dip</item>-->
+        <!--<item name="android:drawablePadding">12.0dip</item>-->
+    <!--</style>-->
+    <!--<style name="TabBarButton">-->
+        <!--<item name="*com.instagram.android:normal">@*com.instagram.android:color/grey_5</item>-->
+        <!--<item name="*com.instagram.android:active">@android:color/white</item>-->
+    <!--</style>-->
+    <!--<style name="Widget.PillDegreeLabelManager" parent="">-->
+        <!--<item name="*com.instagram.android:pillSelectedColor">@android:color/white</item>-->
+        <!--<item name="*com.instagram.android:pillUnselectedColor">@*com.instagram.android:color/grey_5</item>-->
+    <!--</style>-->
+    <!--<style name="Widget.MediaTabHost" parent="">-->
+        <!--<item name="*com.instagram.android:mediaTabBackground">@*com.instagram.android:color/grey_0</item>-->
+        <!--<item name="*com.instagram.android:mediaTabTextColor">@*com.instagram.android:color/grey_5</item>-->
+        <!--<item name="*com.instagram.android:mediaTabTextColorSelected">@*com.instagram.android:color/black</item>-->
+    <!--</style>-->
+
+
+
+    <!--<style name="Widget.IgSeekBar" parent="">-->
+        <!--<item name="*com.instagram.android:seekBarRoot">@null</item>-->
+        <!--<item name="*com.instagram.android:seekBarKnob">@*com.instagram.android:drawable/seek_bar_knob</item>-->
+        <!--<item name="*com.instagram.android:seekBarKnobSize">@*com.instagram.android:dimen/seek_bar_knob_size_whiteout</item>-->
+        <!--<item name="*com.instagram.android:seekBarInactiveColor">@*com.instagram.android:color/grey_5</item>-->
+        <!--<item name="*com.instagram.android:seekBarActiveColor">@android:color/white</item>-->
+        <!--<item name="*com.instagram.android:seekBarTextColor">@*com.instagram.android:color/grey_5</item>-->
+        <!--<item name="*com.instagram.android:seekBarTextAlpha">255</item>-->
+    <!--</style>-->
+    <!--<style name="Widget.TintPicker" parent="">-->
+        <!--<item name="*com.instagram.android:tintPickerKnob">@*com.instagram.android:drawable/tint_knob_whiteout</item>-->
+        <!--<item name="*com.instagram.android:tintPickerSelectedSize">@*com.instagram.android:dimen/seek_bar_knob_size_whiteout</item>-->
+        <!--<item name="*com.instagram.android:tintPickerNoneColor">@*com.instagram.android:color/black</item>-->
+        <!--<item name="*com.instagram.android:tintPickerLineColor">@*com.instagram.android:color/white</item>-->
+    <!--</style>-->
+
+    <!--<style name="CapturePickerLabel">-->
+        <!--<item name="android:textSize">12.0dip</item>-->
+        <!--<item name="android:textStyle">bold</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:gravity">center_vertical</item>-->
+        <!--<item name="android:layout_gravity">center</item>-->
+        <!--<item name="android:padding">8.0dip</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:lines">1</item>-->
+    <!--</style>-->
+
+    <!--<style name="StoryShortcutButtonV2Text" parent="@*com.instagram.android:style/Widget.TextView.Capture.Shadow.Medium">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_small</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:ellipsize">end</item>-->
+        <!--<item name="android:paddingTop">5.0dip</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:lines">1</item>-->
+    <!--</style>-->
+
+    <!--<style name="DirectTapToRevealTextStyle" parent="@*com.instagram.android:style/ShadowTextViewStyle">-->
+        <!--<item name="android:textSize">16.0sp</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="Avatar.ExploreStories" parent="@*com.instagram.android:style/Avatar">-->
+        <!--<item name="android:layout_width">28.0dip</item>-->
+        <!--<item name="android:layout_height">28.0dip</item>-->
+        <!--<item name="*com.instagram.android:strokeColor">@android:color/white</item>-->
+        <!--<item name="*com.instagram.android:strokeWidth">0.0dip</item>-->
+    <!--</style>-->
+    <!--<style name="EditMediaTagPeopleShadowText">-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:shadowColor">#1e1e1e</item>-->
+        <!--<item name="android:shadowRadius">10.0</item>-->
+    <!--</style>-->
+
+    <!--<style name="TextAppearance.Snackbar.Message" parent="@android:style/TextAppearance">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_medium</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+    <!--</style>-->
+
+    <!--<style name="OverlayTextStyle">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_xlarge_xxlarge</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:fontFamily">sans-serif-light</item>-->
+    <!--</style>-->
+    <!--<style name="OverlayMessageTextStyle">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_large</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:fontFamily">sans-serif-regular</item>-->
+    <!--</style>-->
+    <!--<style name="BroadcastEndText">-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:gravity">center_horizontal</item>-->
+        <!--<item name="android:layout_width">fill_parent</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+    <!--</style>-->
+    <!--<style name="PortraitReelTextOverlay">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_small</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:ellipsize">end</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+    <!--</style>-->
+    <!--<style name="ReelViewerToolbarButtonLabel" parent="@*com.instagram.android:style/ShadowTextViewStyle">-->
+        <!--<item name="android:textSize">@*com.instagram.android:dimen/font_smaller</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:layout_gravity">center_horizontal</item>-->
+        <!--<item name="android:fontFamily">sans-serif-medium</item>-->
+    <!--</style>-->
+    <!--<style name="CustomToast.Text" parent="@android:style/Widget.TextView">-->
+        <!--<item name="android:textSize">12.0sp</item>-->
+        <!--<item name="android:textStyle">bold</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:ellipsize">end</item>-->
+        <!--<item name="android:padding">10.0dip</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+        <!--<item name="android:drawablePadding">6.0dip</item>-->
+    <!--</style>-->
+    <!--<style name="rowBadge">-->
+        <!--<item name="android:background">@*com.instagram.android:drawable/badge_background</item>-->
+        <!--<item name="android:layout_width">8.0dip</item>-->
+        <!--<item name="android:layout_height">8.0dip</item>-->
+    <!--</style>-->
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CallSubjectDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:windowElevation">1.0dip</item>
+    </style>
+
+    <style name="Platform.V21.AppCompat.Light" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:titleTextColor">#ffffff</item>
+        <item name="android:textColorLink">?android:colorAccent</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+        <item name="android:textColorLinkInverse">?android:colorAccent</item>
+    </style>
+
+    <style name="Base.Theme.GoogleMaterial.Light.Dialog" parent="@*com.google.android.contacts:style/Base.V14.Theme.GoogleMaterial.Light.Dialog" >
+        <item name="android:background">@android:color/background_dark</item>
+    </style>
+
+    <style name="Theme.GoogleMaterial.Light" parent="@*com.google.android.contacts:style/Theme.GoogleMaterial.Dark" />
+    <style name="Theme.GoogleMaterial.Light.BottomSheetDialog" parent="@*com.google.android.contacts:style/Theme.GoogleMaterial.Dark.BottomSheetDialog" />
+    <style name="Theme.GoogleMaterial.Light.Dialog" parent="@*com.google.android.contacts:style/Theme.GoogleMaterial.Dark.Dialog" />
+
+    <style name="Platform.MaterialComponents.Light" parent="@*com.google.android.contacts:style/Theme.AppCompat" />
+
+    <style name="EmbeddedAccountMenuSideLayout">
+        <item name="android:background">@android:color/background_dark</item>
+        <item name="android:maxWidth">@*com.google.android.contacts:dimen/og_nav_drawer_side_layout_width</item>
+        <item name="android:minWidth">@*com.google.android.contacts:dimen/og_nav_drawer_side_layout_width</item>
+    </style>
+
+    <style name="SelectableItem" parent="@android:style/Theme.Material" />
+
+    <style name="Base.TextAppearance.AppCompat.Button" parent="@android:style/TextAppearance.Material.Button" >
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="Base.Widget.AppCompat.ImageButton" parent="@android:style/Widget.Material.ImageButton">
+        <item name="android:tint">#ffffff</item>
+    </style>
+
+    <style name="BaseTextStyle">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="ManageAccountChip" parent="@*com.google.android.contacts:style/Widget.GoogleMaterial.Chip.Assistive">
+        <item name="android:textColor">#ffffff</item>
+        <item name="*com.google.android.contacts:chipBackgroundColor">@android:color/background_dark</item>
+        <item name="*com.google.android.contacts:chipStrokeColor">#c1ffffff</item>
+        <item name="*com.google.android.contacts:rippleColor">@*com.google.android.contacts:color/google_grey400</item>
+    </style>
+
+
+
+</resources>

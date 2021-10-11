@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    android:name="root"
+    android:width="32dp"
+    android:height="32dp"
+    android:viewportWidth="99.8"
+    android:viewportHeight="99.8"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+   <group android:scaleY="0.9" android:scaleX="0.9" android:translateY="5" android:translateX="5"> <path  android:strokeColor="@*android:color/transparent" android:fillColor="@*android:color/transparent"  android:strokeWidth="3"  android:strokeLineJoin="round"  android:strokeMiterLimit="10"   android:strokeLineCap="round" android:pathData="M 49 0 C 76.0619527417 0 98 21.9380472583 98 49 C 98 76.0619527417 76.0619527417 98 49 98 C 21.9380472583 98 0 76.0619527417 0 49 C 0 21.9380472583 21.9380472583 0 49 0 Z" />
+<group android:name="mask"/>
+    <group android:name="ic_signal_airplane" >
+        <group android:name="ic_signal_airplane_pivot" >
+            <group android:name="cross">
+                <path
+                    android:name="cross_1"
+                    android:pathData="M74.2,51.5 L80.3,49.9"
+                    android:strokeColor="?android:colorAccent"
+                    android:strokeWidth="6"
+                    android:strokeLineJoin="round"
+                    android:strokeMiterLimit="10"
+                    android:strokeLineCap="round"
+                    android:strokeAlpha="0" />
+            </group>
+            <group android:name="plane" >
+                <path
+                    android:name="plane_1"
+                    android:strokeColor="?android:colorAccent"
+                    android:strokeWidth="6"
+                    android:strokeLineJoin="round"
+                    android:strokeMiterLimit="10"
+                    android:strokeLineCap="round"
+                    android:pathData="M25.1,65 L37.1,53 L16.3,48.1 L80.3,22.8 L50.8,82.5 L42.7,58.7 L80.3,22.8"
+                    android:strokeAlpha="1" />
+            </group>
+        </group>
+    </group>
+</group> </vector>

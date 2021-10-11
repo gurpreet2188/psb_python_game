@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="26.0dip" android:viewportWidth="26.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:name="battery_level" android:fillColor="#ff000000" android:pathData="M 21.7 5.7 H 21.7 V 18.3 H 21.7 V 5.7 Z" />
+
+    <path
+        android:fillColor="#ffffff"
+        android:fillAlpha="0.5"
+        android:pathData="M 4.4 5.7 H 21.7 V 18.3 H 4.4 V 5.7 Z" />
+</vector>

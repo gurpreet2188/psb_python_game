@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <path
+        android:pathData="M 50 0.5 C 77.3380951166 0.5 99.5 22.6619048834 99.5 50 C 99.5 77.3380951166 77.3380951166 99.5 50 99.5 C 22.6619048834 99.5 0.5 77.3380951166 0.5 50 C 0.5 22.6619048834 22.6619048834 0.5 50 0.5 Z" />
+    <path
+        android:strokeColor="?android:textColorPrimary"
+        android:strokeLineCap="round"
+        android:strokeWidth="5"
+        android:pathData="M43.428,80.812c-14.235,-3.026 -24.928,-15.68 -24.928,-30.812c0,-16.152 12.183,-29.48 27.852,-31.291" />
+    <path
+        android:strokeColor="?android:textColorPrimary"
+        android:strokeLineCap="round"
+        android:strokeWidth="5"
+        android:pathData="M71.809,53.927c-1.865,9.998 -10.437,17.758 -21.027,18.192c-10.846,0.444 -20.212,-6.947 -22.627,-17.132" />
+    <path
+        android:strokeColor="?android:textColorPrimary"
+        android:strokeLineCap="round"
+        android:strokeWidth="5"
+        android:pathData="M27.868,46.062c1.73,-10.165 10.377,-18.101 21.089,-18.539c11.433,-0.468 21.221,7.769 22.957,18.809" />
+    <path
+        android:strokeColor="?android:textColorPrimary"
+        android:strokeLineCap="butt"
+        android:strokeWidth="5"
+        android:pathData="M69.752,74.532c-3.913,3.155 -8.596,5.395 -13.72,6.39m25.366,-28.373c-0.575,7.163 -3.55,13.653 -8.12,18.664m0.123,-42.29c4.555,5.053 7.498,11.586 8.017,18.787m-24.36,-28.415c4.785,1.097 9.157,3.286 12.837,6.29" />
+    <path
+        android:strokeColor="?android:textColorPrimary"
+        android:strokeWidth="5"
+        android:pathData="M54.38,59.159c-1.36,0.651 -2.882,1.016 -4.489,1.016c-5.748,0 -10.414,-4.667 -10.414,-10.414c0,-5.748 4.666,-10.414 10.414,-10.414c1.802,0 3.497,0.458 4.976,1.265m5.06,11.937c-0.362,1.301 -0.969,2.5 -1.77,3.543m0.311,-12.236c0.787,1.141 1.353,2.446 1.635,3.854" />
+</vector>

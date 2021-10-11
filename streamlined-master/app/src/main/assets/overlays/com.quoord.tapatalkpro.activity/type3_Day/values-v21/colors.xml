@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="forum_color">
+        <item>white</item>
+    </string-array>
+
+    <string-array name="forum_color_value">
+        <item>0</item>
+    </string-array>
+
+
+
+    <color name="action_mode_light_background_color">@*android:color/accent_material_light</color>
+    <color name="text_tab_unselect_color">#991e1e1e</color>
+
+    <color name="grey_hex_46">@*android:color/accent_material_light</color>
+
+    <color name="quick_bar_hint">@*android:color/accent_material_light</color>
+    <color name="primary_dark_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_red_light</color>
+    <color name="primary_material_dark">@*android:color/accent_material_light</color>
+    <color name="text_red_ff4646">@*android:color/accent_material_light</color>
+    <color name="text_orange">@*android:color/accent_material_light</color>
+    <color name="text_orange_41">@*android:color/accent_material_light</color>
+    <color name="text_orange_ff6b16">@*android:color/accent_material_light</color>
+    <color name="Color_DarkOrange">@*android:color/accent_material_light</color>
+    <color name="Color_Orange">@*android:color/accent_material_light</color>
+    <color name="Color_OrangeRed">@*android:color/accent_material_light</color>
+    <color name="accent">@*android:color/accent_material_light</color>
+    <color name="accent_dark">@*android:color/accent_material_light</color>
+
+    <color name="accent_material_dark">@*android:color/accent_material_light</color>
+    <color name="text_black">#1e1e1e</color>
+
+    <color name="color_b1481c">@android:color/holo_red_light</color>
+    <color name="orange_b35">@*android:color/accent_material_light</color>
+    <color name="orange_e064">@android:color/holo_red_light</color>
+    <color name="orange_e4671f">@*android:color/accent_material_light</color>
+    <color name="orange_f0642c">@*android:color/accent_material_light</color>
+    <color name="orange_f1">@*android:color/accent_material_light</color>
+    <color name="feed_filter_divice_color">@*android:color/accent_material_light</color>
+    <color name="feed_trending_topic_image_dark_bg">#ff25788a</color>
+
+    <color name="searchbox_hint_text_color">#ff1e1e1e</color>
+    <color name="advancesearch_text_color">#c11e1e1e</color>
+
+    <color name="all_white">#ff1e1e1e</color>
+
+    <color name="gray_2f2a29">@android:color/background_light</color>
+
+    <color name="text_gray_99">#ff1e1e1e</color>
+
+    <color name="white_92">#eb1e1e1e</color>
+
+    <color name="background_gray_2c">@android:color/background_light</color>
+    <color name="background_gray_32">@android:color/background_light</color>
+    <color name="background_gray_d">@android:color/background_light</color>
+    <color name="background_gray_e0">@android:color/background_light</color>
+    <color name="background_gray_e1">@android:color/background_light</color>
+    <color name="background_gray_f0">@android:color/background_light</color>
+    <color name="background_gray_f8">@android:color/background_light</color>
+    <color name="background_gray_fa">@android:color/background_light</color>
+    <color name="background_gray_l">@android:color/background_light</color>
+    <color name="grey_hex_e0">@android:color/background_light</color>
+    <color name="material_grey_300">@android:color/background_light</color>
+
+    <color name="primary_text_default_material_dark">#1e1e1e</color>
+    <color name="primary_text_default_material_light">#1e1e1e</color>
+    <color name="primary_text_disabled_material_dark">#4d1e1e1e</color>
+    <color name="primary_text_disabled_material_light">#4d1e1e1e</color>
+
+    <color name="secondary_text_default_material_dark">#d81e1e1e</color>
+    <color name="secondary_text_default_material_light">#d81e1e1e</color>
+    <color name="secondary_text_disabled_material_dark">#4d1e1e1e</color>
+    <color name="secondary_text_disabled_material_light">#4d1e1e1e</color>
+</resources>

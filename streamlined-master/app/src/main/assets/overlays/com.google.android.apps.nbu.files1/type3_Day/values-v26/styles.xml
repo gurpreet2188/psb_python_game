@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.Design.AppBarLayout" parent="@android:style/Widget">
+        <item name="android:backgroundTint">@android:color/holo_red_light</item>
+        <item name="android:stateListAnimator">@*com.google.android.apps.nbu.files:animator/design_appbar_state_list_animator</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+
+</resources>

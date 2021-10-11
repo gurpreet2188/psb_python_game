@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_text_default_material_dark">#1e1e1e</color>
+
+    <color name="material_blue_grey_900">@*android:color/accent_material_light</color>
+</resources>

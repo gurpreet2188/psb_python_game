@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.V21.AppCompat.Light" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:textColorHintInverse">#c1ffffff</item>
+        <item name="android:textColorHint">@*com.google.android.apps.nbu.files:color/abc_hint_foreground_material_light</item>
+        <item name="android:textColorLink">?android:colorAccent</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+        <item name="android:textColorLinkInverse">?android:colorAccent</item>
+    </style>
+
+    <style name="SearchScreenTheme" parent="@*com.google.android.apps.nbu.files:style/HomeScreenTheme">
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:textColorSecondary">#d8ffffff</item>
+        <item name="android:actionOverflowButtonStyle">@*com.google.android.apps.nbu.files:style/ActionModeOverflowButtonStyleWhite</item>
+        <item name="*com.google.android.apps.nbu.files:actionModeCloseButtonStyle">@*com.google.android.apps.nbu.files:style/ActionModeCloseButtonStyleWhite</item>
+        <item name="*com.google.android.apps.nbu.files:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.apps.nbu.files:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.apps.nbu.files:colorPrimaryDark">@android:color/holo_blue_light</item>
+    </style>
+
+    <style name="Widget.GoogleMaterial.BottomAppBar" parent="@*com.google.android.apps.nbu.files:style/Widget.MaterialComponents.BottomAppBar">
+        <item name="*com.google.android.apps.nbu.files:backgroundTint">@android:color/background_dark</item>
+        <item name="*com.google.android.apps.nbu.files:elevation">0.0dip</item>
+        <item name="*com.google.android.apps.nbu.files:fabAnimationMode">slide</item>
+        <item name="*com.google.android.apps.nbu.files:fabCradleMargin">@*com.google.android.apps.nbu.files:dimen/google_bottomappbar_fab_cradle_margin</item>
+        <item name="*com.google.android.apps.nbu.files:fabCradleRoundedCornerRadius">@*com.google.android.apps.nbu.files:dimen/google_bottomappbar_fab_cradle_rounded_corner_radius</item>
+        <item name="*com.google.android.apps.nbu.files:fabCradleVerticalOffset">@*com.google.android.apps.nbu.files:dimen/google_bottomappbar_fab_cradle_vertical_offset</item>
+        <item name="*com.google.android.apps.nbu.files:materialThemeOverlay">@*com.google.android.apps.nbu.files:style/ThemeOverlay.MaterialComponents.BottomAppBar</item>
+    </style>
+    <style name="Widget.GoogleMaterial.BottomNavigationView" parent="@*com.google.android.apps.nbu.files:style/Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:background">@android:color/background_dark</item>
+        <item name="*com.google.android.apps.nbu.files:enforceMaterialTheme">true</item>
+        <item name="*com.google.android.apps.nbu.files:itemIconTint">@*com.google.android.apps.nbu.files:color/google_bottom_nav_icon_tint</item>
+        <item name="*com.google.android.apps.nbu.files:itemTextColor">@*com.google.android.apps.nbu.files:color/google_bottom_nav_text_color</item>
+        <item name="*com.google.android.apps.nbu.files:itemRippleColor">@*com.google.android.apps.nbu.files:color/google_bottom_nav_ripple_color_selector</item>
+        <item name="*com.google.android.apps.nbu.files:itemTextAppearanceActive">@*com.google.android.apps.nbu.files:style/TextAppearance.GoogleMaterial.Subhead2</item>
+        <item name="*com.google.android.apps.nbu.files:itemTextAppearanceInactive">@*com.google.android.apps.nbu.files:style/TextAppearance.GoogleMaterial.Subhead2</item>
+    </style>
+
+    <style name="Widget.GoogleMaterial.TabLayout" parent="@*com.google.android.apps.nbu.files:style/Widget.MaterialComponents.TabLayout">
+        <item name="android:background">@android:color/background_dark</item>
+        <item name="*com.google.android.apps.nbu.files:enforceMaterialTheme">false</item>
+        <item name="*com.google.android.apps.nbu.files:enforceTextAppearance">false</item>
+        <item name="*com.google.android.apps.nbu.files:tabIconTint">@*com.google.android.apps.nbu.files:color/google_tabs_icon_color_selector</item>
+        <item name="*com.google.android.apps.nbu.files:tabIndicator">@*com.google.android.apps.nbu.files:drawable/google_tabs_rounded_line_indicator</item>
+        <item name="*com.google.android.apps.nbu.files:tabIndicatorColor">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.apps.nbu.files:tabIndicatorFullWidth">false</item>
+        <item name="*com.google.android.apps.nbu.files:tabRippleColor">@*com.google.android.apps.nbu.files:color/google_tabs_ripple_color_selector</item>
+        <item name="*com.google.android.apps.nbu.files:tabTextAppearance">@*com.google.android.apps.nbu.files:style/TextAppearance.GoogleMaterial.Tab</item>
+        <item name="*com.google.android.apps.nbu.files:tabTextColor">@*com.google.android.apps.nbu.files:color/google_tabs_icon_color_selector</item>
+    </style>
+<!--
+    <style name="HomeScreenTheme" parent="@*com.google.android.apps.nbu.files:style/Theme.GoogleMaterial.Light.NoActionBar">
+        <item name="android:textColorPrimary">@*com.google.android.apps.nbu.files:color/google_grey800</item>
+        <item name="android:textColorSecondary">@*com.google.android.apps.nbu.files:color/google_grey700</item>
+        <item name="android:windowBackground">@*com.google.android.apps.nbu.files:color/google_white</item>
+        <item name="android:textAppearanceLargePopupMenu">@*com.google.android.apps.nbu.files:style/PopupMenuTextAppearanceLarge</item>
+        <item name="*com.google.android.apps.nbu.files:android:textAppearanceSmallPopupMenu">@*com.google.android.apps.nbu.files:style/PopupMenuTextAppearanceSmall</item>
+        <item name="*com.google.android.apps.nbu.files:android:statusBarColor">@*com.google.android.apps.nbu.files:color/google_white</item>
+        <item name="*com.google.android.apps.nbu.files:actionBarStyle">@*com.google.android.apps.nbu.files:style/GreyActionBarStyle</item>
+        <item name="*com.google.android.apps.nbu.files:actionModeCloseDrawable">@*com.google.android.apps.nbu.files:drawable/quantum_ic_close_vd_theme_24</item>
+        <item name="*com.google.android.apps.nbu.files:actionModeStyle">@*com.google.android.apps.nbu.files:style/WhiteThemeActionModeStyle</item>
+        <item name="*com.google.android.apps.nbu.files:colorAccent">@*com.google.android.apps.nbu.files:color/google_blue600</item>
+        <item name="*com.google.android.apps.nbu.files:colorPrimary">@*com.google.android.apps.nbu.files:color/google_white</item>
+        <item name="*com.google.android.apps.nbu.files:colorPrimaryDark">@*com.google.android.apps.nbu.files:color/google_white</item>
+        <item name="*com.google.android.apps.nbu.files:popupMenuStyle">@*com.google.android.apps.nbu.files:style/PopupMenuStyle</item>
+        <item name="*com.google.android.apps.nbu.files:windowActionModeOverlay">true</item>
+    </style>
+-->
+    <style name="Theme.GoogleMaterial.Light.NoActionBar" parent="@*com.google.android.apps.nbu.files:style/Theme.GoogleMaterial.Dark">
+        <item name="*com.google.android.apps.nbu.files:windowActionBar">false</item>
+        <item name="*com.google.android.apps.nbu.files:windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.GoogleMaterial.Light" parent="@*com.google.android.apps.nbu.files:style/Theme.GoogleMaterial.Dark" />
+    <style name="Theme.GoogleMaterial.Light.BottomSheetDialog" parent="@*com.google.android.apps.nbu.files:style/Theme.GoogleMaterial.Dark.BottomSheetDialog" />
+    <style name="Theme.GoogleMaterial.Light.Dialog" parent="@*com.google.android.apps.nbu.files:style/Theme.GoogleMaterial.Dark.Dialog" />
+
+</resources>

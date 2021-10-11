@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@*com.google.android.apps.access.wifi.consumer:layout/toolbar_in_dialog" />
+    <LinearLayout android:orientation="vertical" android:background="@android:color/background_dark" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:background="@android:color/background_dark" android:paddingTop="@*com.google.android.apps.access.wifi.consumer:dimen/activity_vertical_margin" android:paddingBottom="@*com.google.android.apps.access.wifi.consumer:dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <AutoCompleteTextView android:id="@*com.google.android.apps.access.wifi.consumer:id/email_address_auto_complete" android:background="@android:color/background_dark" android:padding="@*com.google.android.apps.access.wifi.consumer:dimen/l_space" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@*com.google.android.apps.access.wifi.consumer:string/hint_enter_name_or_email" android:completionThreshold="2" android:inputType="textEmailAddress" />
+        </LinearLayout>
+        <View style="@*com.google.android.apps.access.wifi.consumer:style/SettingDivider" />
+        <TextView android:layout_marginLeft="@*com.google.android.apps.access.wifi.consumer:dimen/activity_horizontal_margin" android:layout_marginTop="@*com.google.android.apps.access.wifi.consumer:dimen/activity_vertical_margin" android:layout_marginRight="@*com.google.android.apps.access.wifi.consumer:dimen/activity_horizontal_margin" android:text="@*com.google.android.apps.access.wifi.consumer:string/message_add_manager_information" style="@*com.google.android.apps.access.wifi.consumer:style/Text.ManagerInformation" />
+        <Button android:id="@*com.google.android.apps.access.wifi.consumer:id/button_add_manager_learn_more" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@*com.google.android.apps.access.wifi.consumer:dimen/m_space" android:text="@*com.google.android.apps.access.wifi.consumer:string/action_learn_more" style="@*com.google.android.apps.access.wifi.consumer:style/CardAction" />
+    </LinearLayout>
+</LinearLayout>

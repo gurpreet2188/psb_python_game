@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_red_light</color>
+    <color name="primary_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_material_light">@android:color/holo_red_light</color>
+    <color name="status_bar_color_grey">@android:color/holo_red_light</color>
+    <color name="status_bar_color_light">@android:color/holo_red_light</color>
+    <color name="actionbar_text">#1e1e1e</color>
+    <color name="cardview_shadow_end_color">#00000000</color>
+    <color name="cardview_shadow_start_color">#00000000</color>
+    <color name="bottom_sheet_shadow_background_end">#00333333</color>
+    <color name="bottom_sheet_shadow_background_start">#00333333</color>
+    <color name="material_app_primary">@*android:color/accent_material_light</color>
+    <color name="material_app_primary_dark">@*android:color/accent_material_light</color>
+    <color name="device_panel_button_divider_color">#00dcdcdc</color>
+    <color name="positive_button_text_color">@*android:color/accent_material_light</color>
+    <color name="device_panel_button_color">#1e1e1e</color>
+    <color name="device_panel_button_color_disabled">#c11e1e1e</color>
+    <color name="material_app_accent">@*android:color/accent_material_light</color>
+    
+    <color name="toolbar_background_color">@android:color/holo_red_light</color>
+
+    <style name="AppBaseTheme" parent="@*com.google.android.apps.adm:style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="*com.google.android.apps.adm:windowActionBarOverlay">true</item>
+        <item name="*com.google.android.apps.adm:actionOverflowButtonStyle">@*com.google.android.apps.adm:style/OverflowButton</item>
+        <item name="*com.google.android.apps.adm:actionBarStyle">@*com.google.android.apps.adm:style/ActionBar</item>
+        <item name="*com.google.android.apps.adm:actionMenuTextColor">#1e1e1e</item>
+        <item name="*com.google.android.apps.adm:popupMenuStyle">@*com.google.android.apps.adm:style/Widget.FindMyPhone.PopupMenu</item>
+        <item name="*com.google.android.apps.adm:colorPrimary">@android:color/holo_red_light</item>
+        <item name="*com.google.android.apps.adm:colorPrimaryDark">@android:color/holo_red_light</item>
+        <item name="*com.google.android.apps.adm:colorAccent">@*android:color/accent_material_light</item>
+        <item name="*com.google.android.apps.adm:alertDialogTheme">@*com.google.android.apps.adm:style/AlertDialogTheme</item>
+    </style>
+
+    
+</resources>

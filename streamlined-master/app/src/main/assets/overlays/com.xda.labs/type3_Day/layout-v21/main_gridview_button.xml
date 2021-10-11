@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:id="@*com.xda.labs:id/button_cont" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="3.0dip" android:foreground="?android:selectableItemBackground" android:elevation="3.0dip" card_view:cardBackgroundColor="@*com.xda.labs:color/accent" card_view:cardCornerRadius="2.0dip" card_view:cardElevation="3.0dip" card_view:cardUseCompatPadding="true" card_view:contentPaddingLeft="2.0dip" card_view:contentPaddingRight="2.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:card_view="http://schemas.android.com/apk/res-auto">
+    <TextView android:textAppearance="?android:textAppearanceButton" android:layout_gravity="center" android:textColor="#ffffff" android:id="@*com.xda.labs:id/button_text" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@*com.xda.labs:style/MainGridViewHeaderButton" />
+</android.support.v7.widget.CardView>

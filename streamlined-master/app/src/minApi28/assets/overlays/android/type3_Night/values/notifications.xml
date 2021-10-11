@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_action_list">@android:color/holo_purple</color>
+    <color name="notification_action_list_dark">@android:color/holo_purple</color>
+    <color name="notification_default_color">#ffffff</color>
+    <color name="notification_default_color_dark">#d8ffffff</color>
+    <color name="notification_default_color_light">#ffffff</color>
+    <color name="input_method_navigation_guard">@android:color/background_dark</color>
+    <color name="notification_icon_default_color">@android:color/holo_blue_bright</color>
+    <color name="notification_material_background_color">#ffffffff</color>
+    <color name="notification_primary_text_color_dark">#ffffff</color>
+    <color name="notification_primary_text_color_light">#ffffff</color>
+    <color name="notification_progress_background_color">#d8ffffff</color>
+    <color name="notification_secondary_text_color_dark">#d8ffffff</color>
+    <color name="notification_secondary_text_color_light">#d8ffffff</color>
+    <color name="sender_text_color">@*android:color/holo_blue_bright</color>
+    <color name="notification_text_default_color">#ffffff</color>
+    <color name="system_notification_accent_color">@android:color/holo_blue_bright</color>
+
+    <color name="holo_gray_light">@android:color/background_dark</color>
+
+    <style name="TextAppearance.Material.Notification" parent="@*android:style/TextAppearance.Material">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Emphasis" parent="@*android:style/TextAppearance.Material">
+
+        <item name="android:textColor">#d8ffffff</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Info" parent="@*android:style/TextAppearance.Material">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Line2" parent="@*android:style/TextAppearance.Material">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Time" parent="@*android:style/TextAppearance.Material">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="TextAppearance.Material.Notification.Title" parent="@*android:style/TextAppearance.Material">
+    <item name="android:textSize">16.0sp</item>
+    <item name="android:textColor">#d8ffffff</item>
+    </style>
+</resources>

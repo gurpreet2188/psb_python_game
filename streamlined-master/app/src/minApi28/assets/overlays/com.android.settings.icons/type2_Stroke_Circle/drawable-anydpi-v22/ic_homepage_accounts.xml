@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?> <layer-list xmlns:android="http://schemas.android.com/apk/res/android"  >
+    <item>
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="24dp"
+            android:height="24dp"
+            android:viewportWidth="99"
+            android:viewportHeight="99">
+
+            <path
+                android:fillColor="@*com.android.settings:color/homepage_accounts_background"
+                android:fillAlpha="0"
+                android:strokeColor="@*com.android.settings:color/homepage_accounts_background"
+                android:strokeAlpha="1"
+                android:pathData="M49.5,0.5 C76.562,0.5,98.5,22.438,98.5,49.5 C98.5,76.562,76.562,98.5,49.5,98.5
+C22.438,98.5,0.5,76.562,0.5,49.5 C0.5,22.438,22.438,0.5,49.5,0.5 Z" />
+        </vector>
+    </item>
+
+    <item android:bottom="2dp" android:left="2dp" android:right="2dp" android:top="2dp">
+    <vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="24dp"
+        android:height="24dp"
+        android:viewportWidth="100"
+        android:viewportHeight="100">
+
+        <path
+            android:strokeColor="@*com.android.settings:color/homepage_accounts_background"
+            android:strokeLineCap="round"
+            android:strokeWidth="5"
+            android:pathData="M73.5,75.686l0,-8c0,-2.208 -1.478,-4 -3.298,-4c-13.602,3.791 -27.065,3.653 -40.404,0c-1.82,0 -3.298,1.792 -3.298,4l0,8" />
+        <path
+            android:strokeColor="@*com.android.settings:color/homepage_accounts_background"
+            android:strokeLineCap="round"
+            android:strokeWidth="5"
+            android:pathData="M46,49.686c-2.1,-0.679 -3.967,-1.879 -5.449,-3.447c-2.201,-2.329 -3.551,-5.471 -3.551,-8.925c0,-7.175 5.825,-13 13,-13c7.175,0 13,5.825 13,13c0,5.78 -3.78,10.683 -9,12.372" />
+    </vector> </item> </layer-list>

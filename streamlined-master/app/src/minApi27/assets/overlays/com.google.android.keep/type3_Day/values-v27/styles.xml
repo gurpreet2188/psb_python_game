@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GoogleMaterial.Light" parent="@*com.google.android.keep:style/Base.Theme.GoogleMaterial.Light">
+        <item name="android:colorControlNormal">#1e1e1e</item>
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.GoogleMaterial.Light.BottomSheetDialog" parent="@*com.google.android.keep:style/Base.Theme.GoogleMaterial.Light.BottomSheetDialog">
+        <item name="android:colorControlNormal">#1e1e1e</item>
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarDividerColor">@android:color/transparent</item>
+    </style>
+
+    <style name="KeepAppTheme" parent="@*com.google.android.keep:style/Theme.GoogleMaterial.Light.NoActionBar">
+        <item name="android:textAppearanceLarge">@*com.google.android.keep:style/Body1TextAppearance</item>
+        <item name="android:textAppearanceMedium">@*com.google.android.keep:style/Body2TextAppearance</item>
+        <item name="android:textAppearanceSmall">@*com.google.android.keep:style/CaptionTextAppearance</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:editTextStyle">@*com.google.android.keep:style/EditTextStyle</item>
+        <item name="android:textColorHint">#c11e1e1e</item>
+        <item name="android:dialogTheme">@*com.google.android.keep:style/Theme.AppCompat.Light.Dialog</item>
+        <item name="android:alertDialogTheme">@*com.google.android.keep:style/DialogTheme</item>
+        <item name="android:textCursorDrawable">@*com.google.android.keep:drawable/cursor</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@*com.google.android.keep:color/default_status_bar_color</item>
+        <item name="android:navigationBarColor">@*com.google.android.keep:color/default_navigation_bar_color</item>
+        <item name="android:colorEdgeEffect">@*com.google.android.keep:color/overscroll_color</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="*com.google.android.keep:drawerArrowStyle">@*com.google.android.keep:style/DrawerArrowStyle</item>
+        <item name="*com.google.android.keep:popupTheme">@*com.google.android.keep:style/ThemeOverlay.AppCompat.Light</item>
+        <item name="*com.google.android.keep:windowActionBar">false</item>
+        <item name="*com.google.android.keep:windowActionModeOverlay">false</item>
+        <item name="*com.google.android.keep:homeAsUpIndicator">@*com.google.android.keep:drawable/ic_material_arrow_left_dark</item>
+        <item name="*com.google.android.keep:popupMenuStyle">@*com.google.android.keep:style/PopupMenu</item>
+        <item name="*com.google.android.keep:colorPrimary">@android:color/holo_red_light</item>
+        <item name="*com.google.android.keep:colorPrimaryDark">@android:color/holo_red_light</item>
+        <item name="*com.google.android.keep:colorAccent">@*android:color/accent_material_light</item>
+        <item name="*com.google.android.keep:editTextStyle">?android:editTextStyle</item>
+    </style>
+
+    <style name="KeepPhotoViewerTheme" parent="@*com.google.android.keep:style/Theme.AppCompat.Light">
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:colorControlNormal">#1e1e1e</item>
+        <item name="android:tint">#1e1e1e</item>
+        <item name="android:color">#1e1e1e</item>
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/background_light</item>
+        <item name="*com.google.android.keep:popupTheme">@*com.google.android.keep:style/ThemeOverlay.AppCompat.Light</item>
+    </style>
+</resources>

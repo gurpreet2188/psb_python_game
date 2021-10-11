@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">@android:color/background_dark</color>
+    <color name="primary_dark">@android:color/holo_blue_light</color>
+    <color name="primary">@android:color/holo_blue_light</color>
+    <color name="accent">@android:color/holo_blue_bright</color>
+    <color name="status_bar_color">@android:color/holo_blue_light</color>
+    <color name="action_mode">@android:color/holo_blue_light</color>
+    <color name="menu_search_background">@android:color/transparent</color>
+    <color name="item_doc_background_disabled">@android:color/holo_purple</color>
+    <color name="item_doc_background">@android:color/background_dark</color>
+    <color name="item_doc_background_selected">@android:color/holo_purple</color>
+    <color name="directory_background">@android:color/background_dark</color>
+    <color name="drawer_background">@android:color/holo_purple</color>
+
+    <color name="primary_new">@android:color/holo_blue_light</color>
+    <color name="accent_new">@*android:color/accent_material_dark</color>
+
+    <color name="material_grey_50">@android:color/holo_purple</color>
+    <color name="material_grey_300">@android:color/holo_blue_bright</color>
+    <color name="item_doc_grid_background">@android:color/background_dark</color>
+    <color name="item_doc_grid_protect_background">@android:color/background_dark</color>
+
+    <color name="sort_widget_text_color">#d8ffffff</color>
+    <color name="drawer_border">#00d4d4d4</color>
+
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#ceffffff</color>
+    <color name="secondary_text_disabled_material_dark">#e6ffffff</color>
+    <color name="secondary_text_disabled_material_light">#e5ffffff</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#deffffff</color>
+    <color name="primary_text_disabled_material_dark">#e3ffffff</color>
+    <color name="primary_text_disabled_material_light">#d6ffffff</color>
+    <color name="root_details_color">#c1ffffff</color>
+</resources>

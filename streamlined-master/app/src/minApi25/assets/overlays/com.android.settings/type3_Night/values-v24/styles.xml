@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SmartBar.Dialog" parent="@*android:style/Theme.Material.Dialog.Alert" />
+
+    <style name="cloud_description">
+        <item name="android:textAppearance">?android:textAppearanceListItem</item>
+        <item name="android:textColor">#d8ffffff</item>
+    </style>
+
+    <style name="list_title_text_style">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textAppearance">?android:textAppearanceListItem</item>
+    </style>
+    <style name="list_summary_text_style">
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:textAppearance">?android:textAppearanceListItemSecondary</item>
+    </style>
+</resources>

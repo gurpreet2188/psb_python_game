@@ -1,0 +1,21 @@
+ext {
+    // Whether the theme assets should be encrypted or not,
+    // this makes it harder for pirates and kangers! (DEFAULT: true)
+    SHOULD_ENCRYPT_ASSETS = false
+
+    // Whether this theme supports third party theme systems, we will not be able to help you debug
+    // your themes on external theming systems, so the team will NOT respond to external systems if
+    // there are issues with your theme (DEFAULT: false)
+    SUPPORTS_THIRD_PARTY_SYSTEMS = true
+
+    // Play Store AntiPiracy LVL configurations
+    BASE_64_LICENSE_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn799WhEbkbB6yqNCzQ8f4p4+yaygI0q5LSdTve4u0OnQ721F0Cf/uLkoKk2gxa/jBEW1Gzh2o9S+6OdgKJS3/whNQ8h/jGA7WsqbaHclVVKO0KGWTxr/yYAGYbCP2Tf6GfLRnUPcFlRwbvrfLM0QyB+6bXF+hfowMhz0pKN4EDhDpMels7bJVLdk7FEIzsXh48GX7cM4zSLB1YN6OT2yTnJebaKFWmy/z2qDI9irur9R4vACo6w5+n92XcVVL2rNxJLQnnso1UuC+EJgSpsqisxNmi5PiX8oviAyVNiXmojwDkXTGsjLhMNATvNiRZhRVYV62BxMK7cdu76z0UFgSwIDAQAB"
+    APK_SIGNATURE_PRODUCTION = "hanG0Y92rJks73Y5IeAaQP47gJo="
+
+    // Piracy library configurations
+    ENABLE_APP_BLACKLIST_CHECK = false
+    ENFORCE_GOOGLE_PLAY_INSTALL = true
+
+    // Allow third party substratum builds
+    ALLOW_THIRD_PARTY_SUBSTRATUM_BUILDS = true
+}

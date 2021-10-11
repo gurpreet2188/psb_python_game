@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material.Light">
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:colorActivatedHighlight">#1e1e1e</item>
+        <item name="android:colorControlActivated">#1e1e1e</item>
+        <item name="android:colorControlNormal">#6e6e6e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:textColorTertiary">#d81e1e1e</item>
+        <item name="android:textColorHint">#c11e1e1e</item>
+        <item name="android:textColorSecondary">#6e6e6e</item>
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:windowNoTitle">true</item>
+       <item name="android:windowActionBar">false</item>
+       <item name="android:buttonBarStyle">?buttonBarStyle</item>
+       <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+      </style>
+
+    <style name="NotificationPrimaryText">
+        <item name="android:textColor">#1e1e1e</item>
+    </style>
+
+    <style name="NotificationSecondaryText">
+        <item name="android:textColor">#d01e1e1e</item>
+    </style>
+
+    <style name="Snackbar">
+        <item name="android:background">@*android:color/background_material_light</item>
+    </style>
+
+    <style name="drawerArrowToggle" parent="@*com.google.android.talk:style/Widget.AppCompat.DrawerArrowToggle">
+        <item name="*com.google.android.talk:color">#1e1e1e</item>
+    </style>
+
+    <style name="PeopleAndOptionsListView" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorControlNormal">#6e6e6e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:backgroundTint">@android:color/background_light</item>
+        <item name="android:paddingBottom">0.0dip</item>
+        <item name="android:clipToPadding">false</item>
+        <item name="android:divider">@null</item>
+        <item name="android:dividerHeight">0.0px</item>
+        <item name="android:headerDividersEnabled">false</item>
+    </style>
+
+    <style name="ToolbarTitle" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Title">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="ToolbarSubtitle" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Subtitle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#c11e1e1e</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:layout_marginTop">-3.0sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="Base.TextAppearance.AppCompat" parent="@android:style/TextAppearance.Material" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display4" parent="@android:style/TextAppearance.Material.Display4" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display3" parent="@android:style/TextAppearance.Material.Display3" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display2" parent="@android:style/TextAppearance.Material.Display2">
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Display1" parent="@android:style/TextAppearance.Material.Display1" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Headline" parent="@android:style/TextAppearance.Material.Headline">
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Title" parent="@android:style/TextAppearance.Material.Title" >
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:textColorHighlight">#1e1e1e</item>
+        <item name="android:textColorHint">#1e1e1e</item>
+        <item name="android:textColorLink">#1e1e1e</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Subhead" parent="@android:style/TextAppearance.Material.Subhead" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Body2" parent="@android:style/TextAppearance.Material.Body2" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Body1" parent="@android:style/TextAppearance.Material.Body1" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Caption" parent="@android:style/TextAppearance.Material.Caption" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Menu" parent="@android:style/TextAppearance.Material.Menu">
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Button" parent="@android:style/TextAppearance.Material.Button" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.Button" parent="@android:style/TextAppearance.Material.Widget.Button" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Inverse" parent="@android:style/TextAppearance.Material" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Large" parent="@android:style/TextAppearance.Material.Large" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Large.Inverse" parent="@android:style/TextAppearance.Material.Large" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Medium" parent="@android:style/TextAppearance.Material.Medium" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Medium.Inverse" parent="@android:style/TextAppearance.Material.Medium" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Small" parent="@android:style/TextAppearance.Material.Small" >
+        <item name="android:textColor">#d81e1e1e</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Small.Inverse" parent="@android:style/TextAppearance.Material.Small" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item> 
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabView" parent="@android:style/Widget.Material.ActionBar.TabView" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="@android:style/Widget.Material.Light.ActionBar.TabView" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabText" parent="@android:style/Widget.Material.ActionBar.TabText" >
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:textColorHighlight">#1e1e1e</item>
+        <item name="android:textColorHint">#1e1e1e</item>
+        <item name="android:textColorLink">#1e1e1e</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="@android:style/Widget.Material.Light.ActionBar.TabText" >
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:textColorHighlight">#1e1e1e</item>
+        <item name="android:textColorHint">#1e1e1e</item>
+        <item name="android:textColorLink">#1e1e1e</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="@android:style/Widget.Material.Light.ActionBar.TabText" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Title" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Title" >
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:textColorSecondary">#6e6e6e</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">2</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">2</item>
+        <item name="android:textColorHighlight">#1e1e1e</item>
+        <item name="android:textColorHint">#1e1e1e</item>
+        <item name="android:textColorLink">#1e1e1e</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionMode.Subtitle" >
+        <item name="android:textColorHighlight">#1e1e1e</item>
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:textColorHint">#1e1e1e</item>
+        <item name="android:textColorLink">#1e1e1e</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title" >
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:textColorHighlight">#1e1e1e</item>
+        <item name="android:textColorHint">#1e1e1e</item>
+        <item name="android:textColorLink">#1e1e1e</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle" >
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:textColorHighlight">#1e1e1e</item>
+        <item name="android:textColorHint">#1e1e1e</item>
+        <item name="android:textColorLink">#1e1e1e</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title.Inverse" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item>
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle.Inverse">
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item>
+    </style>
+
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item>
+    </style>
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle" >
+        <item name="android:textColor">#1e1e1e</item>  <item name="android:titleTextColor">#1e1e1e</item>
+    </style>
+    
+
+    <style name="Theme.Hangouts.Settings" parent="@*com.google.android.talk:style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:colorControlNormal">#6e6e6e</item>
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:textColorSecondary">#6e6e6e</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="android:dividerHeight">0.0dip</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:actionBarStyle">@*com.google.android.talk:style/Hangout.Settings.ActionBar</item>
+        <item name="android:colorAccent">@*android:color/accent_material_light</item>
+        <item name="*com.google.android.talk:supportPreferenceCategoryStyle">@*com.google.android.talk:style/SupportPreference.Category</item>
+        <item name="*com.google.android.talk:supportPreferenceScreenStyle">@*com.google.android.talk:style/SupportPreference.PreferenceScreen</item>
+        <item name="*com.google.android.talk:supportPreferenceFragmentStyle">@*com.google.android.talk:style/SupportPreferenceFragment</item>
+        <item name="*com.google.android.talk:supportPreferenceStyle">@*com.google.android.talk:style/SupportPreference</item>
+        <item name="*com.google.android.talk:supportPreferenceInformationStyle">@*com.google.android.talk:style/SupportPreference.Information</item>
+        <item name="*com.google.android.talk:supportCheckBoxPreferenceStyle">@*com.google.android.talk:style/SupportPreference.CheckBoxPreference</item>
+        <item name="*com.google.android.talk:supportYesNoPreferenceStyle">@*com.google.android.talk:style/SupportPreference.DialogPreference.YesNoPreference</item>
+        <item name="*com.google.android.talk:supportDialogPreferenceStyle">@*com.google.android.talk:style/SupportPreference.DialogPreference</item>
+        <item name="*com.google.android.talk:supportEditTextPreferenceStyle">@*com.google.android.talk:style/SupportPreference.DialogPreference.EditTextPreference</item>
+        <item name="*com.google.android.talk:supportRingtonePreferenceStyle">@*com.google.android.talk:style/SupportPreference.RingtonePreference</item>
+        <item name="*com.google.android.talk:supportPreferencePanelStyle">@*com.google.android.talk:style/SupportPreferencePanel</item>
+        <item name="*com.google.android.talk:supportSwitchPreferenceStyle">@*com.google.android.talk:style/SupportPreference.SwitchPreference</item>
+        <item name="*com.google.android.talk:actionOverflowButtonStyle">@*com.google.android.talk:style/ActionBarOverflow</item>
+        <item name="*com.google.android.talk:colorPrimary">@android:color/holo_red_light</item>
+        <item name="*com.google.android.talk:colorPrimaryDark">@android:color/holo_red_light</item>
+        <item name="*com.google.android.talk:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+
+    <style name="SettingsActionBarStyle" parent="@android:style/Theme.Material.Light">
+        <item name="android:elevation">0.0dip</item>
+        <item name="android:colorControlNormal">#6e6e6e</item>
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:textColorSecondary">#6e6e6e</item>
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:background">@android:color/holo_red_light</item>
+        <item name="android:displayOptions">homeAsUp|showHome|showTitle</item>
+        <item name="android:contentInsetStart">72.0dip</item>
+    </style>
+
+
+    <style name="Base.ThemeOverlay.AppCompat.Dark.ActionBar" parent="@*com.google.android.talk:style/Base.ThemeOverlay.AppCompat.Dark">
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="*com.google.android.talk:searchViewStyle">@*com.google.android.talk:style/Widget.AppCompat.SearchView.ActionBar</item>
+        <item name="*com.google.android.talk:colorControlNormal">#1e1e1e</item>
+        <item name="android:colorControlNormal">#1e1e1e</item>
+    </style>
+
+    <style name="Theme.InCall.Activity" parent="@*com.google.android.talk:style/Theme.AppCompat.Light.NoActionBar">
+        <item name="*com.google.android.talk:colorControlNormal">#1e1e1e</item>
+        <item name="android:colorControlNormal">#1e1e1e</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="*com.google.android.talk:windowActionBar">false</item>
+        <item name="*com.google.android.talk:actionOverflowButtonStyle">@*com.google.android.talk:style/ActionBarOverflow</item>
+        <item name="*com.google.android.talk:actionBarStyle">@*com.google.android.talk:style/InCallActionBarStyle</item>
+    </style>
+
+    <style name="InCallActionBarStyle" parent="@*com.google.android.talk:style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="*com.google.android.talk:colorControlNormal">#1e1e1e</item>
+        <item name="android:colorControlNormal">#1e1e1e</item>
+        <item name="*com.google.android.talk:homeAsUpIndicator">@*com.google.android.talk:drawable/quantum_ic_arrow_back_white_24</item>
+        <item name="*com.google.android.talk:displayOptions">homeAsUp|showHome|showTitle|useLogo</item>
+        <item name="*com.google.android.talk:background">@android:color/holo_red_light</item>
+        <item name="android:statusBarColor">@android:color/holo_red_light</item>
+    </style>
+
+    <style name="Theme.Hangouts.PeopleActivity" parent="@*com.google.android.talk:style/Theme.EmeraldSea">
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:textColorSecondary">#6e6e6e</item>
+        <item name="*com.google.android.talk:colorAccent">@*android:color/accent_material_light</item>
+        <item name="android:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+
+    <style name="Theme.Hangouts.OptionsActivity" parent="@*com.google.android.talk:style/Theme.EmeraldSea">
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:textColorSecondary">#6e6e6e</item>
+        <item name="*com.google.android.talk:colorAccent">@*android:color/accent_material_light</item>
+        <item name="android:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+
+    <style name="Base.Widget.AppCompat.ActionMode" parent="">
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:textColorHighlight">#1e1e1e</item>
+        <item name="android:textColorHint">#1e1e1e</item>
+        <item name="android:textColorLink">#1e1e1e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:textColorSecondary">#6e6e6e</item>
+        <item name="*com.google.android.talk:colorControlNormal">#1e1e1e</item>
+        <item name="android:colorControlNormal">#1e1e1e</item>
+        <item name="*com.google.android.talk:height">?actionBarSize</item>
+        <item name="*com.google.android.talk:titleTextStyle">@*com.google.android.talk:style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="*com.google.android.talk:subtitleTextStyle">@*com.google.android.talk:style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle</item>
+        <item name="*com.google.android.talk:background">@android:color/holo_red_light</item>
+        <item name="*com.google.android.talk:backgroundSplit">?actionModeSplitBackground</item>
+        <item name="*com.google.android.talk:closeItemLayout">@*com.google.android.talk:layout/abc_action_mode_close_item_material</item>
+    </style>
+
+    <style name="HangoutTitleText" parent="@*com.google.android.talk:style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textSize">22.0sp</item>
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="HangoutSubtitleText" parent="@*com.google.android.talk:style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#6e6e6e</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Theme.Hangout.Overlay" parent="@*com.google.android.talk:style/Theme.Hangout">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#1e1e1e</item>
+    </style>
+    <style name="Theme.Hangout" parent="@*com.google.android.talk:style/Theme.EmeraldSea">
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:textColorSecondary">#6e6e6e</item>
+        <item name="*com.google.android.talk:colorControlNormal">#1e1e1e</item>
+        <item name="android:colorControlNormal">#1e1e1e</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="*com.google.android.talk:actionOverflowButtonStyle">@*com.google.android.talk:style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="*com.google.android.talk:colorPrimaryDark">@android:color/holo_red_light</item>
+    </style>
+    <style name="Theme.EmeraldSea" parent="@*com.google.android.talk:style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/holo_red_light</item>
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:titleTextColor">#1e1e1e</item>
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:textColorSecondary">#6e6e6e</item>
+        <item name="android:colorAccent">@*android:color/accent_material_light</item>
+        <item name="*com.google.android.talk:colorControlNormal">#1e1e1e</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColorLink">@*android:color/accent_material_light</item>
+        <item name="android:dividerHeight">0.0dip</item>
+        <item name="android:listDivider">@null</item>
+        <item name="android:alertDialogTheme">@*com.google.android.talk:style/Theme.AlertDialog</item>
+        <item name="*com.google.android.talk:hangoutsListSelector">@android:drawable/list_selector_background</item>
+        <item name="*com.google.android.talk:editAudienceBackground">@android:drawable/edit_text</item>
+        <item name="*com.google.android.talk:editLocationBackground">@android:drawable/edit_text</item>
+        <item name="*com.google.android.talk:hangoutsButtonSelectableBackground">@*com.google.android.talk:drawable/bg_item_selectable</item>
+        <item name="*com.google.android.talk:windowActionModeOverlay">true</item>
+        <item name="*com.google.android.talk:actionOverflowButtonStyle">@*com.google.android.talk:style/ActionBarOverflow</item>
+        <item name="*com.google.android.talk:actionBarPopupTheme">@*com.google.android.talk:style/Theme.ActionBarPopup</item>
+        <item name="*com.google.android.talk:actionModeBackground">@android:color/holo_red_light</item>
+        <item name="*com.google.android.talk:selectableItemBackground">@*com.google.android.talk:drawable/touch_item_background</item>
+        <item name="*com.google.android.talk:toolbarStyle">@*com.google.android.talk:style/Toolbar</item>
+        <item name="*com.google.android.talk:colorPrimary">@android:color/holo_red_light</item>
+        <item name="*com.google.android.talk:colorPrimaryDark">@android:color/holo_red_light</item>
+        <item name="*com.google.android.talk:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+
+    <style name="BottomActionBar.Label" parent="@*com.google.android.talk:style/Theme.EmeraldSea">
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:gravity">center</item>
+        <item name="android:drawablePadding">2.0dip</item>
+    </style>
+    <style name="Oob.Entry.Button.Highlight" parent="@*com.google.android.talk:style/Oob.Entry.Button">
+        <item name="android:textColor">#ff1e1e1e</item>
+    </style>
+
+    <style name="RealTimeChat.ConversationList.TextBadge" parent="@*com.google.android.talk:style/Theme.EmeraldSea">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#1e1e1e</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+</resources>

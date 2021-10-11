@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.YouTube.Home" parent="@*com.vanced.android.youtube:style/Base.V27.Theme.YouTube.Home">
+        <item name="android:textColorSecondaryInverse">#d81e1e1e</item>
+        <item name="android:textColorPrimaryInverse">#1e1e1e</item>
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="Base.V27.Theme.YouTube.Home" parent="@*com.vanced.android.youtube:style/Base.Theme.YouTube.Home"/>
+
+    <style name="Base.V27.Theme.YouTube.Light" parent="@*com.vanced.android.youtube:style/Base.Theme.YouTube.Light">
+        <item name="android:textColorSecondaryInverse">#d81e1e1e</item>
+        <item name="android:textColorPrimaryInverse">#1e1e1e</item>
+        <item name="android:textColorPrimary">#1e1e1e</item>
+        <item name="android:textColorSecondary">#1e1e1e</item>
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="Base.V27.Theme.YouTube.Light.Dialog" parent="@*com.vanced.android.youtube:style/Base.V23.Theme.YouTube.Light.Dialog">
+         <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="Base.V27.Theme.YouTube.Share.DialogFragment.Light" parent="@*com.vanced.android.youtube:style/Base.Theme.YouTube.Share.DialogFragment.Light">
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="NavigationBar.Dark.V27" parent="@*com.vanced.android.youtube:style/NavigationBar">
+        <item name="*com.vanced.android.youtube:navigationBarColor">@android:color/background_light</item>
+        <item name="*com.vanced.android.youtube:navigationBarControlsMode">light</item>
+        <item name="*com.vanced.android.youtube:navigationBarDividerColor">@null</item>
+        <item name="*com.vanced.android.youtube:navigationBarDividerSize">0.0dip</item>
+    </style>
+    <style name="NavigationBar.Light.V27" parent="@*com.vanced.android.youtube:style/NavigationBar">
+        <item name="*com.vanced.android.youtube:navigationBarColor">@android:color/background_light</item>
+        <item name="*com.vanced.android.youtube:navigationBarControlsMode">dark</item>
+        <item name="*com.vanced.android.youtube:navigationBarDividerColor">@null</item>
+        <item name="*com.vanced.android.youtube:navigationBarDividerSize">0.0dip</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.V25.AppCompat" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:colorBackgroundFloating">@android:color/background_dark</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:windowBackground">@android:color/background_dark</item>
+</style>
+
+    <style name="Theme.Paste.Base" parent="@*com.spotify.music:style/Theme.AppCompat">
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:checkedTextViewStyle">?android_checkedTextViewStyle</item>
+        <item name="android:switchStyle">?android_switchStyle</item>
+    </style>
+</resources>

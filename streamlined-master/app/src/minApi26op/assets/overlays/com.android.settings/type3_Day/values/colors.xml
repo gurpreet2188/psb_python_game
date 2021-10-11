@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aicp_logo_bg">@android:color/background_light</color>
+    <color name="aicp_logo_fg">#1e1e1e</color>
+    <color name="switch_accent_color">@*android:color/accent_material_light</color>
+    <color name="fab_shape">@*android:color/accent_material_light</color>
+    <color name="icon_accent">@*android:color/accent_material_light</color>
+    <color name="switchbar_background_color">@android:color/background_light</color>
+    <color name="material_deep_teal_200">@*android:color/accent_material_light</color>
+    <color name="material_deep_teal_500">@*android:color/accent_material_light</color>
+    <color name="card_background_grey">@*android:color/background_material_light</color>
+    <color name="card_background">@*android:color/background_light</color>
+    <color name="gestures_setting_background_color">@android:color/background_light</color>
+    <color name="material_grey_300">@android:color/background_light</color>
+    <color name="foreground_material_dark">@android:color/background_light</color>
+    <color name="foreground_material_light">@android:color/background_light</color>
+    <color name="background_material_dark">@android:color/background_light</color>
+    <color name="background_material_light">@android:color/background_light</color>
+    <color name="background_floating_material_dark">@android:color/background_light</color>
+    <color name="background_floating_material_light">@android:color/background_light</color>
+    <color name="expanded_item_app_title">#6e6e6e</color>
+    <color name="gestures_switchbar_color">@android:color/background_light</color>
+    <color name="linear_color_bar_left">@*android:color/accent_material_light</color>
+    <color name="linear_color_bar_middle">@*android:color/accent_material_light</color>
+    <color name="material_blue_500">@*android:color/accent_material_light</color>
+    <color name="material_blue_700">@*android:color/accent_material_light</color>
+    <color name="message_icon_background_outgoing">@*android:color/accent_material_light</color>
+    <color name="suw_color_accent_glif_dark">@*android:color/accent_material_light</color>
+    <color name="suw_color_accent_glif_light">@*android:color/accent_material_light</color>
+    <color name="theme_accent">@*android:color/accent_material_light</color>
+    <!-- exposed -->
+    <color name="condition_card_background_color">@*android:color/background_material_light</color>
+    <color name="condition_card_icon_color">@*android:color/accent_material_light</color>
+    <color name="condition_card_title_text_color">#d81e1e1e</color>
+    <color name="condition_card_expander_color">@*android:color/accent_material_light</color>
+    <color name="condition_card_summary_text_color">#6e6e6e</color>
+    <color name="condition_card_divider_color">@android:color/transparent</color>
+    <color name="condition_card_first_button_text_color">#d81e1e1e</color>
+    <color name="condition_card_second_button_text_color">#d81e1e1e</color>
+    
+    <color name="storage_summary_title_color">#1e1e1e</color>
+    <color name="lock_pattern_background">#00000000</color>
+    <color name="lock_pattern_view_regular_color">#1e1e1e</color>
+    <color name="lock_pattern_view_error_color">#ff00</color>
+    <color name="lock_pattern_view_regular_color_dark">#1e1e1e</color>
+    <color name="fingerprint_message_color">#d81e1e1e</color>
+    <color name="fingerprint_progress_ring">?android:colorAccent</color>
+    <color name="fingerprint_progress_ring_bg">#d81e1e1e</color>
+    <color name="fingerprint_indicator_background_resting">#12000000</color>
+    <!-- RR stuff -->
+    <color name="fab_label_background">@android:color/background_light</color>
+    <color name="secondary_text">#d81e1e1e</color>
+    <color name="fab_rr_color_ripple">@*android:color/accent_material_light</color>
+    <color name="fab_rr_bg">@*android:color/accent_material_light</color>
+    <color name="fab_button_icon_color">@android:color/background_light</color>
+    <color name="rr_config_tab_color">@android:color/background_light</color>
+    <color name="rr_config_tab_text_color">#d81e1e1e</color>
+</resources>

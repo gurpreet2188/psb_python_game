@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:id="@*com.quoord.tapatalkpro.activity:id/quick_lay" android:background="@android:color/background_light" android:paddingTop="2.0dip" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@*com.quoord.tapatalkpro.activity:id/sendimage_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.0dip" android:src="@*com.quoord.tapatalkpro.activity:drawable/menu_expand" android:layout_marginStart="10.0dip" />
+    <com.quoord.tapatalkpro.view.TtfTypeEditText android:textSize="17.0sp" android:textColorHint="@*com.quoord.tapatalkpro.activity:color/text_gray_a8" android:id="@*com.quoord.tapatalkpro.activity:id/quickqeply" android:background="@null" android:layout_width="0.0px" android:layout_height="wrap_content" android:layout_marginBottom="0.5dip" android:minHeight="50.0dip" android:hint="@*com.quoord.tapatalkpro.activity:string/quick_reply" android:maxLines="6" android:layout_weight="1.0" android:inputType="textAutoCorrect|textCapSentences|textMultiLine" android:imeOptions="actionNext" android:layout_marginStart="18.0dip" android:layout_marginEnd="2.0dip" />
+    <RelativeLayout android:id="@*com.quoord.tapatalkpro.activity:id/tools" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.5dip" android:layout_marginEnd="13.0dip">
+        <ImageView android:id="@*com.quoord.tapatalkpro.activity:id/reply" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@*com.quoord.tapatalkpro.activity:drawable/menu_send" android:layout_centerInParent="true" />
+        <ProgressBar android:id="@*com.quoord.tapatalkpro.activity:id/loading" android:visibility="gone" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</LinearLayout>

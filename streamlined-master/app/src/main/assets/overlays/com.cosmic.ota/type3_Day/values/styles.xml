@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+    </style>
+
+    <style name="Theme.Main" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimary">@android:color/holo_red_light</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_red_light</item>
+        <item name="android:colorAccent">@*android:color/accent_material_light</item>
+        <!-- Redefine the ActionBar style for contentInsetStart -->
+        <item name="android:actionBarStyle">@*com.cosmic.ota:style/Theme.ActionBar.SubSettings</item>
+    </style>
+
+    <style name="Theme.ActionBar.SubSettings" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:elevation">0.0dip</item>
+        <item name="android:contentInsetStart">16.0dip</item>
+    </style>
+</resources>

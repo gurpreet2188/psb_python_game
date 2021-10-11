@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textColorLink">?android:colorAccent</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+        <item name="android:textColorLinkInverse">?android:colorAccent</item>
+    </style>
+
+    <style name="Theme.Viber.Call.Tablet" parent="@*com.viber.voip:style/Theme.Viber.NoActionBar">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+    </style>
+
+    <style name="Theme.Viber.NoActionBar.Fullscreen.ImmersivePreview.Media" parent="@*com.viber.voip:style/Theme.Viber.NoActionBar.Fullscreen.ImmersivePreview">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="*com.viber.voip:windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="Theme.Viber.NoActionBar.Welcome" parent="@*com.viber.voip:style/Theme.Viber.NoActionBar">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+    </style>
+
+    <style name="Theme.Viber.Overlay" parent="@*com.viber.voip:style/Theme.AppCompat">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+    </style>
+
+    <style name="Theme.Viber.PhotoGallery" parent="@*com.viber.voip:style/Theme.Viber">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:actionBarItemBackground">@*com.viber.voip:drawable/ab_item_bg_grey</item>
+        <item name="*com.viber.voip:actionBarItemBackground">@*com.viber.voip:drawable/ab_item_bg_grey</item>
+        <item name="*com.viber.voip:actionBarStyle">@*com.viber.voip:style/ActionBarStyle.Gallery</item>
+        <item name="*com.viber.voip:buttonStyle">@*com.viber.voip:style/Widget.Viber.Button.Dark</item>
+        <item name="*com.viber.voip:buttonStyleSmall">@*com.viber.voip:style/Widget.Viber.Button.Dark.Small</item>
+        <item name="*com.viber.voip:colorAccent">#d8ffffff</item>
+        <item name="*com.viber.voip:colorPrimary">#000000</item>
+        <item name="*com.viber.voip:colorPrimaryDark">#000000</item>
+        <item name="*com.viber.voip:doodleButtonBackground">@*com.viber.voip:drawable/photo_edit_btn_bg</item>
+        <item name="*com.viber.voip:homeAsUpIndicator">@*com.viber.voip:drawable/toolbar_back_icon</item>
+        <item name="*com.viber.voip:selectableItemBackground">@*com.viber.voip:drawable/bg_selectable_item_grey</item>
+        <item name="*com.viber.voip:selectableItemBackgroundBorderless">@*com.viber.voip:drawable/ab_item_bg_grey</item>
+    </style>
+
+    <style name="Theme.Viber.Translucent.NoActionBar.Coach" parent="@*com.viber.voip:style/Theme.Viber.Translucent.NoActionBar">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+    </style>
+
+    <style name="BaseSendTextStyle" parent="@*com.viber.voip:style/EditTextStyle">
+        <item name="android:textSize">@*com.viber.voip:dimen/msg_edit_text_text_size</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@null</item>
+        <item name="android:paddingTop">4.0dip</item>
+        <item name="android:paddingBottom">4.0dip</item>
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:ems">10</item>
+        <item name="android:maxLength">@*com.viber.voip:integer/max_message_input_length</item>
+        <item name="android:drawablePadding">@*com.viber.voip:dimen/message_composer_drawable_padding</item>
+        <item name="android:inputType">textAutoCorrect|textCapSentences|textMultiLine|textShortMessage</item>
+        <item name="android:textCursorDrawable">@*com.viber.voip:drawable/cursor</item>
+    </style>
+
+    <style name="Viber.Text.MessageInfo.Empty" parent="@*com.viber.voip:style/Viber.Text.MessageInfo">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+    </style>
+
+    <style name="msg_text_general" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">@*com.viber.voip:dimen/message_general_text_size</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="msg_text_notification" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">@*com.viber.voip:dimen/msg_notification_text_size</item>
+        <item name="android:typeface">normal</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="sms_dialog_body_style" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="sms_dialog_name_style" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">21.0dip</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <color name="splash_status_bar_color">@android:color/background_dark</color>
+
+    <style name="Viber.Switch" parent="@*com.viber.voip:style/Theme.__Viber">
+        <item name="android:colorForeground">#aaaaaa</item>
+        <item name="*com.viber.voip:colorControlActivated">@android:color/holo_blue_bright</item>
+        <item name="*com.viber.voip:colorSwitchThumbNormal">#aaaaaa</item>
+    </style>
+</resources>

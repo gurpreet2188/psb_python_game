@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme" parent="@*com.instagram.android:style/Theme.AppCompat.DayNight.NoActionBar">
+
+        <item name="android:colorPrimaryDark">@android:color/holo_red_light</item>
+        <item name="android:colorPrimary">@android:color/holo_red_light</item>
+        <item name="android:colorAccent">@*android:color/accent_material_light</item>
+        <item name="android:statusBarColor">@android:color/holo_red_light</item>
+        <item name="android:colorEdgeEffect">@null</item>
+        <item name="android:windowLightStatusBar">@null</item>
+        <!--<item name="*com.instagram.android:backgroundColorPrimaryDark">@android:color/holo_red_light</item>-->
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+        <item name="android:windowBackground">@android:color/background_light</item>
+        <item name="*com.instagram.android:statusBarBackgroundColor">@android:color/background_light</item>
+    </style>
+
+    <style name="Theme" >
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarColor">@android:color/background_light</item>
+    </style>
+</resources>

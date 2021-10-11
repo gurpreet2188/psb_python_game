@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mini_sharebox_avatar_size">32.0dip</dimen>
+    <dimen name="mini_sharebox_card_padding">16.0dip</dimen>
+    <dimen name="mini_sharebox_content_padding">8.0dip</dimen>
+    <dimen name="mini_sharebox_elevation_2">0.0dip</dimen>
+    <dimen name="mini_sharebox_padding_4">6.0dip</dimen>
+    <dimen name="abc_action_bar_elevation_material">0.0dip</dimen>
+    <dimen name="cardview_default_elevation">0.0dip</dimen>
+    <dimen name="collexion_color_picker_item_elevation">0.0dip</dimen>
+    <dimen name="design_appbar_elevation">0.0dip</dimen>
+    <dimen name="design_bottom_navigation_elevation">0.0dip</dimen>
+    <dimen name="design_bottom_sheet_modal_elevation">0.0dip</dimen>
+    <dimen name="new_posts_button_elevation">1.0dip</dimen>
+    <dimen name="new_posts_button_pressed_elevation">3.0dip</dimen>
+    <dimen name="search_result_elevation">0.0dip</dimen>
+    <dimen name="design_fab_image_size">56.0dip</dimen>
+</resources>

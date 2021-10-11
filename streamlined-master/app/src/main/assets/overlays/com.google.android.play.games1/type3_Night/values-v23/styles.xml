@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Games.InGame.FullScreenActivity" parent="@*com.google.android.play.games:style/Games.InGame.BaseFullScreenActivity">
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="*com.google.android.play.games:colorPrimaryDark">@android:color/holo_blue_bright</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+    </style>
+
+    <color name="games_mvp_status_bar_color">@android:color/holo_blue_bright</color>
+</resources>

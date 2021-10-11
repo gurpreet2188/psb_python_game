@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="default_touch_target">36.0dip</dimen>
+
+
+
+    <dimen name="toolbar_elevation">0.0dip</dimen>
+    <dimen name="card_elevation">0.0dip</dimen>
+    <dimen name="cardview_default_elevation">0.0dip</dimen>
+    <dimen name="main_screen_card_corner_elevation">0.0dip</dimen>
+    <dimen name="theme_information_card_corner_elevation">0.0dip</dimen>
+    <dimen name="abc_action_bar_elevation_material">0.0dip</dimen>
+    <dimen name="action_bar_elevation">0.0dip</dimen>
+    <dimen name="design_appbar_elevation">0.0dip</dimen>
+    <dimen name="appbar_layout_elevation">0.0dip</dimen>
+    <dimen name="mealbar_elevation">0.0dip</dimen>
+
+    <color name="primary_blue">@android:color/holo_blue_bright</color>
+    <color name="primary_blue_500_90alpha">#e54285f4</color>
+    <color name="primary_blue_dark">@android:color/holo_blue_bright</color>
+    <color name="status_bar_20pct_black">#00000000</color>
+    <color name="primary_dark_material_dark">@android:color/holo_blue_bright</color>
+    <color name="primary_dark_material_light">@android:color/holo_blue_bright</color>
+    <color name="primary_material_dark">@android:color/holo_blue_bright</color>
+    <color name="primary_material_light">@android:color/holo_blue_bright</color>
+
+    <color name="activity_background">@android:color/background_dark</color>
+    <color name="background_floating_material_dark">@android:color/background_dark</color>
+    <color name="background_floating_material_light">@android:color/background_dark</color>
+    <color name="background_material_dark">@android:color/background_dark</color>
+    <color name="background_material_light">@android:color/background_dark</color>
+    <color name="card_pressed_background">@android:color/holo_purple</color>
+    <color name="card_pressed_background_dark">@android:color/holo_purple</color>
+    <color name="cardview_dark_background">@android:color/background_dark</color>
+    <color name="cardview_light_background">@android:color/background_dark</color>
+    <color name="cardview_shadow_end_color">#00000000</color>
+    <color name="cardview_shadow_start_color">#00000000</color>
+    <color name="design_snackbar_background_color">@android:color/holo_purple</color>
+    <color name="info_panel_background">@android:color/background_dark</color>
+    <color name="offline_dialog_banner_background">@android:color/holo_purple</color>
+    <color name="result_background">@android:color/background_dark</color>
+    <color name="selected_background">@android:color/holo_purple</color>
+    <color name="tooltip_background">@android:color/background_dark</color>
+    <color name="quantum_white_100">@android:color/background_dark</color>
+    <color name="tooltip_background_dark">@android:color/holo_purple</color>
+    <color name="tooltip_background_light">@android:color/holo_purple</color>
+    <color name="camera_controlbar_bg_dark">#331e1e1e</color>
+
+    <color name="camera_instant_bar_bg">#331e1e1e</color>
+    <color name="camera_toolbar_bg_dark">#331e1e1e</color>
+
+    <color name="copydrop_onboarding_bg">@android:color/background_dark</color>
+    <color name="copydrop_tooltip_bg">@android:color/holo_purple</color>
+    <color name="handwriting_pad_bg">@android:color/background_dark</color>
+    <color name="handwriting_results">@android:color/holo_purple</color>
+    <color name="mtrl_btn_bg_color">@android:color/holo_purple</color>
+    <color name="mtrl_btn_bg_color_disabled">#44ffffff</color>
+    <color name="mtrl_btn_bg_color_highlight">@android:color/holo_blue_bright</color>
+    <color name="mtrl_btn_bg_color_pressed">@android:color/holo_blue_bright</color>
+    <color name="mtrl_btn_stroke_color">@android:color/holo_blue_bright</color>
+    <color name="mtrl_btn_stroke_color_disabled">#44ffffff</color>
+    <color name="mtrl_text_btn_bg_color_pressed">#ffffff</color>
+    <color name="mtrl_text_btn_text_color">#d1ffffff</color>
+    <color name="mtrl_text_btn_text_color_disabled">#99ffffff</color>
+    <color name="nav_drawer_header_bg">@android:color/holo_purple</color>
+
+    <color name="quantum_googblue">@android:color/holo_blue_bright</color>
+    <color name="quantum_googblue500">@android:color/holo_blue_bright</color>
+    <color name="grey_on_white_toolbar">#ffffff</color>
+
+
+    <color name="camera_error_text">#ff00</color>
+    <color name="camera_info_text_dark">#ffffffff</color>
+    <color name="camera_info_text_instant">#ffffff</color>
+    <color name="camera_info_text_light">#ffffff</color>
+    <color name="copydrop_tooltip_text_color">#d8ffffff</color>
+    <color name="copydrop_translated_text">@android:color/holo_blue_bright</color>
+    <color name="highlighted_text_material_dark">@android:color/holo_blue_bright</color>
+    <color name="highlighted_text_material_light">@android:color/holo_blue_bright</color>
+    <color name="icons_title_text_color">#d8ffffff</color>
+    <color name="indicator_text">#7fffffff</color>
+    <color name="input_hint_text">#ff777777</color>
+    <color name="primary_text">#ffffffff</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#ffffff</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="primary_text_disabled_material_light">#4dffffff</color>
+    <color name="quantum_black_divider">#00ffffff</color>
+    <color name="quantum_black_hint_text">#c1ffffff</color>
+    <color name="quantum_black_secondary_text">#d8ffffff</color>
+    <color name="quantum_black_text">#ffffffff</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="ripple_material_dark">@android:color/holo_blue_bright</color>
+    <color name="ripple_material_light">@android:color/holo_blue_bright</color>
+    <color name="secondary_text">#d8ffffff</color>
+    <color name="secondary_text_default_material_dark">#d8ffffff</color>
+    <color name="secondary_text_default_material_light">#d8ffffff</color>
+    <color name="secondary_text_disabled_material_dark">#a1ffffff</color>
+    <color name="secondary_text_disabled_material_light">#a1ffffff</color>
+    <color name="selected_text">#ffffffff</color>
+    <color name="suggest_title">#ffffffff</color>
+    <color name="tertiary_text">#c1ffffff</color>
+    <color name="text_color_below_icons_disabled">#a1ffffff</color>
+    <color name="text_color_below_icons_enabled">#a1ffffff</color>
+    <color name="tooltip_text">#ffffffff</color>
+
+    <color name="gtrStrokeColor">#d8ffffff</color>
+    <color name="gtrStrokeColorHistory">#c1ffffff</color>
+    <color name="gtrStrokeColorPreviousRecognition">#c9ffffff</color>
+    <color name="gtrStrokeColorRecognized">#ffffffff</color>
+    <color name="gtr_btn_candidate_normal">@android:color/holo_purple</color>
+    <color name="gtr_btn_candidate_pressed">@android:color/holo_purple</color>
+    <color name="gtr_candidate_first">#d7ffffff</color>
+    <color name="gtr_candidate_normal">#d7ffffff</color>
+    <color name="gtr_candidate_not_selectable">#67ffffff</color>
+    <color name="gtr_candidate_selected">#ffffff</color>
+    <color name="gtr_candidate_strip_divider">@android:color/holo_blue_bright</color>
+
+    <color name="icon_dark_disabled">#c1ffffff</color>
+    <color name="icon_dark_normal">#d8ffffff</color>
+
+    <color name="offline_pin_downloading">@android:color/holo_blue_bright</color>
+    <color name="offline_pin_idle">#a1ffffff</color>
+    <color name="offline_pin_progress_background_pressed">#ffffff</color>
+</resources>

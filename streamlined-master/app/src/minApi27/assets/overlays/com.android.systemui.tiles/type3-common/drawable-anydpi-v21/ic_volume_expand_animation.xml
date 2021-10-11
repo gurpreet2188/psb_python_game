@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector android:drawable="@*com.android.systemui:drawable/ic_volume_expand"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <target android:name="right" android:animation="@*com.android.systemui:anim/ic_caret_up_right_animation" />
+</animated-vector>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:name="ic_checkbox_unchecked"  android:height="24.0dip" android:width="24.0dip" android:viewportWidth="48.0" android:viewportHeight="48.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:scaleX="0.7" android:scaleY="0.7" android:translateX="7" android:translateY="7">
+        <group android:name="check" android:scaleX="0.9" android:scaleY="0.9" android:translateY="3" android:translateX="3">
+            <path
+                android:name="box_outer_merged"
+                android:strokeAlpha="0.0"
+                android:strokeWidth="3"
+                android:strokeMiterLimit="10"
+                android:strokeLineCap="round"
+                android:strokeColor="#1e1e1e"
+                android:pathData="M 19.0,34.3 L 19.0,34.3 L 17.4,35.9 M 17.4,35.9 L 16.3,34.8 " />
+        </group>
+        <group android:name="box_dilate" android:scaleX="1" android:scaleY="1">
+            <path android:name="box_inner_merged" android:strokeMiterLimit="10"
+                android:strokeLineCap="round"
+                android:strokeColor="#1e1e1e"
+                android:strokeWidth="3"
+                android:strokeAlpha="1.0"
+                android:pathData="M45.7,21.3 L45.7,25.7 L45.7,41.7 C45.7,43.9,43.9,45.7,41.7,45.7 L6.3,45.7
+C4.1,45.7,2.3,43.9,2.3,41.7 L2.3,6.3 C2.3,4.1,4.1,2.3,6.3,2.3 L41.7,2.3
+C43.9,2.3,45.7,4.1,45.7,6.3 L45.7,12.1"  />
+        </group>
+    </group>
+</vector>

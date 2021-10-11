@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="default_fragment_background_color">@android:color/background_dark</color>-->
+    <!--<color name="default_account_details_color">#d8ffffff</color>-->
+    <!--<color name="m_actionbar_background">@android:color/background_dark</color>-->
+    <!--<color name="m_app_background">@android:color/background_dark</color>-->
+    <!--<color name="m_app_primary">@android:color/background_dark</color>-->
+    <!--<color name="quantum_grey500">@android:color/background_dark</color>-->
+    <!--<color name="quantum_grey400">@android:color/background_dark</color>-->
+    <!--<color name="doclist_sticky_header_background">@android:color/background_dark</color>-->
+    <color name="m_actionbar_text">#ffffff</color>
+    <color name="m_actionbar_separator">@android:color/background_dark</color>
+    <color name="m_doclist_background">@android:color/background_dark</color>
+    <color name="m_app_primary_text">#ffffff</color>
+    <color name="m_app_secondary_text">#d8ffffff</color>
+    <color name="m_app_secondary">@android:color/background_dark</color>
+    <color name="m_app_secondary_background">@android:color/background_dark</color>
+    <color name="m_app_status_bar">@android:color/background_dark</color>
+
+    <!--<color name="list_entry_pressed">#33aaaaaa</color>-->
+    <!--<color name="list_entry_selected">@android:color/holo_blue_bright</color>-->
+    <!--<color name="list_entry_activated">#22ffffff</color>-->
+
+    <!--<color name="highlighted_text_material_dark">@android:color/holo_blue_bright</color>-->
+    <!--<color name="highlighted_text_material_light">@android:color/holo_blue_bright</color>-->
+    <color name="m_black_54_percent">#96ffffff</color>
+    <color name="m_black_87_percent">#a1ffffff</color>
+    <color name="m_app_accent">@android:color/holo_blue_bright</color>
+    <color name="m_search_bar_background">@android:color/background_dark</color>
+    <color name="m_entry">@android:color/background_dark</color>
+    <color name="m_icon_action_bar">#ffffff</color>
+    <color name="m_icon_primary_tint">#ffffff</color>
+    <color name="m_icon_search_bar">#ffffff</color>
+    <color name="m_icon_secondary_tint">#ffffff</color>
+    <color name="m_icon_tertiary_tint">#ffffff</color>
+    <color name="m_hint_text">#c1ffffff</color>
+    <color name="m_entry_text_primary">#ffffff</color>
+    <color name="m_entry_text_secondary">#d8ffffff</color>
+    <color name="m_app_divider_color">#00000000</color>
+    <!--<color name="manage_accounts_text_color">#ffffffff</color>-->
+    <!--<color name="material_grey_900">#ffffffff</color>-->
+    <!--<color name="quantum_grey900">#ffffffff</color>-->
+    <!--<color name="account_secondary_text">#d8ffffff</color>-->
+
+    <!--<color name="background_floating_material_light">@android:color/background_dark</color>-->
+    <!--<color name="selection_active_drop_target_fg">@android:color/background_dark</color>-->
+    <!--<color name="quantum_black_100">#ffffffff</color>-->
+
+
+    <!--<color name="chooser_icon_default">#d8ffffff</color>-->
+
+    <!--<color name="google_grey400">#00bdc1c6</color>-->
+    <!--<color name="material_grey_600">#ffffffff</color>-->
+    <!--<color name="quantum_grey600">#ffffffff</color>-->
+    <!--<color name="material_grey_50">@android:color/background_dark</color>-->
+    <!--<color name="quantum_grey50">@android:color/background_dark</color>-->
+
+    <!--<color name="grey">#d8ffffff</color>-->
+    <!--<color name="grey_disabled_quick_action_icons">#c1ffffff</color>-->
+    <!--<color name="grey_light">#c8ffffff</color>-->
+    <!--<color name="grey_medium">#a8ffffff</color>-->
+
+    <!--<color name="helpcard_primary">@android:color/background_dark</color>-->
+    <!--<color name="helpcard_secondary">@android:color/background_dark</color>-->
+
+    <!--<color name="background_material_light">@android:color/holo_purple</color>-->
+    <!--<color name="doc_grid_entry_title_background">@android:color/holo_purple</color>-->
+    <color name="m_app_alert_fullscreen">@android:color/holo_purple</color>
+
+    <!--<color name="manage_storage_button_bg">@android:color/holo_purple</color>-->
+    <!--<color name="selection_selected_thumbnail_mask">#22ffffff</color>-->
+    <!--<color name="thumbnail_border">#00dddddd</color>-->
+    <!--<color name="thumbnail_no_thumbnail_background">@android:color/holo_purple</color>-->
+    <!--<color name="thumbnail_open_button_background">@android:color/holo_purple</color>-->
+
+    <color name="m_google_blue_200">@android:color/holo_blue_bright</color>
+    <color name="m_google_blue_50">@android:color/holo_blue_bright</color>
+    <color name="m_google_blue_500">@android:color/holo_blue_bright</color>
+    <color name="m_google_blue_700">@android:color/holo_blue_bright</color>
+    <!--<color name="quantum_googblue">@android:color/holo_blue_bright</color>-->
+    <!--<color name="quantum_googblue500">@android:color/holo_blue_bright</color>-->
+
+    <!--<color name="quantum_black_text">#ffffffff</color>-->
+    <!--<color name="quantum_black_divider">#00000000</color>-->
+    <!--<color name="quantum_black_hint_text">#61ffffff</color>-->
+    <!--<color name="quantum_black_secondary_text">#89ffffff</color>-->
+
+    <!--<color name="material_title">#ffffffff</color>-->
+    <!--<color name="refined_reason">#d8ffffff</color>-->
+    <!--<color name="refined_reason_background">@android:color/holo_purple</color>-->
+    <!--<color name="default_text_color">#ffffff</color>-->
+
+    <!--<color name="quantum_white_100">@android:color/background_dark</color>-->
+
+    <!--<color name="navigation_background">@android:color/background_dark</color>-->
+    <!--<color name="navigation_item_active">@android:color/holo_purple</color>-->
+    <!--<color name="navigation_item_active_text">#ffffffff</color>-->
+    <!--<color name="navigation_item_default">@android:color/transparent</color>-->
+    <!--<color name="navigation_item_focused">@android:color/holo_purple</color>-->
+    <!--<color name="navigation_item_pressed">@android:color/holo_purple</color>-->
+    <!--<color name="navigation_item_selected">@android:color/holo_purple</color>-->
+
+    <!--<color name="primary_dark_material_dark">@android:color/background_dark</color>-->
+    <!--<color name="primary_dark_material_light">@android:color/background_dark</color>-->
+    <!--<color name="primary_material_dark">@android:color/background_dark</color>-->
+    <!--<color name="primary_material_light">@android:color/background_dark</color>-->
+
+    <!--<color name="primary_text_default_material_dark">#ffffffff</color>-->
+    <!--<color name="primary_text_default_material_light">#ffffff</color>-->
+    <!--<color name="primary_text_disabled_material_dark">#c1ffffff</color>-->
+    <!--<color name="primary_text_disabled_material_light">#c1ffffff</color>-->
+
+    <!--<color name="secondary_text_default_material_dark">#d8ffffff</color>-->
+    <!--<color name="secondary_text_default_material_light">#d8ffffff</color>-->
+    <!--<color name="secondary_text_disabled_material_dark">#b1ffffff</color>-->
+    <!--<color name="secondary_text_disabled_material_light">#b1ffffff</color>-->
+
+
+    <color name="acl_list_background">@android:color/holo_purple</color>
+    <color name="action_divider_hairline">@*com.google.android.apps.docs:color/google_grey700</color>
+    <color name="action_enabled_default_icon_tint">@*com.google.android.apps.docs:color/google_grey200</color>
+    <color name="add_collaborator_background">@android:color/holo_purple</color>
+    <color name="blue_control_color">@*com.google.android.apps.docs:color/google_blue300</color>
+    <color name="create_sheet_action_outline">@*com.google.android.apps.docs:color/google_grey600</color>
+    <color name="detail_card_action_text_daynight">@*com.google.android.apps.docs:color/google_blue300</color>
+    <color name="detail_card_divider_daynight">#00000000</color>
+    <color name="detail_card_header_text_daynight">@*com.google.android.apps.docs:color/google_grey400</color>
+    <color name="detail_card_location_row_text_daynight">@*com.google.android.apps.docs:color/google_grey100</color>
+    <color name="detail_card_preview_bg_daynight">@android:color/holo_purple</color>
+    <color name="detail_card_secondary_text_daynight">@*com.google.android.apps.docs:color/google_grey400</color>
+    <color name="detail_card_text_daynight">@*com.google.android.apps.docs:color/google_grey200</color>
+    <color name="detail_card_title_text_daynight">@*com.google.android.apps.docs:color/google_grey200</color>
+    <color name="detail_card_warning_text_daynight">@*com.google.android.apps.docs:color/google_red300</color>
+    <color name="detail_panel_bg_daynight">@android:color/background_dark</color>
+    <color name="doclist_folder_transition_snapshot_bg">@android:color/background_dark</color>
+    <color name="driveintelligence_divider_color">@*com.google.android.apps.docs:color/google_grey700</color>
+    <color name="error_hairline">@*com.google.android.apps.docs:color/google_grey700</color>
+    <color name="loading_grey">@android:color/holo_purple</color>
+    <color name="multiselect_entry_bg_color">@*com.google.android.apps.docs:color/google_blue300</color>
+    <color name="notification_card_divider">@*com.google.android.apps.docs:color/google_grey700</color>
+    <color name="open_search_bar_bg_color">@android:color/holo_purple</color>
+    <color name="party_people_outline">@*com.google.android.apps.docs:color/google_grey500</color>
+    <color name="selected_item_icon_color">#ffffff</color>
+    <color name="selected_item_text_color">#ffffff</color>
+    <color name="storage_summary_text_color">#f1f1f1</color>
+    <color name="suggested_workspace_bg">@*com.google.android.apps.docs:color/google_blue300</color>
+    <color name="suggested_workspace_text">#ffffff</color>
+    <color name="swipe_refresh_spinnner_bg">@android:color/holo_purple</color>
+    <color name="temaki_on_primary_daynight">@*com.google.android.apps.docs:color/google_grey200</color>
+    <color name="temaki_on_surface_daynight">@*com.google.android.apps.docs:color/google_grey100</color>
+    <color name="temaki_on_surface_variant_daynight">@*com.google.android.apps.docs:color/google_grey500</color>
+    <color name="temaki_primary_daynight">@android:color/holo_purple</color>
+    <color name="temaki_primary_google_daynight">@*com.google.android.apps.docs:color/google_blue300</color>
+    <color name="temaki_primary_variant_google_daynight">@*com.google.android.apps.docs:color/google_blue400</color>
+    <color name="temaki_role_icon_tint_daynight">@*com.google.android.apps.docs:color/google_grey500</color>
+    <color name="temaki_sharing_options_divider_daynight">@*com.google.android.apps.docs:color/google_grey700</color>
+    <color name="thumbnail_gutter_color">@android:color/holo_purple</color>
+    <color name="thumbnail_shadow_color">#ff444444</color>
+    <color name="uploadmenu_divider_bg_daynight">@*com.google.android.apps.docs:color/google_grey700</color>
+    <color name="uploadmenu_on_primary_daynight">@*com.google.android.apps.docs:color/google_grey200</color>
+    <color name="uploadmenu_primary_daynight">@android:color/holo_purple</color>
+    <color name="uploadmenu_section_header_text_daynight">#c1ffffff</color>
+    <color name="workspaces_collapsing_header_text">@*com.google.android.apps.docs:color/google_grey100</color>
+    <color name="workspaces_header_text">@*com.google.android.apps.docs:color/google_grey200</color>
+    <color name="zss_group_column_text_daynight">@*com.google.android.apps.docs:color/google_grey400</color>
+    <color name="zss_peoplepredict_text_daynight">@*com.google.android.apps.docs:color/google_grey200</color>
+    <color name="zss_row_text_daynight">@*com.google.android.apps.docs:color/google_grey200</color>
+    <color name="og_item_text_color_light">#ffffff</color>
+    <color name="google_grey800">#ffffff</color>
+    <color name="bottom_drawer_background_color">@android:color/holo_purple</color>
+    <color name="google_dark_default_color_surface">@android:color/holo_purple</color>
+    <color name="google_grey900">@android:color/background_dark</color>
+    <color name="google_blue300">@android:color/holo_blue_bright</color>
+    <color name="material_color_elevation_plusthree">@android:color/holo_purple</color>
+    <color name="material_color_elevation_plustwo">@android:color/holo_purple</color>
+</resources>

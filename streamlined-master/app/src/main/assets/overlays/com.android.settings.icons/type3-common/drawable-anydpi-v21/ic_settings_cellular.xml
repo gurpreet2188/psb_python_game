@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?> <layer-list xmlns:android="http://schemas.android.com/apk/res/android"  > <item android:drawable="@*com.android.settings:drawable/abc_ic_star_black_36dp"/> <item android:bottom="2dp" android:left="2dp" android:right="2dp" android:top="2dp">
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <path
+            android:pathData="M50.0005,0.499993 C77.3389,0.499993,99.501,22.662,99.501,50.0003
+C99.501,77.3385,77.3389,99.5006,50.0005,99.5006
+C22.6621,99.5006,0.499937,77.3385,0.499937,50.0003
+C0.499937,22.662,22.6621,0.499993,50.0005,0.499993 Z" />
+        <path
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+            android:strokeWidth="5"
+            android:pathData="M13.248,76.1909 L13.248,62.3499 L27.6206,62.3499 L27.6206,75.6619
+L42.2593,75.6619 L42.2593,48.4281 L56.6319,48.4281 L56.6319,75.5156
+L71.0044,75.5156 L71.0044,22.56 L85.377,22.56 L85.377,75.5461" />
+</vector> </item> </layer-list>

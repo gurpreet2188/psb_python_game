@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/background_dark" />
+
+    <item android:gravity="center">
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="180dp"
+            android:height="180dp"
+            android:viewportWidth="1000"
+            android:viewportHeight="1000">
+
+            <path
+                android:strokeColor="?android:colorAccent"
+                android:strokeLineJoin="round"
+                android:strokeLineCap="round"
+                android:strokeWidth="38.88"
+                android:pathData="M189,315.125l622,0" />
+            <path
+                android:strokeColor="?android:colorAccent"
+                android:strokeLineJoin="round"
+                android:strokeLineCap="round"
+                android:strokeWidth="38.88"
+                android:pathData="M498.666,243.066l0,58.729" />
+            <path
+                android:strokeColor="?android:colorAccent"
+                android:strokeLineJoin="round"
+                android:strokeLineCap="round"
+                android:strokeWidth="38.88"
+                android:pathData="M693.544,315.126c0,0 -38.452,86.393 -69.255,121.31c-64.959,73.636
+-320.497,320.498 -320.497,320.498" />
+            <path
+                android:strokeColor="?android:colorAccent"
+                android:strokeLineJoin="round"
+                android:strokeLineCap="round"
+                android:strokeWidth="38.88"
+                android:pathData="M339.265,385.693c10.839,19.292 22.796,38.291 33.781,50.743c64.959,73.636
+320.498,320.498 320.498,320.498" />
+        </vector>
+    </item>
+</layer-list>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout n1:layout_width="wrap_content" n1:layout_height="@*com.whatsapp:dimen/location_picker_row_height"
+  xmlns:n1="http://schemas.android.com/apk/res/android">
+    <FrameLayout n1:layout_gravity="left" n1:layout_width="@*com.whatsapp:dimen/location_picker_row_height" n1:layout_height="@*com.whatsapp:dimen/location_picker_row_height">
+        <ImageView n1:layout_gravity="center" n1:id="@*com.whatsapp:id/location_icon" n1:background="@*com.whatsapp:drawable/place_icon_background" n1:padding="3.0dip" n1:layout_width="@*com.whatsapp:dimen/location_picker_icon_size" n1:layout_height="@*com.whatsapp:dimen/location_picker_icon_size" n1:tint="#ffffff" />
+    </FrameLayout>
+    <LinearLayout n1:gravity="left" n1:layout_gravity="center_vertical" n1:orientation="vertical" n1:paddingLeft="@*com.whatsapp:dimen/location_picker_row_height" n1:paddingRight="8.0dip" n1:layout_width="fill_parent" n1:layout_height="wrap_content">
+        <com.whatsapp.WaTextView n1:textAppearance="?android:textAppearanceSmallInverse" n1:textSize="17.0sp" n1:textColor="@android:color/primary_text_dark" n1:ellipsize="end" n1:id="@*com.whatsapp:id/location_name" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:singleLine="true" n1:drawablePadding="4.0dip" />
+        <com.whatsapp.WaTextView n1:textSize="14.0sp" n1:textColor="#c1ffffff" n1:ellipsize="end" n1:id="@*com.whatsapp:id/location_description" n1:layout_width="wrap_content" n1:layout_height="wrap_content" n1:singleLine="true" />
+    </LinearLayout>
+</FrameLayout>

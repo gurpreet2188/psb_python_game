@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="play_main_background">@android:color/background_light</color>
+    <color name="play_music_primary_v2">#1e1e1e</color>
+    <color name="play_music_secondary">#1e1e1e</color>
+    <color name="play_music_secondary_v2">#1e1e1e</color>
+    <color name="play_music_primary">#1e1e1e</color>
+    <color name="play_music_primary_disabled">#801e1e1e</color>
+    <color name="play_multi_secondary">#1e1e1e</color>
+    <color name="play_music_light">#ffffb74d</color>
+    <color name="play_multi_primary">#1e1e1e</color>
+    <color name="play_multi_primary_disabled">#80455a64</color>
+    <color name="play_multi_recents">#ff37474f</color>
+    <color name="material_container_bg">@android:color/background_light</color>
+    <color name="drawer_bg_color">@android:color/background_light</color>
+    <color name="drawer_line_divider_color">#00000000</color>
+    <color name="drawer_setting_text_color">#1e1e1e</color>
+    <color name="bright_foreground_material_dark">#1e1e1e</color>
+    <color name="foreground_material_dark">#1e1e1e</color>
+    <color name="material_grey_100">@android:color/background_light</color>
+    <color name="play_translucent_separator_line">#00000000</color>
+    <color name="background_floating_material_dark">@android:color/background_light</color>
+    <color name="background_floating_material_light">@android:color/background_light</color>
+
+    <color name="primary_dark_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_red_light</color>
+
+    <color name="nowplaying_progressbar_bg">@*android:color/background_material_light</color>
+    <color name="nowplaying_progressbar_progress">#611e1e1e</color>
+
+    <color name="button_material_dark">@*android:color/background_material_light</color>
+    <color name="button_material_light">@*android:color/background_material_light</color>
+
+    <color name="music_banner_color">@android:color/holo_red_light</color>
+    <color name="music_blue_button_color">@*android:color/accent_material_light</color>
+
+    <color name="nowplaying_widget_track_color">@*android:color/accent_material_light</color>
+    <color name="material_grey_800">@*android:color/accent_material_light</color>
+
+    <color name="play_fg_button_secondary">@*android:color/background_material_light</color>
+    <color name="play_fg_primary">#1e1e1e</color>
+    <color name="play_fg_secondary">#d81e1e1e</color>
+    <color name="play_fg_secondary_half_transparent">#c11e1e1e</color>
+    <color name="play_fg_tertiary">#c11e1e1e</color>
+
+    <color name="play_card_dark_background">@android:color/background_light</color>
+    <color name="play_card_light_background">@android:color/background_light</color>
+
+    <color name="notification_action_color_filter">@android:color/background_light</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="play_header_list_banner_text_color">#ff1e1e1e</color>
+    <color name="app_background">@android:color/background_light</color>
+    <color name="app_background_light">@android:color/background_light</color>
+    <color name="app_background_light_transparent">@android:color/background_light</color>
+    <color name="app_color">@*android:color/accent_material_light</color>
+    <color name="app_color_accented">@*android:color/accent_material_light</color>
+    <color name="app_color_primary">@android:color/holo_red_light</color>
+    <color name="app_color_secondary">@android:color/holo_red_light</color>
+    <color name="app_color_transparent">#20000000</color>
+    <color name="app_taskswitcher_color">@android:color/background_light</color>
+    <color name="art_image_view_background">@android:color/background_light</color>
+    <color name="art_loading_color">@*android:color/accent_material_light</color>
+    <color name="play_header_list_tab_underline_color">#1e1e1e</color>
+    <color name="wear_download_pie_chart_color">#1e1e1e</color>
+    <color name="keep_on_badge_progress_foreground">#1e1e1e</color>
+    <color name="white">@android:color/background_light</color>
+    <color name="material_grey_850">#ff303030</color>
+    <color name="overlay_status_bar_color">#00000000</color>
+    <color name="design_snackbar_background_color">#ffffffff</color>
+    <color name="play_onboard_simple_quiz_background">@android:color/background_light</color>
+    <color name="play_onboard_simple_quiz_title_text_color">#1e1e1e</color>
+
+    <color name="primary_text_default_material_dark">#1e1e1e</color>
+    <color name="primary_text_default_material_light">#de1e1e1e</color>
+    <color name="primary_text_disabled_material_dark">#4d1e1e1e</color>
+    <color name="primary_text_disabled_material_light">#391e1e1e</color>
+    <color name="progress_background_circle_color">@*android:color/accent_material_light</color>
+    <color name="secondary_text_default_material_dark">#b31e1e1e</color>
+    <color name="secondary_text_default_material_light">#8a1e1e1e</color>
+    <color name="secondary_text_disabled_material_dark">#361e1e1e</color>
+    <color name="secondary_text_disabled_material_light">#241e1e1e</color>
+    <color name="settings_summary_color">#f1f1f1</color>
+    <color name="shadow_start_color">#001e1e1e</color>
+    <color name="shadow_start_color_dark">#001e1e1e</color>
+    <color name="side_drawer_icon_color">#8a1e1e1e</color>
+    <color name="side_drawer_icon_selected_color">@*android:color/accent_material_light</color>
+    <color name="situation_description_text_color">#1e1e1e</color>
+    <color name="adaptive_home_reload_button_text_color">#1e1e1e</color>
+    <color name="default_primary_text_color">#1e1e1e</color>
+    <color name="default_secondary_text_color">#1e1e1e</color>
+    <color name="download_only_strip_text_color">#1e1e1e</color>
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="highlighted_text_material_light">#66009688</color>
+
+    <color name="play_search_suggestion_divider_background">#00e0e0e0</color>
+
+    <color name="nus_background">@android:color/background_light</color>
+    <color name="nus_item_text_color">#1e1e1e</color>
+    <color name="nus_show_more_fill_color">#1e1e1e</color>
+    <color name="nus_show_more_stroke_color">#1e1e1e</color>
+    <color name="nus_show_more_text_color">#1e1e1e</color>
+    <color name="nus_title_text_color">#1e1e1e</color>
+
+    <color name="play_search_plate_hint_text_color">#1e1e1e</color>
+    <color name="play_search_plate_navigation_button_color">#1e1e1e</color>
+    <color name="popup_menu_text">#1e1e1e</color>
+
+    <color name="play_onboard__interstitial_overlay_background">@android:color/background_light</color>
+    <color name="play_onboard__loading_overlay_background">@android:color/background_light</color>
+    <color name="play_onboard__page_indicator_dot_active">@*android:color/accent_material_light</color>
+    <color name="play_onboard__page_indicator_dot_inactive">#661e1e1e</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="oval">
+            <solid android:color="@*com.google.android.calendar:color/background_material_light" />
+            <stroke android:color="@*com.google.android.calendar:color/background_material_light" android:width="1.0px"/>
+            <size android:height="@*com.google.android.calendar:dimen/fab_big_circle_diameter" android:width="@*com.google.android.calendar:dimen/fab_big_circle_diameter" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@*com.google.android.calendar:color/background_material_light" />
+            <stroke android:color="@*com.google.android.calendar:color/accent_material_light" android:width="1.0px"/>
+            <size android:height="@*com.google.android.calendar:dimen/fab_big_circle_diameter" android:width="@*com.google.android.calendar:dimen/fab_big_circle_diameter" />
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_grey_600">#1e1e1e</color>
+    <color name="quantum_grey600">#1e1e1e</color>
+
+    <color name="theme_item_disabled">#c11e1e1e</color>
+    <color name="theme_item_normal">#d81e1e1e</color>
+    <color name="theme_item_primary">#1e1e1e</color>
+
+    <color name="primary">@android:color/background_light</color>
+
+    <color name="tool_background">@android:color/background_light</color>
+    <color name="tool_background_secondary">@android:color/background_light</color>
+
+    <color name="insights_title_background_color">@android:color/background_light</color>
+    <color name="main_background">@android:color/background_light</color>
+
+    <color name="advanced_parameter_selector_active_item_background">#aaaaaa</color>
+    <color name="advanced_parameter_selector_active_item_text">#1e1e1e</color>
+    <color name="advanced_parameter_selector_background">@*android:color/background_material_light</color>
+    <color name="advanced_parameter_selector_inactive_item_text">#c11e1e1e</color>
+
+    <color name="quantum_black_divider">#00000000</color>
+    <color name="quantum_black_hint_text">#c11e1e1e</color>
+    <color name="quantum_black_secondary_text">#d81e1e1e</color>
+    <color name="quantum_black_text">#1e1e1e</color>
+
+    <color name="filter_stack_item_background_normal">@android:color/background_light</color>
+    <color name="filter_stack_item_text_selected">@android:color/background_light</color>
+
+    <color name="quantum_white_100">@android:color/background_light</color>
+
+    <color name="accent">@*android:color/accent_material_light</color>
+    <color name="google_blue">@*android:color/accent_material_light</color>
+    <color name="quantum_googblue500">@*android:color/accent_material_light</color>
+    <color name="try_it_color">@*android:color/accent_material_light</color>
+
+    <color name="primary_dark">@android:color/background_light</color>
+
+
+    <color name="primary_dark_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_red_light</color>
+    <color name="primary_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_material_light">@android:color/holo_red_light</color>
+
+
+    </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@*com.google.android.apps.access.wifi.consumer:id/linear_layout_navigation_drawer" android:background="@android:color/background_dark" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:layout_gravity="center_horizontal" android:id="@*com.google.android.apps.access.wifi.consumer:id/device_loading_progressbar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" />
+    <ExpandableListView android:id="@*com.google.android.apps.access.wifi.consumer:id/expandable_list_view_device_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:groupIndicator="@null" android:childDivider="#00000000" android:divider="#00000000" android:dividerHeight="0.0dip" />
+</LinearLayout>

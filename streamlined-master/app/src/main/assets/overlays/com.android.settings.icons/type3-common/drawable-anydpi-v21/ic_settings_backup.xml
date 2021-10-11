@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?> <layer-list xmlns:android="http://schemas.android.com/apk/res/android"  > <item android:drawable="@*com.android.settings:drawable/abc_ic_star_black_36dp"/> <item android:bottom="2dp" android:left="2dp" android:right="2dp" android:top="2dp">
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="99"
+    android:viewportHeight="99">
+
+    <path
+        android:pathData="M49.5,0.5 C76.562,0.5,98.5,22.438,98.5,49.5 C98.5,76.562,76.562,98.5,49.5,98.5
+C22.438,98.5,0.5,76.562,0.5,49.5 C0.5,22.438,22.438,0.5,49.5,0.5 Z" />
+    <path
+        android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+        android:strokeWidth="6"
+        android:strokeLineJoin="round"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M39.6,46.3 C37.1,44.2,33.9,43,30.4,43 C22.4,43,15.9,49.5,15.9,57.5
+C15.9,65.5,22.4,72,30.4,72 L49.2,72 L49.2,46.2 L58.3,55.3" />
+    <path
+        android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+        android:strokeWidth="6"
+        android:strokeLineJoin="round"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M68.6,70.4 C76.6,70.4,83.1,63.9,83.1,55.9 C83.1,47.9,76.6,41.4,68.6,41.4" />
+    <path
+        android:strokeColor="@*com.android.settings:color/material_blue_grey_900"
+        android:strokeWidth="6"
+        android:strokeLineJoin="round"
+        android:strokeMiterLimit="10"
+        android:strokeLineCap="round"
+        android:pathData="M33.4,41.5 C33.4,33.5,39.9,27,47.9,27 C55.9,27,62.4,33.5,62.4,41.5" />
+</vector> </item> </layer-list>

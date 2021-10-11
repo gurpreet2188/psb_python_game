@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/holo_red_light</color>
+    <color name="colorPrimaryDark">@android:color/holo_red_light</color>
+    <color name="colorAccent">@*android:color/accent_material_light</color>
+    <color name="colorRipple">#731e1e1e</color>
+    <color name="navigationBarColor">@android:color/background_light</color>
+    <color name="navigation_bar_divider">@android:color/transparent</color>
+    <color name="statusBarColor">@android:color/holo_red_light</color>
+
+    <color name="lunchbar_background">@android:color/background_light</color>
+
+    <color name="primary_material_light">@android:color/holo_red_light</color>
+
+    <color name="bottombar_icon_inactive_tint">#641e1e1e</color>
+
+    <color name="floatui_dialog_background">@*android:color/background_material_light</color>
+
+    <color name="tab_defaults_icon_tint">@android:color/black</color>
+
+
+    <color name="splashscreen_background">@android:color/background_light</color>
+
+
+    <color name="main_screen_card_background">@android:color/background_light</color>
+
+
+    <color name="theme_information_background">@android:color/background_light</color>
+
+    <item type="drawable" name="bottombar_bar_background">@null</item>
+
+
+    <color name="window_bg">@android:color/background_light</color>
+
+
+    <color name="fab_menu_background_card">#fafafafa</color>
+    <color name="fab_background_color">@*android:color/background_material_light</color>
+    </resources>

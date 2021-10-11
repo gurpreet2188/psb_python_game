@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_dark">@*android:color/accent_material_light</color>
+    <color name="accent_material_light">@*android:color/accent_material_light</color>
+
+    <color name="background_floating_material_dark">@android:color/background_light</color>
+    <color name="background_floating_material_light">@android:color/background_light</color>
+
+    <color name="key_text_color_lxx_light">#cc1e1e1e</color>
+    <color name="key_functional_text_color_lxx_light">#cc1e1e1e</color>
+    <color name="key_text_inactive_color_lxx_light">#801e1e1e</color>
+    <color name="key_hint_letter_color_lxx_light">#801e1e1e</color>
+    <color name="language_on_spacebar_text_color_lxx_light">#b31e1e1e</color>
+    <color name="highlight_color_lxx_light">@*android:color/accent_material_light</color>
+    <color name="auto_correct_color_lxx_light">#1e1e1e</color>
+    <color name="typed_word_color_lxx_light">#d91e1e1e</color>
+    <color name="suggested_word_color_lxx_light">#b31e1e1e</color>
+    <color name="gesture_trail_color_lxx_light">@*android:color/accent_material_light</color>
+    <color name="sliding_key_input_preview_color_lxx_light">@*android:color/accent_material_light</color>
+    <color name="key_background_lxx_light">@android:color/background_light</color>
+    <color name="key_background_pressed_lxx_light">@*com.grammarly.android.keyboard:drawable/btn_keyboard_key_active_lxx_lightborder</color>
+    <color name="suggested_word_background_selected_lxx_light">#191e1e1e</color>
+    <color name="gesture_floating_preview_color_lxx_light">#e621272b</color>
+    <color name="emoji_tab_page_indicator_background_lxx_light">@android:color/background_light</color>
+
+    <color name="primary_dark_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_red_light</color>
+    <color name="primary_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_material_light">@android:color/holo_red_light</color>
+
+    <color name="primary_text_default_material_dark">#1e1e1e</color>
+    <color name="primary_text_default_material_light">#1e1e1e</color>
+    <color name="primary_text_disabled_material_dark">#4d1e1e1e</color>
+    <color name="primary_text_disabled_material_light">#a11e1e1e</color>
+
+    <color name="secondary_text_default_material_light">#d81e1e1e</color>
+    <color name="secondary_text_default_material_dark">#b31e1e1e</color>
+    <color name="secondary_text_disabled_material_dark">#361e1e1e</color>
+    <color name="secondary_text_disabled_material_light">#a11e1e1e</color>
+</resources>

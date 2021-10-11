@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="browse_index_card_elevation">0dip</dimen>
+  <dimen name="browse_index_card_elevation_activated">1.0dip</dimen>
+  <dimen name="cardview_default_elevation">0dip</dimen>
+  <dimen name="cardview_default_radius">0dip</dimen>
+  <dimen name="abc_action_bar_elevation_material">0.0dip</dimen>
+  <dimen name="bottom_sheet_elevation">0.0dip</dimen>
+  <dimen name="design_appbar_elevation">0.0dip</dimen>
+  <dimen name="design_bottom_navigation_elevation">0.0dip</dimen>
+  <dimen name="design_bottom_sheet_modal_elevation">0.0dip</dimen>
+  <dimen name="design_snackbar_elevation">0.0dip</dimen>
+  <dimen name="ink_toolbar_elevation">0.0dip</dimen>
+</resources>

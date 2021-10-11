@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:tint="@null" android:id="@*com.quoord.tapatalkpro.activity:id/splash_background_layout" android:background="@android:color/background_light" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@*com.quoord.tapatalkpro.activity:id/splash_image" android:layout_width="165.0dip" android:tint="@null" android:layout_height="165.0dip" android:src="@*com.quoord.tapatalkpro.activity:drawable/splash_logo" android:scaleType="centerCrop" />
+</LinearLayout>

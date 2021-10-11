@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@*com.google.android.apps.tachyon:color/background_floating_material_dark" />
+    <stroke android:color="@*com.google.android.apps.tachyon:color/accent_material_dark" android:width="0.7dip"/>
+</shape>

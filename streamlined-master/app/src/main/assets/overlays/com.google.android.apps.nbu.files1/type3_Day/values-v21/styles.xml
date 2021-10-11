@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Platform.V21.AppCompat.Light" parent="@android:style/Theme.Material.Light.NoActionBar">
+    <item name="android:textColorHintInverse">#c11e1e1e</item>
+    <item name="android:textColorHint">@*com.google.android.apps.nbu.files:color/abc_hint_foreground_material_light</item>
+    <item name="android:textColorLink">?android:colorAccent</item>
+    <item name="android:buttonBarStyle">?buttonBarStyle</item>
+    <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+    <item name="android:textColorLinkInverse">?android:colorAccent</item>
+</style>
+
+
+</resources>

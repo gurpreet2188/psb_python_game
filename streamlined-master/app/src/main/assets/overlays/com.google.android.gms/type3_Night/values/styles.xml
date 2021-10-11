@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BackupAlertDialog" parent="@*com.google.android.gms:style/SudAlertDialogTheme" />
+    <style name="DayNightDialogActivityStyle" parent="@*com.google.android.gms:style/DarkDialogActivityStyle" />
+    <style name="DevicesListToolbar">
+        <item name="android:background">@android:color/black</item>
+    </style>
+    <style name="OneGoogle.AccountParticleDisc.DayNight" parent="@*com.google.android.gms:style/OneGoogle.AccountParticleDisc.Dark" />
+    <style name="SetBackupAccountActivity" parent="@*com.google.android.gms:style/SudAlertDialogTheme" />
+    <style name="Sharing.ReceiveSurface" parent="@*com.google.android.gms:style/Theme.GoogleMaterial.Dark.NoActionBar.Bridge">
+        <item name="android:windowBackground">@*com.google.android.gms:color/sharing_activity_background</item>
+        <item name="android:homeAsUpIndicator">@*com.google.android.gms:drawable/quantum_gm_ic_clear_vd_theme_24</item>
+        <item name="android:colorButtonNormal">@android:color/holo_blue_bright</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@*com.google.android.gms:color/sharing_color_primary</item>
+        <item name="android:navigationBarColor">@*com.google.android.gms:color/sharing_color_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="*com.google.android.gms:colorAccent">@*com.google.android.gms:color/sharing_color_accent</item>
+        <item name="*com.google.android.gms:colorButtonNormal">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.gms:colorError">@*com.google.android.gms:color/sharing_color_error</item>
+        <item name="*com.google.android.gms:colorPrimary">@*com.google.android.gms:color/sharing_color_primary</item>
+        <item name="*com.google.android.gms:colorPrimaryDark">@*com.google.android.gms:color/sharing_color_primary</item>
+    </style>
+    <style name="Sharing.ReceiveSurface.PopupOverlay" parent="@*com.google.android.gms:style/ThemeOverlay.AppCompat.Dark" />
+    <style name="Sharing.Settings.AppBarOverlay" parent="@*com.google.android.gms:style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Sharing.Settings.EditText.Theme" parent="@*com.google.android.gms:style/Theme.AppCompat.NoActionBar">
+        <item name="*com.google.android.gms:colorAccent">@*com.google.android.gms:color/sharing_color_accent</item>
+        <item name="*com.google.android.gms:colorError">@*com.google.android.gms:color/sharing_color_error</item>
+        <item name="*com.google.android.gms:colorPrimary">@*com.google.android.gms:color/sharing_color_accent</item>
+        <item name="*com.google.android.gms:colorPrimaryDark">@*com.google.android.gms:color/sharing_color_accent</item>
+    </style>
+    <style name="Sharing.Settings.PopupOverlay" parent="@*com.google.android.gms:style/ThemeOverlay.AppCompat.Dark" />
+    <style name="Sharing.Settings.ToolbarOverlay" parent="@*com.google.android.gms:style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">@android:color/holo_blue_bright</item>
+        <item name="android:textColorSecondary">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.gms:actionMenuTextColor">@android:color/holo_blue_bright</item>
+    </style>
+    <style name="Sharing.Setup" parent="@*com.google.android.gms:style/Theme.GoogleMaterial.Dark.NoActionBar.Bridge">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:homeAsUpIndicator">@*com.google.android.gms:drawable/quantum_gm_ic_clear_vd_theme_24</item>
+        <item name="android:strokeColor">#ffa3a4a5</item>
+        <item name="android:colorButtonNormal">@android:color/holo_blue_bright</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@*com.google.android.gms:color/sharing_color_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:navigationBarDividerColor">?android:strokeColor</item>
+        <item name="*com.google.android.gms:colorAccent">@*com.google.android.gms:color/sharing_color_accent</item>
+        <item name="*com.google.android.gms:colorButtonNormal">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.gms:colorError">@*com.google.android.gms:color/sharing_color_error</item>
+        <item name="*com.google.android.gms:colorPrimary">@*com.google.android.gms:color/sharing_color_primary</item>
+        <item name="*com.google.android.gms:colorPrimaryDark">@*com.google.android.gms:color/sharing_color_primary</item>
+    </style>
+    <style name="Sharing.Setup.PopupOverlay" parent="@*com.google.android.gms:style/ThemeOverlay.AppCompat.Dark" />
+    <style name="Sharing.Setup.ToolbarOverlay" parent="@*com.google.android.gms:style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="*com.google.android.gms:actionMenuTextColor">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.gms:displayOptions">none</item>
+    </style>
+    <style name="Sharing.ShareSheet" parent="@*com.google.android.gms:style/Theme.GoogleMaterial.Dark.NoActionBar.Bridge">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:homeAsUpIndicator">@*com.google.android.gms:drawable/quantum_gm_ic_clear_vd_theme_24</item>
+        <item name="android:strokeColor">#ffa3a4a5</item>
+        <item name="android:colorButtonNormal">@android:color/holo_blue_bright</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@*com.google.android.gms:color/sharing_color_primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:navigationBarDividerColor">?android:strokeColor</item>
+        <item name="*com.google.android.gms:colorAccent">@*com.google.android.gms:color/sharing_color_accent</item>
+        <item name="*com.google.android.gms:colorButtonNormal">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.gms:colorError">@*com.google.android.gms:color/sharing_color_error</item>
+        <item name="*com.google.android.gms:colorPrimary">@*com.google.android.gms:color/sharing_color_primary</item>
+        <item name="*com.google.android.gms:colorPrimaryDark">@*com.google.android.gms:color/sharing_color_primary</item>
+    </style>
+    <style name="Sharing.ShareSheet.PopupOverlay" parent="@*com.google.android.gms:style/ThemeOverlay.AppCompat.Dark" />
+    <style name="SudThemeGlif.DayNight" parent="@*com.google.android.gms:style/SudThemeGlif" />
+    <style name="SudThemeGlifV2.DayNight" parent="@*com.google.android.gms:style/SudThemeGlifV2" />
+    <style name="SudThemeGlifV3.DayNight" parent="@*com.google.android.gms:style/SudThemeGlifV3" />
+    <style name="SudThemeMaterial.DayNight" parent="@*com.google.android.gms:style/SudThemeMaterial" />
+    <style name="SuwThemeGlif.DayNight" parent="@*com.google.android.gms:style/SuwThemeGlif" />
+    <style name="SuwThemeGlifV2.DayNight" parent="@*com.google.android.gms:style/SuwThemeGlifV2" />
+    <style name="SuwThemeGlifV3.DayNight" parent="@*com.google.android.gms:style/SuwThemeGlifV3" />
+    <style name="SuwThemeMaterial.DayNight" parent="@*com.google.android.gms:style/SuwThemeMaterial" />
+    <style name="Theme.AppCompat.DayNight" parent="@*com.google.android.gms:style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="@*com.google.android.gms:style/Theme.AppCompat" />
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="@*com.google.android.gms:style/Theme.AppCompat.Dialog" />
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="@*com.google.android.gms:style/Theme.AppCompat.Dialog.Alert" />
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="@*com.google.android.gms:style/Theme.AppCompat.NoActionBar" />
+    <style name="Theme.GoogleMaterial.DayNight.BottomSheetDialog" parent="@*com.google.android.gms:style/Theme.GoogleMaterial.Dark.BottomSheetDialog" />
+    <style name="Theme.GoogleMaterial.DayNight.Dialog" parent="@*com.google.android.gms:style/Theme.GoogleMaterial.Dark.Dialog" />
+    <style name="Theme.GoogleMaterial.DayNight.NoActionBar" parent="@*com.google.android.gms:style/Theme.GoogleMaterial.Dark.NoActionBar" />
+    <style name="Theme.Growth.DayNight" parent="@*com.google.android.gms:style/Theme.Growth.Dark" />
+    <style name="Theme_WalletP2P_Base_M2" parent="@*com.google.android.gms:style/Theme.GoogleMaterial.DayNight.Dialog" />
+    <style name="TpActivityTheme" parent="@*com.google.android.gms:style/Theme.GoogleMaterial.Dark" />
+    <style name="TpActivityTheme.NoActionBar" parent="@*com.google.android.gms:style/TpActivityTheme">
+        <item name="*com.google.android.gms:windowActionBar">false</item>
+        <item name="*com.google.android.gms:windowNoTitle">true</item>
+    </style>
+    <style name="TpAlertDialogActivity" parent="@*com.google.android.gms:style/Theme.GoogleMaterial.Dark.Dialog">
+        <item name="android:alertDialogTheme">@*com.google.android.gms:style/TpAlertDialog</item>
+        <item name="*com.google.android.gms:materialButtonStyle">@*com.google.android.gms:style/Widget.GoogleMaterial.Button</item>
+        <item name="*com.google.android.gms:windowNoTitle">true</item>
+    </style>
+    <style name="TpBottomSheetDialogTheme" parent="@*com.google.android.gms:style/Theme.GoogleMaterial.Dark.BottomSheetDialog">
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    <style name="TpThemeNoActionBar" parent="@*com.google.android.gms:style/Theme.GoogleMaterial.Dark.NoActionBar" />
+    <style name="common.Widget.Base.ActionBar.GoogleSettings" parent="@*com.google.android.gms:style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="common.Widget.Base.ActionBar.Style.GoogleSettings" parent="@*com.google.android.gms:style/Widget.AppCompat.ActionBar.Solid" />
+    <style name="common.Widget.Base.SwitchBar.GoogleSettings" parent="@*com.google.android.gms:style/common.Widget.SwitchBar">
+        <item name="*com.google.android.gms:colorAccent">@*com.google.android.gms:color/googlesettings_color_accent</item>
+        <item name="*com.google.android.gms:colorControlHighlight">@*com.google.android.gms:color/ripple_material_dark</item>
+        <item name="*com.google.android.gms:textColorOff">@*com.google.android.gms:color/material_grey_black_1000</item>
+        <item name="*com.google.android.gms:textColorOn">@*com.google.android.gms:color/material_grey_black_1000</item>
+    </style>
+    <style name="gf_DayNightActivityStyle" parent="@*com.google.android.gms:style/gf_DarkActivityStyle" />
+    <style name="gh_ChatConversationDayNightActivityStyle" parent="@*com.google.android.gms:style/gh_ChatConversationDarkActivityStyle" />
+    <style name="gh_ChatRequestFormDayNightActivityStyle" parent="@*com.google.android.gms:style/gh_ChatRequestFormDarkActivityStyle" />
+    <style name="gh_DayNightActivityStyle" parent="@*com.google.android.gms:style/gh_DarkActivityStyle" />
+    <style name="gh_NoActionBarDayNightActivityStyle" parent="@*com.google.android.gms:style/gh_NoActionBarDarkActivityStyle" />
+</resources>

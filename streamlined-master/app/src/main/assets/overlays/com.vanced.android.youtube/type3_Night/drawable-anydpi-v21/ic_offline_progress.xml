@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="600">
+        <bitmap android:gravity="center" android:src="@*com.vanced.android.youtube:drawable/ic_offline_progress_1" android:tint="@android:color/holo_blue_bright" android:tintMode="src_atop" />
+    </item>
+    <item android:duration="600">
+        <bitmap android:gravity="center" android:src="@*com.vanced.android.youtube:drawable/ic_offline_progress_2" android:tint="@android:color/holo_blue_bright" android:tintMode="src_atop" />
+    </item>
+    <item android:duration="600">
+        <bitmap android:gravity="center" android:src="@*com.vanced.android.youtube:drawable/ic_offline_progress_3" android:tint="@android:color/holo_blue_bright" android:tintMode="src_atop" />
+    </item>
+    <item android:duration="600">
+        <bitmap android:gravity="center" android:src="@*com.vanced.android.youtube:drawable/ic_offline_progress_4" android:tint="@android:color/holo_blue_bright" android:tintMode="src_atop" />
+    </item>
+    <item android:duration="600">
+        <bitmap android:gravity="center" android:src="@*com.vanced.android.youtube:drawable/ic_offline_progress_5" android:tint="@android:color/holo_blue_bright" android:tintMode="src_atop" />
+    </item>
+    <item android:duration="600">
+        <bitmap android:gravity="center" android:src="@*com.vanced.android.youtube:drawable/ic_offline_progress_6" android:tint="@android:color/holo_blue_bright" android:tintMode="src_atop" />
+    </item>
+</animation-list>

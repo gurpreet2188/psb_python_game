@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme" parent="@android:style/Theme.Material">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:statusBarColor">@android:color/holo_blue_light</item>
+    </style>
+
+    <style name="WidgetHeader">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:background">@android:color/holo_blue_light</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:lines">1</item>
+    </style>
+
+    <style name="Card" parent="@*com.google.android.apps.access.wifi.consumer:style/CardView">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">2.0dip</item>
+        <item name="android:layout_marginTop">0.0dip</item>
+        <item name="android:layout_marginRight">2.0dip</item>
+        <item name="android:layout_marginBottom">8.0dip</item>
+        <item name="*com.google.android.apps.access.wifi.consumer:cardBackgroundColor">@android:color/holo_purple</item>
+    </style>
+
+    <style name="DateSelectorLayout">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">?android:selectableItemBackground</item>
+        <item name="android:paddingLeft">@*com.google.android.apps.access.wifi.consumer:dimen/activity_horizontal_margin</item>
+        <item name="android:paddingRight">@*com.google.android.apps.access.wifi.consumer:dimen/activity_horizontal_margin</item>
+        <item name="android:clickable">true</item>
+        <item name="android:tint">#d8ffffff</item>
+        <item name="android:minHeight">@*com.google.android.apps.access.wifi.consumer:dimen/network_usage_selector_section_height</item>
+    </style>
+
+    <style name="NetworkDetailsDivider">
+        <item name="android:background">#11ffffff</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1.0dip</item>
+    </style>
+
+    <style name="NetworkCheckLauncherDescription">
+        <item name="android:textSize">@*com.google.android.apps.access.wifi.consumer:dimen/network_check_launcher_description_text</item>
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="NetworkCheckLauncherHeading">
+        <item name="android:textSize">@*com.google.android.apps.access.wifi.consumer:dimen/network_check_launcher_heading_text</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="SpeedTestStatus">
+        <item name="android:textSize">@*com.google.android.apps.access.wifi.consumer:dimen/speed_test_status_text</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Text.QrOverlayHeader" parent="@*com.google.android.apps.access.wifi.consumer:style/Text">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:lineSpacingMultiplier">1.2</item>
+    </style>
+
+    <style name="Text.QrOverlaySubheader" parent="@*com.google.android.apps.access.wifi.consumer:style/Text">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="Text.SpeedTestComponent" parent="@*com.google.android.apps.access.wifi.consumer:style/Text">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="Text.SpeedTestToolbar" parent="@*com.google.android.apps.access.wifi.consumer:style/Text">
+        <item name="android:textSize">@*com.google.android.apps.access.wifi.consumer:dimen/speed_test_toolbar_title_text</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="CloudUsageStatsToggle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:layout_gravity">center|right</item>
+        <item name="android:layout_marginLeft">@*com.google.android.apps.access.wifi.consumer:dimen/l_space</item>
+        <item name="android:layout_marginTop">@*com.google.android.apps.access.wifi.consumer:dimen/m_space</item>
+        <item name="android:layout_marginRight">@*com.google.android.apps.access.wifi.consumer:dimen/l_space</item>
+        <item name="android:layout_marginBottom">@*com.google.android.apps.access.wifi.consumer:dimen/m_space</item>
+    </style>
+</resources>

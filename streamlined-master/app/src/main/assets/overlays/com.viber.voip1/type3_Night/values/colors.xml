@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- app compat -->
+
+
+    <color name="accent_material_dark">@android:color/holo_blue_bright</color>
+    <color name="accent_material_light">@android:color/holo_blue_bright</color>
+
+    <color name="background_floating_material_dark">@android:color/holo_purple</color>
+    <color name="background_floating_material_light">@android:color/holo_purple</color>
+    <color name="background_material_dark">@android:color/background_dark</color>
+    <color name="background_material_light">@android:color/background_dark</color>
+    <color name="tooltip_background_dark">@android:color/holo_purple</color>
+    <color name="tooltip_background_light">@android:color/holo_purple</color>
+    <color name="cardview_dark_background">@android:color/holo_purple</color>
+    <color name="cardview_light_background">@android:color/holo_purple</color>
+    <color name="cardview_shadow_end_color">#00ffffff</color>
+    <color name="cardview_shadow_start_color">#00ffffff</color>
+    <!--
+        <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
+        <color name="bright_foreground_disabled_material_light">#80ffffff</color>
+        <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
+        <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color> -->
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+    <color name="bright_foreground_material_light">@android:color/black</color>
+
+    <color name="button_material_dark">@android:color/holo_purple</color>
+    <color name="button_material_light">@android:color/holo_purple</color>
+
+    <color name="foreground_material_dark">@android:color/white</color>
+    <color name="foreground_material_light">@android:color/black</color>
+
+    <color name="primary_dark_material_dark">@android:color/holo_blue_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_blue_light</color>
+    <color name="primary_material_dark">@android:color/holo_blue_light</color>
+    <color name="primary_material_light">@android:color/holo_blue_light</color>
+
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#ffffff</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="primary_text_disabled_material_light">#a1ffffff</color>
+
+    <color name="secondary_text_default_material_light">#d8ffffff</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#a1ffffff</color>
+
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="highlighted_text_material_light">#66009688</color>
+
+    <color name="ripple_material_dark">@android:color/holo_purple</color>
+    <color name="ripple_material_light">@android:color/holo_purple</color>
+
+    <color name="switch_thumb_disabled_material_dark">#a1ffffff</color>
+    <color name="switch_thumb_disabled_material_light">#a1ffffff</color>
+    <color name="switch_thumb_normal_material_dark">@android:color/holo_blue_bright</color>
+    <color name="switch_thumb_normal_material_light">@android:color/holo_blue_bright</color>
+
+
+    <!-- app specifics -->
+
+    <color name="main">@android:color/holo_blue_light</color>
+    <color name="main_dark">@android:color/holo_blue_light</color>
+    <color name="main_20">#33ffffff</color>
+    <color name="main_40">#76ffffff</color>
+    <color name="main_50">#88ffffff</color>
+
+    <color name="main_background">@android:color/background_dark</color>
+    <color name="main_background_40">@android:color/holo_purple</color>
+    <color name="main_background_60">@android:color/holo_purple</color>
+    <color name="main_background_95">@android:color/holo_purple</color>
+    <color name="market_background">@android:color/background_dark</color>
+    <color name="list_background">@android:color/background_dark</color>
+    <color name="list_item_pressed">@android:color/holo_purple</color>
+    <color name="list_item_pressed_30">@android:color/holo_purple</color>
+    <color name="list_item_pressed_ripple">@android:color/holo_purple</color>
+    <color name="list_item_selected">@android:color/holo_purple</color>
+    <color name="sticker_menu_add_button_pressed">@android:color/holo_purple</color>
+    <color name="sticker_pack_preview_info">#c1ffffff</color>
+    <color name="sticker_pack_preview_name">#ffffffff</color>
+    <color name="stickers_bg">@android:color/background_dark</color>
+    <color name="public_account_create_third_screen_background">@android:color/background_dark</color>
+    <color name="registration_bg">@android:color/background_dark</color>
+    <color name="viber_connect_background">@android:color/background_dark</color>
+    <color name="more_menu_bg">@android:color/holo_purple</color>
+
+    <color name="main_text">#ffffffff</color>
+    <color name="main_text_40">#76ffffff</color>
+    <color name="main_text_50">#88ffffff</color>
+    <color name="solid">#aaaaaa</color>
+    <color name="solid_10">#1aaaaaaa</color>
+    <color name="solid_12">#20aaaaaa</color>
+    <color name="solid_20">#33aaaaaa</color>
+    <color name="solid_25">#40aaaaaa</color>
+    <color name="solid_30">#4daaaaaa</color>
+    <color name="solid_35">#59aaaaaa</color>
+    <color name="solid_40">#66aaaaaa</color>
+    <color name="solid_45">#73aaaaaa</color>
+    <color name="solid_50">#80aaaaaa</color>
+    <color name="solid_55">#8caaaaaa</color>
+    <color name="solid_60">#99aaaaaa</color>
+    <color name="solid_65">#a6aaaaaa</color>
+    <color name="solid_70">#b3aaaaaa</color>
+    <color name="solid_75">#bfaaaaaa</color>
+    <color name="solid_80">#ccaaaaaa</color>
+    <color name="solid_92">#ebaaaaaa</color>
+    <color name="solid_99">#feaaaaaa</color>
+    <color name="header">@android:color/background_dark</color>
+    <color name="link_text">@android:color/holo_blue_bright</color>
+    <color name="link_text_30">#48ffffff</color>
+    <color name="link_text_40">#76ffffff</color>
+    <color name="link_text_50">#88ffffff</color>
+    <color name="contacts_header_label">#ffffffff</color>
+    <color name="light_grey">#fafafa</color>
+
+    <color name="sub_text">#d8ffffff</color>
+    <color name="sub_text_40">#76ffffff</color>
+    <color name="sub_text_50">#88ffffff</color>
+    <color name="sub_text_70">#b3ffffff</color>
+
+    <color name="gray_separator">#aaaaaa</color>
+    <color name="dividers">@android:color/holo_purple</color>
+    <color name="negative">#ffffff</color>
+
+    <color name="message_balloon_error_regular">#ff00</color>
+    <color name="message_balloon_error_selected">#bb000000</color>
+    <color name="message_balloon_incoming_regular">#dd000000</color>
+    <color name="message_balloon_incoming_selected">#000000</color>
+    <color name="message_balloon_outgoing_regular">#dd000000</color>
+    <color name="message_balloon_outgoing_selected">#000000</color>
+    <color name="message_text_color_with_forwarded_info">#ffffffff</color>
+    </resources>

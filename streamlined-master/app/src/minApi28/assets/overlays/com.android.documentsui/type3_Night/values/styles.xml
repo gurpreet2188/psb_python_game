@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBarPopupTheme" parent="@*android:style/ThemeOverlay.Material" />
+
+    <style name="DialogWhenReallyLarge" parent="@android:style/Theme.Material">
+        <item name="android:elevation">0.0dip</item>
+        <item name="android:textColorPrimary">@android:color/holo_green_light</item>
+        <item name="android:textColorSecondary">@android:color/holo_green_dark</item>
+    </style>
+
+    <style name="ActionBarTheme" parent="@*android:style/ThemeOverlay.Material.Dark.ActionBar">
+        <item name="android:elevation">0.0dip</item>
+    </style>
+</resources>

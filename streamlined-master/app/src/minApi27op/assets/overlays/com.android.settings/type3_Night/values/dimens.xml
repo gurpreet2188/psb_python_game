@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dashboard_tile_minimum_height">68.0dip</dimen>
+    <dimen name="dashboard_category_height">48.0dip</dimen>
+    <dimen name="dashboard_padding_start">10.0dip</dimen>
+    <dimen name="dashboard_padding_end">10.0dip</dimen>
+    <dimen name="dashboard_padding_top">10.0dip</dimen>
+    <dimen name="dashboard_padding_bottom">10.0dip</dimen>
+    <dimen name="dashboard_header_margin_start">0dip</dimen>
+    <dimen name="dashboard_header_margin_end">10.0dip</dimen>
+    <dimen name="dashboard_category_padding_start">10.0dip</dimen>
+    <dimen name="dashboard_category_padding_end">10.0dip</dimen>
+    <dimen name="dashboard_category_elevation">0.0dip</dimen>
+</resources>

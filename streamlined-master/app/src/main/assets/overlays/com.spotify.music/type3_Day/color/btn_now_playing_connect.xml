@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/com.spotify.music">
+    <item android:color="@*com.spotify.music:color/glue_green" app:devices_available="true" app:remote_active="true" />
+    <item android:state_pressed="false" android:color="@*com.spotify.music:color/glue_green" app:devices_available="true" app:remote_active="true" />
+    <item android:state_pressed="true" android:color="@*com.spotify.music:color/glue_white_70" app:devices_available="true" app:remote_active="false" />
+    <item android:state_pressed="false" android:color="#1e1e1e" app:devices_available="true" app:remote_active="false" />
+    <item android:color="@*com.spotify.music:color/glue_gray_70" app:devices_available="false" />
+    <item android:color="#1e1e1e" />
+</selector>

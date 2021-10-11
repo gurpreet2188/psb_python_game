@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_switcher_shadow_height">0.0dip</dimen>
+
+
+    <color name="title_color">#1e1e1e</color>
+    <color name="status_bar_background">@android:color/holo_red_light</color>
+    <color name="action_bar_semi_transparent_white">@android:color/holo_red_light</color>
+    <color name="status_bar_background_light_semitransparent">@android:color/holo_red_light</color>
+
+    <color name="border_color">#00cccccc</color>
+    <color name="grey_9">#1e1e1e</color>
+    <color name="grey_9_70_transparent">#001e1e1e</color>
+    <color name="grey_9_30_transparent">#001e1e1e</color>
+    <color name="grey_8">#1e1e1e</color>
+    <color name="grey_7">#1e1e1e</color>
+    <color name="grey_7_75_transparent">#b1e1e1ef</color>
+    <color name="grey_6">#1e1e1e</color>
+    <color name="grey_5">#d81e1e1e</color>
+    <color name="grey_4">#1e1e1e</color>
+    <color name="grey_3">#c11e1e1e</color>
+    <color name="grey_2">#001e1e1e</color>
+    <color name="grey_2_70_transparent">#001e1e1e</color>
+    <color name="grey_2_30_transparent">#001e1e1e</color>
+    <color name="grey_0">@android:color/background_light</color>
+
+    <color name="white_opaque">@android:color/background_light</color>
+
+    <color name="white">@android:color/background_light</color>
+    <color name="black">#1e1e1e</color>
+    <color name="black_10_transparent">#1a000000</color>
+    <color name="black_15_transparent">#26000000</color>
+    <color name="black_20_transparent">#33000000</color>
+    <color name="black_25_transparent">#40000000</color>
+    <color name="black_30_transparent">#4d000000</color>
+    <color name="black_40_transparent">#66000000</color>
+    <color name="black_50_transparent">#80000000</color>
+    <color name="black_60_transparent">#96000000</color>
+    <color name="black_65_transparent">#a6000000</color>
+    <color name="black_80_transparent">#cd000000</color>
+    <color name="black_90_transparent">#e6000000</color>
+    <color name="black_95_transparent">#f2000000</color>
+
+    <color name="pill_background">@android:color/background_light</color>
+    <color name="pill_background_pressed">@*android:color/background_material_light</color>
+    <color name="pill_background_outline">@android:color/background_light</color>
+    <color name="pill_background_outline_pressed">@*android:color/background_material_light</color>
+
+    <color name="purple_9">@*android:color/accent_material_light</color>
+    <color name="purple_8">@*android:color/accent_material_light</color>
+    <color name="purple_7">@*android:color/accent_material_light</color>
+    <color name="purple_6">@*android:color/accent_material_light</color>
+    <color name="purple_5">@*android:color/accent_material_light</color>
+    <color name="purple_4">@*android:color/accent_material_light</color>
+    <color name="purple_3">@*android:color/accent_material_light</color>
+    <color name="purple_2">@*android:color/accent_material_light</color>
+    <color name="purple_1">@*android:color/accent_material_light</color>
+    <color name="purple_0">@*android:color/accent_material_light</color>
+    <color name="blue_9">#1e1e1e</color>
+    <color name="blue_8">#1e1e1e</color>
+    <color name="blue_7">#1e1e1e</color>
+    <color name="blue_6">#1e1e1e</color>
+    <color name="blue_5">#c11e1e1e</color>
+    <color name="blue_5_70_transparent">#b33897f0</color>
+    <color name="blue_5_30_transparent">#4d3897f0</color>
+    <color name="blue_4">@*android:color/accent_material_light</color>
+    <color name="blue_3">@*android:color/accent_material_light</color>
+    <color name="blue_2">@*android:color/accent_material_light</color>
+    <color name="blue_1">@*android:color/accent_material_light</color>
+    <color name="blue_0">@*android:color/accent_material_light</color>
+</resources>

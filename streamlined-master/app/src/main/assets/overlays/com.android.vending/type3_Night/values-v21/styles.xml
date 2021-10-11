@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PlayDrawerProfileNameText" >
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="PlayDrawerProfileEmailText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <!--<style name="DarkerMedium" parent="@android:style/TextAppearance.DeviceDefault.Medium">-->
+        <!--<item name="android:textSize">18.0sp</item>-->
+        <!--<item name="android:textColor">?android:textColorPrimary</item>-->
+    <!--</style>-->
+
+
+
+    <!--<style name="PlayRatingBarSmall">-->
+        <!--<item name="android:tint">#ffffff</item>-->
+        <!--<item name="android:color">#ffffff</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="*com.android.vending:gap">@*com.android.vending:dimen/play_star_rating_bar_small_gap</item>-->
+        <!--<item name="*com.android.vending:star_bg_color">@*com.android.vending:color/play_fg_secondary_half_transparent</item>-->
+        <!--<item name="*com.android.vending:star_color">#ffffff</item>-->
+        <!--<item name="*com.android.vending:star_height">@*com.android.vending:dimen/play_star_rating_bar_small_height</item>-->
+    <!--</style>-->
+
+    <style name="SettingsRedesignPreferenceText">
+        <item name="android:textSize">17sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <!--<style name="HighlightBannerOverlaySubtitle">-->
+        <!--<item name="android:textSize">16.0sp</item>-->
+        <!--<item name="android:textStyle">normal</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:ellipsize">marquee</item>-->
+        <!--<item name="android:paddingBottom">16.0dip</item>-->
+        <!--<item name="android:layout_width">fill_parent</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:maxLines">1</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+        <!--<item name="android:shadowColor">#2affffff</item>-->
+        <!--<item name="android:shadowDy">1.0</item>-->
+        <!--<item name="android:shadowRadius">3.0</item>-->
+    <!--</style>-->
+
+    <!--<style name="HighlightBannerOverlayTitle">-->
+        <!--<item name="android:textSize">18.0sp</item>-->
+        <!--<item name="android:textStyle">normal</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:ellipsize">marquee</item>-->
+        <!--<item name="android:layout_width">fill_parent</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:maxLines">1</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+        <!--<item name="android:shadowColor">#2affffff</item>-->
+        <!--<item name="android:shadowDy">1.0</item>-->
+        <!--<item name="android:shadowRadius">5.0</item>-->
+    <!--</style>-->
+
+    <!--<style name="PlayDrawerSelectedText" parent="@*com.android.vending:style/PlayDrawerBaseText">-->
+        <!--<item name="android:textStyle">bold</item>-->
+        <!--<item name="android:background">#61ffffff</item>-->
+    <!--</style>-->
+
+    <!--<style name="Base.Widget.AppCompat.DrawerArrowToggle.Common" parent="">-->
+        <!--<item name="android:color">#ffffff</item>-->
+        <!--<item name="android:tint">#ffffff</item>-->
+        <!--<item name="*com.android.vending:color">#ffffff</item>-->
+        <!--<item name="*com.android.vending:spinBars">true</item>-->
+        <!--<item name="*com.android.vending:arrowHeadLength">8.0dip</item>-->
+        <!--<item name="*com.android.vending:arrowShaftLength">16.0dip</item>-->
+        <!--<item name="*com.android.vending:thickness">2.0dip</item>-->
+    <!--</style>-->
+
+    <!--<style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">-->
+        <!--<item name="android:navigationBarColor">@android:color/background_dark</item>-->
+        <!--<item name="android:textColorPrimary">#ffffff</item>-->
+        <!--<item name="android:textColorSecondary">#d8ffffff</item>-->
+        <!--<item name="android:textColorHint">#515151</item>-->
+       <!--&lt;!&ndash; <item name="android:textColor">#1e1e1e</item> &ndash;&gt;-->
+        <!--<item name="android:colorBackgroundFloating">@android:color/holo_purple</item>-->
+        <!--<item name="android:windowBackground">@android:color/background_dark</item>-->
+        <!--<item name="android:windowNoTitle">true</item>-->
+        <!--<item name="android:textColorLink">@android:color/holo_blue_bright</item>-->
+        <!--<item name="android:windowActionBar">false</item>-->
+        <!--<item name="android:buttonBarStyle">?buttonBarStyle</item>-->
+        <!--<item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>-->
+        <!--<item name="android:textColorLinkInverse">?android:colorAccent</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="Play_DetailsPage_ActionButton" parent="@*com.android.vending:style/PlayMediumPlainText">-->
+        <!--<item name="android:backgroundTint">@android:color/holo_purple</item>-->
+        <!--<item name="android:textSize">@*com.android.vending:dimen/play_price_small_size</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:gravity">center</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:minWidth">@*com.android.vending:dimen/standard_button_minwidth</item>-->
+        <!--<item name="android:minHeight">@*com.android.vending:dimen/details_button_small_height</item>-->
+        <!--<item name="android:layout_weight">1.0</item>-->
+        <!--<item name="*com.android.vending:action_xpadding">16.0dip</item>-->
+        <!--<item name="*com.android.vending:action_top_padding">7.0dip</item>-->
+        <!--<item name="*com.android.vending:action_bottom_padding">8.0dip</item>-->
+    <!--</style>-->
+
+    <!--<style name="Play_DetailsPage_ActionButtonV2" parent="@*com.android.vending:style/Play_DetailsPage_ActionButton">-->
+        <!--<item name="android:minWidth">@*com.android.vending:dimen/standard_button_minwidth_v2</item>-->
+        <!--<item name="android:minHeight">@*com.android.vending:dimen/standard_button_minheight</item>-->
+        <!--<item name="android:backgroundTint">@android:color/holo_purple</item>-->
+    <!--</style>-->
+
+    <!--<style name="FinskyInstrumentManagerFormTitleTextAppearance" parent="@*com.android.vending:style/PlayMediumBoldText">-->
+        <!--<item name="android:textSize">@*com.android.vending:dimen/play_purchase_secondary_size</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+    <!--</style>-->
+
+    <!--<style name="OnboardTab" parent="@*com.android.vending:style/PlayMediumBoldText">-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:gravity">center</item>-->
+        <!--<item name="android:textAllCaps">true</item>-->
+    <!--</style>-->
+
+
+
+    <!--<style name="PlayAdLabelBaseline" parent="@*com.android.vending:style/PlayMediumPlainText">-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:background">@*com.android.vending:drawable/play_ad_label</item>-->
+        <!--<item name="android:paddingLeft">3.0dip</item>-->
+        <!--<item name="android:paddingTop">0.0dip</item>-->
+        <!--<item name="android:paddingRight">3.0dip</item>-->
+        <!--<item name="android:paddingBottom">0.0dip</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="PlayCardLabel" parent="@*com.android.vending:style/PlayPlainText">-->
+        <!--<item name="android:textSize">@*com.android.vending:dimen/play_medium_size</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:gravity">center</item>-->
+        <!--<item name="android:background">@null</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:minWidth">0.0dip</item>-->
+        <!--<item name="android:minHeight">0.0dip</item>-->
+        <!--<item name="android:maxLines">1</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+        <!--<item name="android:drawablePadding">4.0dip</item>-->
+    <!--</style>-->
+
+    <!--<style name="PlayClusterAdLabel" parent="@*com.android.vending:style/PlayMediumPlainText">-->
+        <!--<item name="android:textSize">11.0sp</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:gravity">center</item>-->
+        <!--<item name="android:background">@*com.android.vending:drawable/play_ad_label</item>-->
+        <!--<item name="android:paddingTop">1.0dip</item>-->
+        <!--<item name="android:paddingBottom">1.0dip</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+        <!--<item name="android:includeFontPadding">false</item>-->
+    <!--</style>-->
+
+    <!--<style name="PlayClusterMore" parent="@*com.android.vending:style/PlayMediumBoldText">-->
+        <!--<item name="android:textSize">@*com.android.vending:dimen/play_cluster_header_more_size</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:paddingLeft">@*com.android.vending:dimen/play_cluster_header_more_xpadding</item>-->
+        <!--<item name="android:paddingTop">@*com.android.vending:dimen/play_cluster_header_more_top_padding</item>-->
+        <!--<item name="android:paddingRight">@*com.android.vending:dimen/play_cluster_header_more_xpadding</item>-->
+        <!--<item name="android:paddingBottom">@*com.android.vending:dimen/play_cluster_header_more_bottom_padding</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+        <!--<item name="*com.android.vending:playCardBackgroundColor">@*com.android.vending:color/play_card_light_background</item>-->
+        <!--<item name="*com.android.vending:playCardCornerRadius">@*com.android.vending:dimen/play_action_button_corner</item>-->
+        <!--<item name="*com.android.vending:playCardElevation">1.0dip</item>-->
+        <!--<item name="*com.android.vending:playCardInset">0.0dip</item>-->
+        <!--<item name="*com.android.vending:playCardClipToOutline">true</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="Play_MyApps_ActionButton" parent="@*com.android.vending:style/PlayMediumPlainText">-->
+        <!--<item name="android:textSize">@*com.android.vending:dimen/play_price_small_size</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:gravity">center</item>-->
+        <!--<item name="android:layout_margin">@*com.android.vending:dimen/play_card_myapps_inset_margin</item>-->
+        <!--<item name="android:minWidth">@*com.android.vending:dimen/play_card_myapps_action_button_width_min</item>-->
+        <!--<item name="android:minHeight">@*com.android.vending:dimen/play_card_myapps_action_button_height_min</item>-->
+        <!--<item name="android:layout_weight">1.0</item>-->
+        <!--<item name="*com.android.vending:action_xpadding">12.0dip</item>-->
+        <!--<item name="*com.android.vending:action_top_padding">0.0dip</item>-->
+        <!--<item name="*com.android.vending:action_bottom_padding">0.0dip</item>-->
+    <!--</style>-->
+
+    <!--<style name="QuicklinksPillTitle" parent="@*com.android.vending:style/PlayCardAction">-->
+        <!--<item name="android:textColor">#1e1e1e</item>-->
+        <!--<item name="android:gravity">center</item>-->
+        <!--<item name="android:paddingLeft">16.0dip</item>-->
+        <!--<item name="android:paddingTop">8.0dip</item>-->
+        <!--<item name="android:paddingRight">16.0dip</item>-->
+        <!--<item name="android:paddingBottom">8.0dip</item>-->
+        <!--<item name="android:maxLines">1</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+    <!--</style>-->
+
+    <!--<style name="TagLinksRectangleTitle" parent="@*com.android.vending:style/PlayPlainText">-->
+        <!--<item name="android:textSize">16.0sp</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:gravity">center</item>-->
+        <!--<item name="android:paddingLeft">12.0dip</item>-->
+        <!--<item name="android:paddingTop">12.0dip</item>-->
+        <!--<item name="android:paddingRight">12.0dip</item>-->
+        <!--<item name="android:paddingBottom">12.0dip</item>-->
+        <!--<item name="android:maxLines">1</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+        <!--<item name="android:drawablePadding">8.0dip</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="BundleInstallPreviewText" parent="@*com.android.vending:style/PlayPlainText">-->
+        <!--<item name="android:textSize">13.0sp</item>-->
+        <!--<item name="android:textStyle">bold</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:paddingTop">8.0dip</item>-->
+        <!--<item name="android:paddingBottom">8.0dip</item>-->
+        <!--<item name="android:focusable">true</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:layout_margin">5.0dip</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="DiscoveryRatingBar">-->
+        <!--<item name="android:tint">#ffffff</item>-->
+        <!--<item name="android:color">#ffffff</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="*com.android.vending:star_height">@*com.android.vending:dimen/discovery_badge_rating_bar_height</item>-->
+        <!--<item name="*com.android.vending:star_color">#ffffff</item>-->
+        <!--<item name="*com.android.vending:star_bg_color">#66ffffff</item>-->
+        <!--<item name="*com.android.vending:gap">@*com.android.vending:dimen/discovery_badge_rating_bar_star_gap</item>-->
+    <!--</style>-->
+
+    <!--<style name="FlatCardLabel" parent="@*com.android.vending:style/PlayPlainText">-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:gravity">center</item>-->
+        <!--<item name="android:background">@null</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:minWidth">0.0dip</item>-->
+        <!--<item name="android:minHeight">0.0dip</item>-->
+        <!--<item name="android:maxLines">1</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+        <!--<item name="android:drawablePadding">4.0dip</item>-->
+    <!--</style>-->
+
+    <!--<style name="FlatClusterMore" parent="@*com.android.vending:style/FlatMediumText">-->
+        <!--<item name="android:textSize">@*com.android.vending:dimen/flat_cluster_header_more_size</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:layout_width">wrap_content</item>-->
+        <!--<item name="android:layout_height">wrap_content</item>-->
+        <!--<item name="android:singleLine">true</item>-->
+        <!--<item name="*com.android.vending:playCardBackgroundColor">@*com.android.vending:color/play_card_light_background</item>-->
+        <!--<item name="*com.android.vending:playCardCornerRadius">@*com.android.vending:dimen/play_action_button_corner</item>-->
+        <!--<item name="*com.android.vending:playCardElevation">1.0dip</item>-->
+        <!--<item name="*com.android.vending:playCardInset">0.0dip</item>-->
+        <!--<item name="*com.android.vending:playCardClipToOutline">true</item>-->
+    <!--</style>-->
+
+    <!--<style name="GiftEmailTitleText">-->
+        <!--<item name="android:textSize">@*com.android.vending:dimen/play_purchase_title_size</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+    <!--</style>-->
+
+    <!--<style name="FinskyInstrumentManagerSecondaryPositiveButton" parent="@*com.android.vending:style/Widget.AppCompat.Button.ButtonBar.AlertDialog">-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+    <!--</style>-->
+
+
+
+    <!--<style name="RestoreCardTitle" parent="@*com.android.vending:style/PlayEduCardTitle">-->
+        <!--<item name="android:textSize">@*com.android.vending:dimen/restore_card_title_size</item>-->
+        <!--<item name="android:textStyle">normal</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:paddingLeft">@*com.android.vending:dimen/restore_card_text_side_padding</item>-->
+        <!--<item name="android:paddingRight">@*com.android.vending:dimen/restore_card_text_side_padding</item>-->
+    <!--</style>-->
+
+    <style name="AccountPaymentMethodsIcon">
+        <item name="android:tint">@android:color/holo_blue_bright</item>
+        <item name="android:layout_width">32.0dip</item>
+        <item name="android:layout_height">32.0dip</item>
+        <item name="android:layout_marginLeft">20.0dip</item>
+        <item name="android:layout_marginRight">20.0dip</item>
+    </style>
+
+    <style name="RetailModeText">
+        <item name="android:textSize">@*com.android.vending:dimen/retail_mode_body_text_size</item>
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:lineSpacingMultiplier">@*com.android.vending:dimen/retail_mode_text_line_spacing</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="RetailModeTitleText">
+        <item name="android:textSize">@*com.android.vending:dimen/retail_mode_title_text_size</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:lineSpacingMultiplier">@*com.android.vending:dimen/retail_mode_title_line_spacing</item>
+        <item name="android:fontFamily">google-sans-medium</item>
+    </style>
+
+    <style name="VisReOverride">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="*com.android.vending:cluster_header_bottom_margin">@*com.android.vending:dimen/medium_typography_padding</item>
+        <item name="*com.android.vending:forceAllCapsForButtonAndTabLabels">false</item>
+        <item name="*com.android.vending:headlineFont">@*com.android.vending:font/google_sans</item>
+        <item name="*com.android.vending:headlineFontMedium">@*com.android.vending:font/google_sans_medium</item>
+        <item name="*com.android.vending:playCardCornerRadius">0.0dip</item>
+        <item name="*com.android.vending:playCardElevation">0.0dip</item>
+        <item name="*com.android.vending:play_main_background">@android:color/background_dark</item>
+        <item name="*com.android.vending:visde_active">true</item>
+    </style>
+
+    <style name="TextStyle.Replay.Headline.6" parent="@*com.android.vending:style/TextAppearance.GoogleMaterial.Headline6">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:lineSpacingExtra">2.0sp</item>
+        <item name="android:fontFamily">roboto-regular</item>
+        <item name="*com.android.vending:fontFamily">roboto-regular</item>
+    </style>
+
+    <style name="PlayInstalledAppsToggle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="*com.android.vending:colorSwitchThumbNormal">#ffffff</item>
+    </style>
+
+    <style name="Theme.InstrumentManager.Light" parent="@*com.android.vending:style/Theme.InstrumentManager"/>
+    <style name="Theme.InstrumentManager.SetupWizard.Light" parent="@*com.android.vending:style/Theme.InstrumentManager.SetupWizard"/>
+
+    <!--<style name="Widget.Support.CoordinatorLayout" parent="@android:style/Widget">-->
+        <!--<item name="android:shadowColor">#ffffff</item>-->
+        <!--<item name="android:shadowRadius">2</item>-->
+        <!--<item name="android:shadowDy">2</item>-->
+        <!--<item name="android:shadowDx">2</item>-->
+        <!--<item name="*com.android.vending:statusBarBackground">#ff000000</item>-->
+        <!--<item name="android:windowBackground">@android:color/white</item>-->
+        <!--<item name="android:backgroundTint">#ffffff</item>-->
+        <!--<item name="android:background">#ffffff</item>-->
+    <!--</style>-->
+
+    <style name="BottomSheetDialog" parent="@*com.android.vending:style/FinskyTheme">
+        <!--<item name="android:shadowColor">#ffffff</item>-->
+        <!--<item name="android:shadowRadius">2</item>-->
+        <!--<item name="android:shadowDy">2</item>-->
+        <!--<item name="android:shadowDx">2</item>-->
+        <!--<item name="android:textColor">#ffffff</item>-->
+        <!--<item name="android:textColorPrimary">#ffffff</item>-->
+        <!--<item name="android:textColorSecondary">#ffffff</item>-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">#888888</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="*com.android.vending:windowActionBar">false</item>
+        <item name="*com.android.vending:windowNoTitle">true</item>
+    </style>
+    <!--<style name="Theme.InstrumentManager.Phoenix.Light" parent="@*com.android.vending:style/Theme.Common.InstrumentManager.Phoenix.Light" >-->
+        <!--<item name="android:windowBackground">@android:color/background_dark</item>-->
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+    <!--</style>-->
+
+    <!--<style name="Theme.InstrumentManager.Light.Dialog" parent="@*com.android.vending:style/Theme.Common.InstrumentManager.Light.Dialog">-->
+        <!--<item name="android:windowBackground">@android:color/background_dark</item>-->
+        <!--<item name="android:backgroundTint">@android:color/background_dark</item>-->
+    <!--</style>-->
+
+    <style name="LoyaltyDrawerChip.Selected" parent="@*com.android.vending:style/LoyaltyDrawerChip">
+        <item name="android:textAppearance">@*com.android.vending:style/TextAppearanceCaption</item>
+        <item name="*com.android.vending:chipBackgroundColor">@android:color/holo_purple</item>
+    </style>
+
+    <!--<style name="Theme.AppCompat.Light" parent="@*com.android.vending:style/Theme.AppCompat.DayNight" />-->
+    <!--<style name="Theme.AppCompat.DayNight" parent="@*com.android.vending:style/Theme.AppCompat" />-->
+</resources>

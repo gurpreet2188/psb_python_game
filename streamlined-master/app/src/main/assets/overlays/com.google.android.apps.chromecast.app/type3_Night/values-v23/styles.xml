@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.NonTransparentStatusBar" parent="@*com.google.android.apps.chromecast.app:style/AppTheme">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/background_dark</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="*com.google.android.apps.chromecast.app:windowActionBar">false</item>
+        <item name="*com.google.android.apps.chromecast.app:colorPrimaryDark">@android:color/background_dark</item>
+    </style>
+
+    <style name="CardView" parent="@*com.google.android.apps.chromecast.app:style/Base.CardView">
+        <item name="*com.google.android.apps.chromecast.app:cardBackgroundColor">@android:color/holo_purple</item>
+        <item name="android:backgroundTint">@android:color/holo_purple</item>
+    </style>
+
+    <style name="Widget.GoogleMaterial.CardView.Light" parent="@*com.google.android.apps.chromecast.app:style/Widget.GoogleMaterial.CardView" >
+        <item name="android:backgroundTint">@android:color/holo_purple</item>
+    </style>
+
+    <style name="ManageAccountChip" parent="@*com.google.android.apps.chromecast.app:style/Widget.GoogleMaterial.Chip.Assistive">
+        <item name="*com.google.android.apps.chromecast.app:cardBackgroundColor">@android:color/holo_purple</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="*com.google.android.apps.chromecast.app:chipStrokeColor">@android:color/holo_blue_bright</item>
+        <item name="*com.google.android.apps.chromecast.app:chipBackgroundColor">@android:color/background_dark</item>
+    </style>
+
+    <style name="OneGoogle.AccountMenu.DayNight" parent="@*com.google.android.apps.chromecast.app:style/OneGoogle.AccountMenu.Dark" />
+    <style name="OneGoogle.AccountMenu.PolicyFooter.DayNight" parent="@*com.google.android.apps.chromecast.app:style/OneGoogle.AccountMenu.PolicyFooter.Dark" />
+    <style name="OneGoogle.AccountParticle.DayNight" parent="@*com.google.android.apps.chromecast.app:style/OneGoogle.AccountParticle.Dark" />
+    <style name="OneGoogle.AccountParticleDisc.DayNight" parent="@*com.google.android.apps.chromecast.app:style/OneGoogle.AccountParticleDisc.Dark" />
+    <style name="OneGoogle.GoogleMaterialBottomDrawer.DayNight" parent="@*com.google.android.apps.chromecast.app:style/OneGoogle.GoogleMaterialBottomDrawer.Dark" />
+    <style name="Theme.AppCompat.DayNight" parent="@*com.google.android.apps.chromecast.app:style/Theme.AppCompat" />
+    <style name="Theme.GoogleMaterial.DayNight.Bridge" parent="@*com.google.android.apps.chromecast.app:style/Theme.GoogleMaterial.Dark.Bridge" />
+</resources>

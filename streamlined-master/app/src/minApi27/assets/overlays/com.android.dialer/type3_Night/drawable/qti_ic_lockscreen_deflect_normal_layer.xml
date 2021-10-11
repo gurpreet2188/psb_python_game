@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#00000000" />
+            <size android:height="56.0dip" android:width="56.0dip" />
+        </shape>
+    </item>
+    <item>
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="48dp"
+            android:height="48dp"
+            android:viewportWidth="92.7"
+            android:viewportHeight="92.7">
+            <group android:translateX="3" android:translateY="3">
+            <path
+                android:pathData="M28.4,86.9 C33.9,89.3,40,90.7,46.3,90.7 C70.8,90.7,90.6,70.9,90.6,46.4
+S70.8,2,46.3,2 S2,21.8,2,46.3 C2,52.4,3.2,58.3,5.5,63.6" />
+            <path
+                android:strokeColor="@android:color/background_dark"
+                android:strokeWidth="4"
+                android:strokeMiterLimit="10"
+                android:pathData="M21.1,23.9 C21.1,22.3,22.5,21.1,24.1,21.1 L34.2,21.4 C35.8,21.4,37,22.8,37,24.4
+C36.9,28,37.4,31.5,38.3,34.7 C38.6,35.7,38.3,36.8,37.5,37.6 L31,43.7
+C34.9,52,41.4,58.8,49.4,63.2 L55.9,57.1 C56.7,56.3,57.9,56.1,58.9,56.5
+C62.1,57.7,65.6,58.3,69.1,58.4 C70.7,58.4,71.9,59.8,71.9,61.4 L71.6,71.4
+C71.6,73,70.2,74.2,68.6,74.2 C45.4,73.5,26.5,56.8,22.1,35" />
+      </group>  </vector>
+    </item>
+</layer-list>

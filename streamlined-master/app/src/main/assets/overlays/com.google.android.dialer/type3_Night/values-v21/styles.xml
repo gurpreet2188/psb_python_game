@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Dialer.Dark.ThemeBase.NoActionBar" parent="@*com.google.android.dialer:style/Dialer.Dark.ThemeBase">
+        <item name="*com.google.android.dialer:windowActionBar">false</item>
+        <item name="*com.google.android.dialer:windowNoTitle">true</item>
+        <item name="android:statusBarColor">@android:color/holo_blue_light</item>
+        <item name="*com.google.android.dialer:actionOverflowButtonStyle">@*com.google.android.dialer:style/wideActionButton</item>
+    </style>
+
+    <style name="Theme.InCallScreen" parent="@*com.google.android.dialer:style/Dialer.ThemeBase.NoActionBar">
+        <item name="*com.google.android.dialer:colorIcon">@android:color/holo_blue_bright</item>
+        <item name="android:windowBackground">@*com.google.android.dialer:drawable/abc_ic_star_black_48dp</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="*com.google.android.dialer:dialpad_style">@*com.google.android.dialer:style/InCallDialpad</item>
+        <item name="*com.google.android.dialer:dialpad_key_button_touch_tint">#d8ffffff</item>
+    </style>
+
+
+
+    <style name="SearchBarIcon">
+        <item name="android:background">@null</item>
+        <item name="android:layout_width">@*com.google.android.dialer:dimen/search_bar_icon_size</item>
+        <item name="android:layout_height">@*com.google.android.dialer:dimen/search_bar_icon_size</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:tint">#d8ffffff</item>
+    </style>
+
+    <style name="SettingsStyle" parent="@*com.google.android.dialer:style/Dialer.Dark.ThemeBase.NoActionBar">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:colorPrimary">@android:color/holo_blue_light</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_blue_light</item>
+    </style>
+
+ <style name="Dialer.ThemeBase" parent="@*com.google.android.dialer:style/Dialer.Dark.ThemeBase"/>
+
+    <style name="DialerActionBarBaseStyle" parent="@*com.google.android.dialer:style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="*com.google.android.dialer:titleTextStyle">@*com.google.android.dialer:style/Dialer.TextAppearance.Header1</item>
+        <item name="*com.google.android.dialer:subtitleTextStyle">@*com.google.android.dialer:style/Dialer.TextAppearance.Primary2</item>
+        <item name="*com.google.android.dialer:background">@android:color/holo_blue_light</item>
+    </style>
+
+     <style name="Dialer.ThemeBase" parent="@*com.google.android.dialer:style/Dialer.Dark.ThemeBase"/>
+
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:actionBarTheme">@android:style/Theme.Material.Light.DarkActionBar</item>
+        <item name="android:popupTheme">@android:style/Theme.Material</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+    </style>
+
+    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#d8ffffff</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+    </style>
+
+    <style name="PrimaryText">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:maxLines">1</item>
+    </style>
+    <style name="SecondaryText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+</resources>

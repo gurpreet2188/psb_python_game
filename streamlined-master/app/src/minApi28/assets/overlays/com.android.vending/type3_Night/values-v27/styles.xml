@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SudThemeGlifV3.Light" parent="@*com.android.vending:style/SudBaseThemeGlifV3.Light">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <!--<item name="*com.android.vending:sucLightSystemNavBar">?android:windowLightNavigationBar</item>-->
+    </style>
+    <style name="Theme.GoogleMaterial.Light.BottomSheetDialog" parent="@*com.android.vending:style/Base.Theme.GoogleMaterial.Dark.BottomSheetDialog">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:navigationBarDividerColor">@android:color/transparent</item>
+    </style>
+    <style name="Theme.Replay.Light.BottomSheetDialog" parent="@*com.android.vending:style/Base.Theme.Replay.Dark.BottomSheetDialog">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+    <style name="VisReOverride.Light" parent="@*com.android.vending:style/VisReOverride">
+
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="*com.android.vending:bottomSheetDialogTheme">@*com.android.vending:style/Theme.Replay.Light.BottomSheetDialog</item>
+    </style>
+
+    <style name="LeftNavRedesignWhiteTheme" parent="@*com.android.vending:style/Theme.AppCompat">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:textAppearanceMedium">@*com.android.vending:style/DarkerMedium</item>
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:textColorTertiary">#c1ffffff</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="*com.android.vending:colorPrimary">@android:color/background_dark</item>
+        <item name="*com.android.vending:colorPrimaryDark">@android:color/background_dark</item>
+        <item name="*com.android.vending:delegateToSupportLibAlertDialog">true</item>
+    </style>
+</resources>

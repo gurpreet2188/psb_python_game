@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@android:color/background_dark" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@*com.grammarly.android.keyboard:id/not_logged_in" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="16.0dip" android:layout_marginTop="18.199982dip" android:layout_marginRight="16.0dip">
+        <TextView android:textSize="17.0dip" android:textColor="#ffffffff" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="48.049988dip" android:text="@*com.grammarly.android.keyboard:string/youre_not_logged_in" />
+        <View android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <Button android:id="@*com.grammarly.android.keyboard:id/login_button" android:background="@*com.grammarly.android.keyboard:drawable/roundedcorner_white_nopadding" android:layout_width="fill_parent" android:layout_height="44.0dip" android:layout_marginBottom="30.0dip" android:text="@*com.grammarly.android.keyboard:string/loginorsignup" android:textAllCaps="false" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@*com.grammarly.android.keyboard:id/account_details" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip">
+        <TextView android:textSize="15.0dip" android:textColor="@*com.grammarly.android.keyboard:color/grammarly_green" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.199982dip" android:layout_marginBottom="14.029999dip" android:text="@*com.grammarly.android.keyboard:string/personal_info" />
+        <TextView android:textSize="17.0dip" android:textColor="#ffffffff" android:gravity="center_vertical" android:id="@*com.grammarly.android.keyboard:id/users_name" android:layout_width="wrap_content" android:layout_height="48.049988dip" android:text="John Doe" />
+        <TextView android:textSize="17.0dip" android:textColor="#ffffffff" android:gravity="center_vertical" android:id="@*com.grammarly.android.keyboard:id/users_email" android:layout_width="wrap_content" android:layout_height="48.049988dip" />
+        <View android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <Button android:id="@*com.grammarly.android.keyboard:id/logout_button" android:backgroundTint="@null" android:background="@*com.grammarly.android.keyboard:drawable/roundedcorner_white_nopadding" android:layout_width="fill_parent" android:layout_height="44.0dip" android:layout_marginBottom="30.0dip" android:text="@*com.grammarly.android.keyboard:string/logout" android:textAllCaps="false" />
+    </LinearLayout>
+</FrameLayout>

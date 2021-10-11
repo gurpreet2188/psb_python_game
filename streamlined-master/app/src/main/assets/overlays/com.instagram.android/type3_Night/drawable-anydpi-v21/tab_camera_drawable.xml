@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" >
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="20dp"
+            android:height="20dp"
+            android:viewportWidth="100"
+            android:viewportHeight="100">
+
+            <path
+                android:pathData="M48.5,12 C69.2107,12,86,28.7893,86,49.5 C86,70.2107,69.2107,87,48.5,87
+C27.7893,87,11,70.2107,11,49.5 C11,28.7893,27.7893,12,48.5,12 Z" />
+            <group android:pivotX="50" android:pivotY="50">
+                <path
+                    android:strokeColor="#ffffff"
+                    android:strokeLineCap="round"
+                    android:strokeWidth="5"
+                    android:pathData="M50,13 L50,84" />
+            </group>
+            <group android:pivotX="50" android:pivotY="50" android:rotation="90">
+                <path
+                    android:strokeColor="#ffffff"
+                    android:strokeWidth="5"
+                    android:strokeLineCap="round"
+                    android:pathData="M50,13 L50,84" />
+            </group>
+        </vector>
+    </item>
+    <item android:state_selected="false">
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="20dp"
+            android:height="20dp"
+            android:viewportWidth="100"
+            android:viewportHeight="100" android:alpha=".5">
+
+            <path
+                android:pathData="M48.5,12 C69.2107,12,86,28.7893,86,49.5 C86,70.2107,69.2107,87,48.5,87
+C27.7893,87,11,70.2107,11,49.5 C11,28.7893,27.7893,12,48.5,12 Z" />
+            <group android:pivotX="50" android:pivotY="50">
+                <path
+                    android:strokeColor="#ffffff"
+                    android:strokeLineCap="round"
+                    android:strokeWidth="5"
+                    android:pathData="M50,13 L50,84" />
+            </group>
+            <group android:pivotX="50" android:pivotY="50" android:rotation="90">
+                <path
+                    android:strokeColor="#ffffff"
+                    android:strokeWidth="5"
+                    android:strokeLineCap="round"
+                    android:pathData="M50,13 L50,84" />
+            </group>
+        </vector>
+    </item>
+</selector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="dynamicActionBarColors">false</bool>
+    <bool name="dynamicNavigationBarColors">false</bool>
+    <bool name="SplashscreenWindowLightStatusBar">false</bool>
+</resources>

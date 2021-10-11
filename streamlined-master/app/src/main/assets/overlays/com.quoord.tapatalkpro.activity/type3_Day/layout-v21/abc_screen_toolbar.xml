@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.ActionBarOverlayLayout android:id="@*com.quoord.tapatalkpro.activity:id/decor_content_parent" android:fitsSystemWindows="true" android:tint="#1e1e1e" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/com.quoord.tapatalkpro.activity">
+    <include layout="@*com.quoord.tapatalkpro.activity:layout/abc_screen_content_include" />
+    <android.support.v7.widget.ActionBarContainer android:gravity="top" android:id="@*com.quoord.tapatalkpro.activity:id/action_bar_container" android:tint="#1e1e1e" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:touchscreenBlocksFocus="true" >
+        <android.support.v7.widget.Toolbar android:id="@*com.quoord.tapatalkpro.activity:id/action_bar" android:layout_width="fill_parent" android:tint="#1e1e1e" android:layout_height="wrap_content" app:navigationContentDescription="@*com.quoord.tapatalkpro.activity:string/abc_action_bar_up_description"  />
+        <android.support.v7.widget.ActionBarContextView android:theme="?android:actionBarTheme" android:tint="#1e1e1e" android:id="@*com.quoord.tapatalkpro.activity:id/action_context_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content"  />
+    </android.support.v7.widget.ActionBarContainer>
+</android.support.v7.widget.ActionBarOverlayLayout>

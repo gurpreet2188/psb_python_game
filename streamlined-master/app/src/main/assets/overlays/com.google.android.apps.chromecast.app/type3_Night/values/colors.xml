@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app compat -->
+
+
+    <color name="accent_material_dark">@android:color/holo_blue_bright</color>
+    <color name="accent_material_light">@android:color/holo_blue_bright</color>
+
+    <color name="background_floating_material_dark">@android:color/holo_purple</color>
+    <color name="background_floating_material_light">@android:color/holo_purple</color>
+    <color name="background_material_dark">@android:color/background_dark</color>
+    <color name="background_material_light">@android:color/background_dark</color>
+    <color name="tooltip_background_dark">@android:color/holo_purple</color>
+    <color name="tooltip_background_light">@android:color/holo_purple</color>
+    <color name="cardview_dark_background">@android:color/holo_purple</color>
+    <color name="cardview_light_background">@android:color/holo_purple</color>
+    <color name="cardview_shadow_end_color">#00000000</color>
+    <color name="cardview_shadow_start_color">#00000000</color>
+    <!--
+
+        <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
+        <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color> -->
+    <color name="bright_foreground_material_dark">@android:color/white</color>
+    <color name="bright_foreground_material_light">@android:color/black</color>
+
+    <color name="bright_foreground_disabled_material_dark">#ffffff</color>
+    <color name="bright_foreground_disabled_material_light">#ffffff</color>
+
+    <color name="button_material_dark">@android:color/holo_purple</color>
+    <color name="button_material_light">@android:color/holo_purple</color>
+
+    <color name="foreground_material_dark">@android:color/white</color>
+    <color name="foreground_material_light">@android:color/black</color>
+
+    <color name="primary_dark_material_dark">@android:color/holo_blue_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_blue_light</color>
+    <color name="primary_material_dark">@android:color/holo_blue_light</color>
+    <color name="primary_material_light">@android:color/holo_blue_light</color>
+
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#ffffff</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="primary_text_disabled_material_light">#a1ffffff</color>
+
+    <color name="secondary_text_default_material_light">#d8ffffff</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#a1ffffff</color>
+
+    <color name="quantum_black_divider">#00000000</color>
+    <color name="quantum_black_hint_text">#c1ffffff</color>
+    <color name="quantum_black_secondary_text">#d8ffffff</color>
+    <color name="quantum_black_text">#ffffff</color>
+
+    <color name="highlighted_text_material_dark">#6680cbc4</color>
+    <color name="highlighted_text_material_light">#66009688</color>
+
+    <color name="ripple_material_dark">@android:color/holo_blue_bright</color>
+    <color name="ripple_material_light">@android:color/holo_blue_bright</color>
+
+    <color name="switch_thumb_disabled_material_dark">#a1ffffff</color>
+    <color name="switch_thumb_disabled_material_light">#a1ffffff</color>
+    <color name="switch_thumb_normal_material_dark">@android:color/holo_blue_bright</color>
+    <color name="switch_thumb_normal_material_light">@android:color/holo_blue_bright</color>
+
+    <color name="home_background">@android:color/background_dark</color>
+
+    <color name="play_fg_primary">#ffffffff</color>
+    <color name="play_fg_secondary">#d8ffffff</color>
+    <color name="play_fg_tertiary">#c1ffffff</color>
+
+
+    <color name="text_color_primary">#ffffff</color>
+    <color name="google_black">#ff000000</color>
+
+    <color name="cde_white">@android:color/background_dark</color>
+
+
+    <color name="status_bar_color_grey">@android:color/holo_blue_light</color>
+    <color name="status_bar_color_light">@android:color/holo_blue_light</color>
+
+
+    <color name="toolbar_background_color">@android:color/holo_blue_light</color>
+    <color name="toolbar_controls_color">#ffffff</color>
+
+    <color name="quantum_googblue">@android:color/holo_blue_bright</color>
+    <color name="quantum_googblue100">#ffc6dafc</color>
+    <color name="quantum_googblue300">#ff7baaf7</color>
+    <color name="quantum_googblue500">@android:color/holo_blue_bright</color>
+    <color name="quantum_googblue600">@android:color/holo_blue_bright</color>
+    <color name="quantum_googblue800">#ff2a56c6</color>
+
+
+    <color name="card_background">@android:color/holo_purple</color>
+    <color name="card_background_dark">@android:color/holo_purple</color>
+    <color name="card_background_highlight">#11000000</color>
+
+    <color name="card_carousel_card_background">@android:color/holo_purple</color>
+    <color name="card_divider">#00000000</color>
+    <color name="card_divider_dark">#00000000</color>
+    <color name="card_image_highlight">#00000000</color>
+    <color name="card_label_text">#ffffffff</color>
+    <color name="card_label_text_white">#ffffff</color>
+
+
+    <color name="card_ripple_color_darken">#10000000</color>
+    <color name="card_ripple_color_lighten">#10ffffff</color>
+    <color name="card_source_item_dark_background">@android:color/holo_purple</color>
+    <color name="card_source_list_item_icon_background">#11ffffff</color>
+    <color name="card_source_list_item_title_text">#d8ffffff</color>
+
+    <color name="card_splash_item_overlay">#88000000</color>
+    <color name="card_text_action_chip">@android:color/holo_blue_bright</color>
+
+    <color name="card_text_shadow">#00000000</color>
+    <color name="card_text_shadow_dark">#00000000</color>
+
+    <color name="card_translucent_metadata_container">#cc222222</color>
+    <color name="card_translucent_text_container_dark">#cc222222</color>
+    <color name="card_warm_welcome_logo_background">@android:color/holo_purple</color>
+    <color name="card_white_text_normal">#ffffffff</color>
+
+    <color name="card_white_text_secondary">#eeffffff</color>
+    <color name="card_white_text_tertiary">#ddffffff</color>
+    <color name="card_white_text_translucent">#bbffffff</color>
+
+    <color name="bottom_bar_background_color">@android:color/background_dark</color>
+
+    <color name="sendkit_api_default_action_bar_color">@android:color/holo_blue_light</color>
+    <color name="sendkit_ui_autocomplete_background_color">@android:color/background_dark</color>
+    <color name="sendkit_ui_autocomplete_chip_background">@android:color/holo_purple</color>
+    <color name="sendkit_ui_autocomplete_divider_color">#00cccccc</color>
+    <color name="sendkit_ui_autocomplete_highlight_color">#ffffffff</color>
+    <color name="sendkit_ui_autocomplete_hint_color">#c1ffffff</color>
+    <color name="sendkit_ui_autocomplete_light_divider_color">#00eeeeee</color>
+    <color name="sendkit_ui_autocomplete_row_background_color">@android:color/background_dark</color>
+    <color name="sendkit_ui_autocomplete_selected_color">@android:color/holo_blue_bright</color>
+    <color name="sendkit_ui_autocomplete_text_color">#d8ffffff</color>
+    <color name="sendkit_ui_default_background_color">@android:color/background_dark</color>
+    <color name="sendkit_ui_default_primary_color">#ffffff</color>
+    <color name="sendkit_ui_default_secondary_color">#d8ffffff</color>
+    <color name="sendkit_ui_default_selected_primary_color">#ffffff</color>
+    <color name="sendkit_ui_default_selected_secondary_color">#d8ffffff</color>
+    <color name="sendkit_ui_divider_color">#00e2e2e2</color>
+    <color name="sendkit_ui_info_icon_tint">@android:color/holo_blue_bright</color>
+    <color name="sendkit_ui_list_background_color">@android:color/background_dark</color>
+    <color name="sendkit_ui_message_bar_top_border_color">#00eeeeee</color>
+    <color name="sendkit_ui_secondary_divider_color">#00e2e2e2</color>
+    <color name="sendkit_ui_snackbar_text_color">#ffffffff</color>
+
+    <color name="white">@android:color/background_dark</color>
+
+    <color name="transparent_overlay">#00000000</color>
+    <color name="screen_background">@android:color/background_dark</color>
+    <color name="search_view_color">@android:color/holo_blue_light</color>
+    <color name="app_background">@android:color/background_dark</color>
+
+    <color name="title_color">#ffffff</color>
+    <color name="title_text">#ffffff</color>
+
+    <color name="black14">#24ffffff</color>
+    <color name="black30">#4dffffff</color>
+    <color name="black38">#60ffffff</color>
+    <color name="black40">#66ffffff</color>
+    <color name="black54">#8affffff</color>
+    <color name="black87">#deffffff</color>
+
+
+
+    <color name="default_account_details_color">@android:color/white</color>
+
+    <color name="manage_accounts_text_color">#d8ffffff</color>
+
+    <color name="drawer_separator">@android:color/holo_purple</color>
+
+    <color name="google_blue_500">@android:color/holo_blue_bright</color>
+
+    <color name="chip_text_color">#ffffff</color>
+<!--    <color name="google_grey400">#c1ffffff</color>-->
+<!--    <color name="google_grey600">#c1ffffff</color>-->
+<!--    <color name="google_grey700">#d1ffffff</color>-->
+<!--    <color name="google_grey800">#d8ffffff</color>-->
+<!--    <color name="google_grey900">#ffffffff</color>-->
+<!--    <color name="google_grey_400">#c1ffffff</color>-->
+<!--    <color name="google_grey_600">#c1ffffff</color>-->
+    <color name="google_grey_700">@android:color/holo_purple</color>
+    <color name="google_grey_800">@android:color/holo_purple</color>
+    <color name="google_grey_900">@android:color/background_dark</color>
+
+    <color name="google_white">@android:color/background_dark</color>
+    <color name="home_tab_action_coin_border">#00000000</color>
+
+    <color name="unselected_tab">#c1ffffff</color>
+    <color name="disable_list_overlay_color">#cc000000</color>
+    <color name="partial_transparent_white">#cc000000</color>
+    <color name="home_tab_action_coin_dropdown_scrim">#de000000</color>
+    <color name="neutral_100">#81777777</color>
+    <color name="neutral_200">#91777777</color>
+    <color name="neutral_300">#a1777777</color>
+    <color name="neutral_50">#ff777777</color>
+    <color name="neutral_500">#b1777777</color>
+    <color name="neutral_600">#c1777777</color>
+    <color name="neutral_700">#888888</color>
+    <color name="neutral_800">#999999</color>
+    <color name="neutral_900">#ffffffff</color>
+
+    <color name="account_menu_divider_color">#00000000</color>
+    <color name="google_default_color_hairline">#00000000</color>
+</resources>

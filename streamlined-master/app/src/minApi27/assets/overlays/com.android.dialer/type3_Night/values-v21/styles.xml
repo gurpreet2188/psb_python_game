@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowNoDisplay">false</item>
+    </style>
+
+    <style name="Platform.V21.AppCompat.Light" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@android:color/background_dark</item>
+        <item name="android:textColorLink">?android:colorAccent</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+        <item name="android:textColorLinkInverse">?android:colorAccent</item>
+    </style>
+
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@android:style/Widget.Material.PopupMenu" >
+        <item name="android:backgroundTint">@android:color/background_dark</item>
+    </style>
+
+    <style name="Base.Widget.AppCompat.ListPopupWindow" parent="@android:style/Widget.Material.ListPopupWindow" >
+        <item name="android:backgroundTint">@android:color/background_dark</item>
+    </style>
+
+    <!-- thanks jimmy and braden -->
+    <style name="ListViewStyle" parent="@android:style/Widget.Material.ListView">
+        <item name="android:overScrollMode">always</item>
+        <item name="android:background">@*android:color/background_dark</item>
+    </style>
+
+    <style name="AfterCallDialogStyle" parent="@*com.android.dialer:style/Theme.AppCompat.Light.Dialog.MinWidth">
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+    </style>
+
+    <style name="AfterCallNotificationTheme" parent="@*com.android.dialer:style/Theme.AppCompat.Light.Dialog.MinWidth">
+        <item name="android:alertDialogTheme">@*com.android.dialer:style/AfterCallDialogStyle</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+    </style>
+
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.Material">
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+        <item name="android:actionBarTheme">@android:style/Theme.Material.Light.DarkActionBar</item>
+        <item name="android:popupTheme">@android:style/Theme.Material</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <style name="DialtactsActionBarOverflow" parent="@android:style/Widget.Material.ActionButton.Overflow">
+        <item name="android:colorBackgroundFloating">@android:color/holo_purple</item>
+        <item name="android:background">@android:color/holo_purple</item>
+        <item name="android:popupMenuStyle">@android:style/ThemeOverlay.Material</item>
+        <item name="android:popupBackground">@android:color/holo_purple</item>
+    </style>
+
+
+      <style name="InCallPopupMenuStyle" parent="@*android:style/Theme.Material">
+        <item name="android:textColorPrimary">#ffffff</item>
+        </style>
+
+    <style name="Theme.Incall.DialogHolder" parent="@*com.android.dialer:style/Theme.AppCompat.Translucent">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowActivityTransitions">false</item>
+        <item name="android:colorControlActivated">@android:color/holo_blue_bright</item>
+        <item name="android:colorButtonNormal">@android:color/holo_blue_bright</item>
+        <item name="android:colorPrimary">@android:color/holo_blue_bright</item>
+        <item name="android:colorPrimaryDark">@android:color/holo_blue_bright</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+    </style>
+
+    <style name="Theme.CallSubjectDialogTheme" parent="@*android:style/Theme.Material.Dialog">
+        <item name="android:windowBackground">@*android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:windowElevation">0.0dip</item>
+    </style>
+
+
+    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:backgroundTint">@android:color/background_dark</item>
+        <item name="android:colorAccent">@android:color/holo_blue_bright</item>
+    </style>
+
+
+    <style name="CallDetailsActionItemStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+        <item name="android:clickable">true</item>
+        <item name="android:foreground">?android:selectableItemBackground</item>
+        <item name="android:drawablePadding">28.0dip</item>
+        <item name="android:paddingStart">28.0dip</item>
+        <item name="android:paddingEnd">28.0dip</item>
+    </style>
+
+    <style name="SecondaryText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#c1ffffff</item>
+    </style>
+
+    <style name="ECText">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#d8ffffff</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="LocationAddressTextStyle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="LocationAddressTitleTextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="LocationLatLongTextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#c1ffffff</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="LocationLoadingTextStyle">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="PrimaryText">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:maxLines">1</item>
+    </style>
+
+</resources>

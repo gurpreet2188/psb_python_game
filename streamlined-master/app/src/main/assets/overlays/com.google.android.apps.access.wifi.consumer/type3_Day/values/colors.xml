@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_dark_material_light">@android:color/holo_red_light</color>
+    <color name="primary_material_dark">@android:color/holo_red_light</color>
+    <color name="primary_material_light">@android:color/holo_red_light</color>
+    <color name="jetstream_toolbar_foreground">#1e1e1e</color>
+    <color name="jetstream_darkblue2">@android:color/holo_red_light</color>
+    <color name="jetstream_status_bar">@android:color/holo_red_light</color>
+    <color name="jetstream_toolbar_background">@android:color/holo_red_light</color>
+    <color name="quantum_white_text">#ff1e1e1e</color>
+    <color name="jetstream_edit_action_bar">@android:color/holo_red_light</color>
+    <color name="primary_text_default_material_dark">#ff1e1e1e</color>
+    <color name="ripple_material_dark">@*android:color/accent_material_light</color>
+    <color name="ripple_material_light">@*android:color/accent_material_light</color>
+    <color name="switch_thumb_normal_material_dark">@*android:color/accent_material_light</color>
+    <color name="switch_thumb_normal_material_light">@*android:color/accent_material_light</color>
+    <color name="jetstream_setup_background">@*android:color/accent_material_light</color>
+    <color name="jetstream_family_wifi_setup_background">@*android:color/accent_material_light</color>
+    <color name="jetstream_network_map_blue">@*android:color/accent_material_light</color>
+</resources>

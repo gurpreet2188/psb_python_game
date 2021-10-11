@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:drawable="@*com.google.android.apps.tachyon:color/background_material_dark" />
+
+<item android:gravity="center">
+    <vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="180dp"
+        android:height="180dp"
+        android:viewportWidth="100"
+        android:viewportHeight="100">
+        <path
+            android:strokeColor="?android:colorAccent"
+            android:strokeWidth="5"
+            android:pathData="M83.599,21.777c0,-2.967 -2.409,-5.376 -5.376,-5.376l-28.223,0c-18.544,0 -33.599,15.055 -33.599,33.599c0,18.544 15.055,33.599 33.599,33.599c18.544,0 33.599,-15.055 33.599,-33.599l0,-28.223Z" />
+    </vector>
+</item>
+</layer-list>

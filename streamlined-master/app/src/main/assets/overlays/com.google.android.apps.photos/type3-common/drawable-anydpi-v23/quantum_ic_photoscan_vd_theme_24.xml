@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100" android:tint="?android:textColorPrimary">
+
+    <path
+        android:pathData="M 50 0.5 C 77.3380951166 0.5 99.5 22.6619048834 99.5 50 C 99.5 77.3380951166 77.3380951166 99.5 50 99.5 C 22.6619048834 99.5 0.5 77.3380951166 0.5 50 C 0.5 22.6619048834 22.6619048834 0.5 50 0.5 Z" />
+    <path
+        android:strokeColor="#000"
+        android:strokeWidth="5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M50,18.5l-16.5,0c-6.071,0 -11,4.929 -11,11l0,41c0,6.071 4.929,11 11,11l33,0c6.071,0 11,-4.929 11,-11l0,-20.5" />
+    <path
+        android:strokeColor="#000"
+        android:strokeWidth="5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M22.851,73.265l21.149,-20.265" />
+    <path
+        android:strokeColor="#000"
+        android:strokeWidth="5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M54,81.5l-10,-28.5" />
+    <path
+        android:strokeColor="#000"
+        android:strokeWidth="5"
+        android:pathData="M50,67.25l10,-7.25" />
+    <path
+        android:strokeColor="#000"
+        android:strokeWidth="5"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M76.558,74.957l-16.558,-14.957" />
+    <path
+        android:fillColor="#000"
+        android:strokeColor="#000"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:fillType="evenOdd"
+        android:pathData="M70.727,14.5c6.498,0 11.773,5.275 11.773,11.773c0,6.498 -5.275,11.774 -11.773,11.774c-6.498,0 -11.774,-5.276 -11.774,-11.774c0,-6.498 5.276,-11.773 11.774,-11.773Zm0,6.723c2.787,0 5.05,2.263 5.05,5.05c0,2.788 -2.263,5.05 -5.05,5.05c-2.788,0 -5.05,-2.262 -5.05,-5.05c0,-2.787 2.262,-5.05 5.05,-5.05Z" />
+</vector>

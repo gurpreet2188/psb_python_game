@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Main" parent="@*com.twitter.android:style/SharedMainTheme">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="*com.twitter.android:colorPrimaryDark">#00000000</item>
+        <item name="android:navigationBarColor">@android:color/background_dark</item>
+    </style>
+</resources>
